@@ -1,0 +1,9 @@
+[talks_newest]
+title = "TED Talks 한국어"
+url = "https://www.ted.com/talks?sort=newest&language=ko"
+entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='col']"
+titleSelector = "h4[class='f-w:700 h9 m5']"
+linkSelector = "h4[class='f-w:700 h9 m5'] a"
+contentSelector = "h4.h12.talk-link__speaker"
+waitUntil = "networkidle"
+onFail = "stale"
