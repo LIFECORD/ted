@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-12-30T17:48:39.516Z</updated>
+    <updated>2021-12-31T05:40:28.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[협상에서 원하는 것을 얻는 3가지 방법]]></title>
+        <id>https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko</id>
+        <link href="https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko"/>
+        <updated>2021-12-13T18:18:44.628Z</updated>
+        <content type="html"><![CDATA[Ruchi Sinha]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단 한 쪽만을 구할 수 있습니다 - 어느 쪽을 선택하시겠습니까? -덕 멕케이( Doug Mackay)]]></title>
         <id>https://www.ted.com/talks/doug_mackay_you_can_only_save_one_who_do_you_choose?language=ko</id>
@@ -20,11 +27,25 @@
         <content type="html"><![CDATA[Matt Walker]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족 재결합의 필요성 - 다시 온전한 가족으로 만들기]]></title>
+        <id>https://www.ted.com/talks/elizabeth_zion_the_need_for_family_reunification_to_make_families_whole_again?language=ko</id>
+        <link href="https://www.ted.com/talks/elizabeth_zion_the_need_for_family_reunification_to_make_families_whole_again?language=ko"/>
+        <updated>2021-12-31T05:40:27.967Z</updated>
+        <content type="html"><![CDATA[Elizabeth Zion]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[교육은 모든 아이들의 기본적인 권리입니다]]></title>
         <id>https://www.ted.com/talks/makhtoum_abdalla_education_is_a_fundamental_right_for_every_child?language=ko</id>
         <link href="https://www.ted.com/talks/makhtoum_abdalla_education_is_a_fundamental_right_for_every_child?language=ko"/>
         <updated>2021-12-21T17:48:52.271Z</updated>
         <content type="html"><![CDATA[Makhtoum Abdalla]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삶을 바꾸는 신체 보조 기술의 힘]]></title>
+        <id>https://www.ted.com/talks/jane_velkovski_the_life_changing_power_of_assistive_technologies?language=ko</id>
+        <link href="https://www.ted.com/talks/jane_velkovski_the_life_changing_power_of_assistive_technologies?language=ko"/>
+        <updated>2021-12-31T05:40:27.974Z</updated>
+        <content type="html"><![CDATA[Jane Velkovski]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TED Salon: 다시 상상하기 - 피치 리브(Peachy Liv)]]></title>
@@ -55,6 +76,13 @@
         <content type="html"><![CDATA[Matt Walker]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[청바지의 일생 - 마다비 벵카티산(Madhavi Venkatesan)]]></title>
+        <id>https://www.ted.com/talks/madhavi_venkatesan_the_life_cycle_of_a_pair_of_jeans?language=ko</id>
+        <link href="https://www.ted.com/talks/madhavi_venkatesan_the_life_cycle_of_a_pair_of_jeans?language=ko"/>
+        <updated>2021-12-31T05:40:27.979Z</updated>
+        <content type="html"><![CDATA[Madhavi Venkatesan]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일기 예보는 얼마나 정확할까요?]]></title>
         <id>https://www.ted.com/talks/mona_chalabi_how_accurate_is_the_weather_forecast?language=ko</id>
         <link href="https://www.ted.com/talks/mona_chalabi_how_accurate_is_the_weather_forecast?language=ko"/>
@@ -83,13 +111,6 @@
         <content type="html"><![CDATA[Mona Chalabi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[협상에서 원하는 것을 얻는 3가지 방법]]></title>
-        <id>https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko</id>
-        <link href="https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko"/>
-        <updated>2021-12-13T18:18:44.628Z</updated>
-        <content type="html"><![CDATA[Ruchi Sinha]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 수면이 더 나은 성생활을 의미하는 이유]]></title>
         <id>https://www.ted.com/talks/matt_walker_why_better_sleep_means_a_better_sex_life?language=ko</id>
         <link href="https://www.ted.com/talks/matt_walker_why_better_sleep_means_a_better_sex_life?language=ko"/>
@@ -102,6 +123,13 @@
         <link href="https://www.ted.com/talks/alayna_vaughan_why_do_some_people_snore_so_loudly?language=ko"/>
         <updated>2021-12-13T18:18:44.631Z</updated>
         <content type="html"><![CDATA[Alayna Vaughan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메뚜기 떼들을 멈출 방법은 없을까요? - 제프리 A. 록우드(Jeffrey A. Lockwood)]]></title>
+        <id>https://www.ted.com/talks/jeffrey_a_lockwood_are_locust_plagues_unstoppable?language=ko</id>
+        <link href="https://www.ted.com/talks/jeffrey_a_lockwood_are_locust_plagues_unstoppable?language=ko"/>
+        <updated>2021-12-31T05:40:27.993Z</updated>
+        <content type="html"><![CDATA[Jeffrey A. Lockwood]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아기들에게서 알게된 비디오 게임을 더 잘하는 방법 - 브라이언 크리스티안 (Brian Christian)]]></title>
@@ -228,33 +256,5 @@
         <link href="https://www.ted.com/talks/martin_hilpert_what_makes_a_language_a_language?language=ko"/>
         <updated>2021-12-13T18:18:44.660Z</updated>
         <content type="html"><![CDATA[Martin Hilpert]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구의 생물 다양성을 복원시키는 새로운 방법 - 공중 지원 프로젝트]]></title>
-        <id>https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko</id>
-        <link href="https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko"/>
-        <updated>2021-12-13T18:18:44.669Z</updated>
-        <content type="html"><![CDATA[Susan Graham]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSG는 무엇이며, 정말 우리 몸에 안 좋을까요? - 사라 E. 트레이시(Sarah E. Tracy)]]></title>
-        <id>https://www.ted.com/talks/sarah_e_tracy_what_is_msg_and_is_it_actually_bad_for_you?language=ko</id>
-        <link href="https://www.ted.com/talks/sarah_e_tracy_what_is_msg_and_is_it_actually_bad_for_you?language=ko"/>
-        <updated>2021-12-13T18:18:44.680Z</updated>
-        <content type="html"><![CDATA[Sarah E. Tracy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 것은 DNA로 덮여 있나요? (그리고 우리는 이 것을 가지고 무엇을 할 수 있나요?) - 헬렌 몰론 & 안나 파파도풀로스]]></title>
-        <id>https://www.ted.com/talks/helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything?language=ko</id>
-        <link href="https://www.ted.com/talks/helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything?language=ko"/>
-        <updated>2021-12-13T18:18:44.684Z</updated>
-        <content type="html"><![CDATA[Hélène Morlon and Anna Papadopoulou]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 바이러스 백신을 단기간에 만들 수 있었던 비결 - 케이틀린 새들러, 엘리자베스 웨인(Kaitlyn Sadtler and Elizabeth Wayne)]]></title>
-        <id>https://www.ted.com/talks/kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly?language=ko</id>
-        <link href="https://www.ted.com/talks/kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly?language=ko"/>
-        <updated>2021-12-13T18:18:44.685Z</updated>
-        <content type="html"><![CDATA[Kaitlyn Sadtler and Elizabeth Wayne]]></content>
     </entry>
 </feed>
