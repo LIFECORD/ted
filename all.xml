@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-04T05:40:37.580Z</updated>
+    <updated>2022-01-04T17:49:06.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[협상에서 원하는 것을 얻는 3가지 방법 (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko</id>
-        <link href="https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko"/>
-        <updated>2021-12-13T18:18:44.628Z</updated>
-        <content type="html"><![CDATA[Ruchi Sinha]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[단 한 쪽만을 구할 수 있습니다 - 어느 쪽을 선택하시겠습니까? -덕 멕케이( Doug Mackay) (TED Talks 한국어)]]></title>
         <id>https://www.ted.com/talks/doug_mackay_you_can_only_save_one_who_do_you_choose?language=ko</id>
@@ -115,6 +108,13 @@
         <link href="https://www.ted.com/talks/mona_chalabi_which_box_do_i_check?language=ko"/>
         <updated>2021-12-13T18:18:44.628Z</updated>
         <content type="html"><![CDATA[Mona Chalabi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[협상에서 원하는 것을 얻는 3가지 방법 (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko</id>
+        <link href="https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko"/>
+        <updated>2021-12-13T18:18:44.628Z</updated>
+        <content type="html"><![CDATA[Ruchi Sinha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 수면이 더 나은 성생활을 의미하는 이유 (TED Talks 한국어)]]></title>
