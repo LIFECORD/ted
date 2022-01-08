@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T17:49:52.636Z</updated>
+    <updated>2022-01-08T05:41:04.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[로키의 괴물같은 아이들 (TED Talks 한국어)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.ted.com/talks/matt_walker_how_to_deal_with_your_insomnia_and_finally_get_to_sleep?language=ko"/>
         <updated>2021-12-21T17:48:52.271Z</updated>
         <content type="html"><![CDATA[Matt Walker]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자신의 아이들을 죽인 악당을 키우시겠습니까? - 스티브 로스스타인(Steve Rothstein) (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/steve_rothstein_would_you_raise_the_bird_that_murdered_your_children?language=ko</id>
+        <link href="https://www.ted.com/talks/steve_rothstein_would_you_raise_the_bird_that_murdered_your_children?language=ko"/>
+        <updated>2022-01-08T05:41:03.363Z</updated>
+        <content type="html"><![CDATA[Steve Rothstein]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족 재결합의 필요성 - 다시 온전한 가족으로 만들기 (TED Talks 한국어)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/jamie_c_beard_the_untapped_energy_source_that_could_power_the_planet?language=ko"/>
         <updated>2021-12-13T18:18:44.655Z</updated>
         <content type="html"><![CDATA[Jamie C. Beard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분에게 숨겨진 쌍둥이가 있을 수 있습니다 - 케일라 맨델 쉬츠 (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/kayla_mandel_sheets_you_could_have_a_secret_twin_but_not_the_way_you_think?language=ko</id>
-        <link href="https://www.ted.com/talks/kayla_mandel_sheets_you_could_have_a_secret_twin_but_not_the_way_you_think?language=ko"/>
-        <updated>2021-12-13T18:18:44.657Z</updated>
-        <content type="html"><![CDATA[Kayla Mandel Sheets]]></content>
     </entry>
 </feed>
