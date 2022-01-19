@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-18T17:51:02.005Z</updated>
+    <updated>2022-01-19T05:38:33.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[왜 훌륭한 리더들은 유머를 중요하게 여길까요? (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously?language=ko</id>
+        <link href="https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously?language=ko"/>
+        <updated>2022-01-19T05:38:33.042Z</updated>
+        <content type="html"><![CDATA[Jennifer Aaker and Naomi Bagdonas]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로키의 괴물같은 아이들 (TED Talks 한국어)]]></title>
         <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_loki_s_monstrous_children?language=ko</id>
@@ -194,6 +201,13 @@
         <content type="html"><![CDATA[Daniel Sperling and Gil Tal]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미래 업무를 위해 리더들이 알아야 할 조언 세 가지 (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/debbie_lovich_3_tips_for_leaders_to_get_the_future_of_work_right?language=ko</id>
+        <link href="https://www.ted.com/talks/debbie_lovich_3_tips_for_leaders_to_get_the_future_of_work_right?language=ko"/>
+        <updated>2022-01-19T05:38:33.084Z</updated>
+        <content type="html"><![CDATA[Debbie Lovich]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어째서 2,500년 된 이 난파선은 이렇게 보존이 잘 되었을까요? - 헬렌 파(Helen Farr) & 존 아담스(Jon Adams) (TED Talks 한국어)]]></title>
         <id>https://www.ted.com/talks/helen_farr_and_jon_adams_why_is_this_2_500_year_old_shipwreck_so_well_preserved?language=ko</id>
         <link href="https://www.ted.com/talks/helen_farr_and_jon_adams_why_is_this_2_500_year_old_shipwreck_so_well_preserved?language=ko"/>
@@ -241,19 +255,5 @@
         <link href="https://www.ted.com/talks/devin_shuman_the_genes_you_don_t_get_from_your_parents_but_can_t_live_without?language=ko"/>
         <updated>2021-12-13T18:18:44.647Z</updated>
         <content type="html"><![CDATA[Devin Shuman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT는 어떻게 미래의 인터넷을 만들까요 (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/kayvon_tehranian_how_nfts_are_building_the_internet_of_the_future?language=ko</id>
-        <link href="https://www.ted.com/talks/kayvon_tehranian_how_nfts_are_building_the_internet_of_the_future?language=ko"/>
-        <updated>2021-12-13T18:18:44.647Z</updated>
-        <content type="html"><![CDATA[Kayvon Tehranian]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko</id>
-        <link href="https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko"/>
-        <updated>2021-12-13T18:18:44.647Z</updated>
-        <content type="html"><![CDATA[Alex Rosenthal]]></content>
     </entry>
 </feed>
