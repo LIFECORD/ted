@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-02T05:38:41.436Z</updated>
+    <updated>2022-02-02T17:41:01.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[교활한 거미 아난시 이야기 - 에밀리 조벨 마샬(Emily Zobel Marshall) (TED Talks 한국어)]]></title>
@@ -24,6 +24,20 @@
         <link href="https://www.ted.com/talks/marie_brodsky_can_you_solve_the_birthday_cake_riddle?language=ko"/>
         <updated>2022-01-26T05:38:58.944Z</updated>
         <content type="html"><![CDATA[Marie Brodsky]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양 신의 아들의 비극적인 신화 이야기 - 이솔트 길레스피 (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/iseult_gillespie_the_tragic_myth_of_the_sun_god_s_son?language=ko</id>
+        <link href="https://www.ted.com/talks/iseult_gillespie_the_tragic_myth_of_the_sun_god_s_son?language=ko"/>
+        <updated>2022-02-02T17:41:00.684Z</updated>
+        <content type="html"><![CDATA[Iseult Gillespie]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 고양이의 눈동자는 길쭉할까? - 엠마 브라이스 (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/emma_bryce_why_do_cats_have_vertical_pupils?language=ko</id>
+        <link href="https://www.ted.com/talks/emma_bryce_why_do_cats_have_vertical_pupils?language=ko"/>
+        <updated>2022-02-02T17:41:00.691Z</updated>
+        <content type="html"><![CDATA[Emma Bryce]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 훌륭한 리더들은 유머를 중요하게 여길까요? (TED Talks 한국어)]]></title>
@@ -241,19 +255,5 @@
         <link href="https://www.ted.com/talks/julissa_prado_3_rules_to_help_you_build_a_successful_business?language=ko"/>
         <updated>2021-12-13T18:18:44.637Z</updated>
         <content type="html"><![CDATA[Julissa Prado]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계를 두 번 변화시킨 자동차 - 다니엘 스펄링 & 길 탈(Daniel Sperling and Gil Tal) (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/daniel_sperling_and_gil_tal_the_surprisingly_long_history_of_electric_cars?language=ko</id>
-        <link href="https://www.ted.com/talks/daniel_sperling_and_gil_tal_the_surprisingly_long_history_of_electric_cars?language=ko"/>
-        <updated>2021-12-13T18:18:44.637Z</updated>
-        <content type="html"><![CDATA[Daniel Sperling and Gil Tal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래 업무를 위해 리더들이 알아야 할 조언 세 가지 (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/debbie_lovich_3_tips_for_leaders_to_get_the_future_of_work_right?language=ko</id>
-        <link href="https://www.ted.com/talks/debbie_lovich_3_tips_for_leaders_to_get_the_future_of_work_right?language=ko"/>
-        <updated>2022-01-19T05:38:33.084Z</updated>
-        <content type="html"><![CDATA[Debbie Lovich]]></content>
     </entry>
 </feed>
