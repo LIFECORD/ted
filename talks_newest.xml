@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-02-11T17:39:37.090Z</updated>
+    <updated>2022-02-12T05:38:57.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제트 팩은 어떻게 작동할까요? 그리고 왜 모두가 쓰고 있지 않을까요? - 리처드 브라우닝과 데비 브라우닝]]></title>
+        <id>https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko</id>
+        <link href="https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko"/>
+        <updated>2022-02-12T05:38:56.595Z</updated>
+        <content type="html"><![CDATA[Richard Browning]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 국가를 분열시킨 오류의 해결책을 아시나요? - 엘리자베스 콕스]]></title>
         <id>https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/mona_chalabi_how_did_we_get_fertility_so_wrong?language=ko"/>
         <updated>2022-02-06T17:40:11.765Z</updated>
         <content type="html"><![CDATA[Mona Chalabi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메뚜기 떼들을 멈출 방법은 없을까요? - 제프리 A. 록우드(Jeffrey A. Lockwood)]]></title>
-        <id>https://www.ted.com/talks/jeffrey_a_lockwood_are_locust_plagues_unstoppable?language=ko</id>
-        <link href="https://www.ted.com/talks/jeffrey_a_lockwood_are_locust_plagues_unstoppable?language=ko"/>
-        <updated>2021-12-31T05:40:27.993Z</updated>
-        <content type="html"><![CDATA[Jeffrey A. Lockwood]]></content>
     </entry>
 </feed>
