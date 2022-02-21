@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-02-21T05:38:44.271Z</updated>
+    <updated>2022-02-21T17:40:55.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나르키소스와 에코의 신화 - 이솔트 길레스피]]></title>
+        <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_narcissus_and_echo?language=ko</id>
+        <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_narcissus_and_echo?language=ko"/>
+        <updated>2022-02-21T17:40:55.204Z</updated>
+        <content type="html"><![CDATA[Iseult Gillespie]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제트 팩은 어떻게 작동할까요? 그리고 왜 모두가 쓰고 있지 않을까요? - 리처드 브라우닝과 데비 브라우닝]]></title>
         <id>https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko</id>
@@ -95,6 +102,13 @@
         <link href="https://www.ted.com/talks/halla_tomasdottir_use_your_voice_vote_and_wallet_for_climate_action?language=ko"/>
         <updated>2022-01-20T05:38:29.683Z</updated>
         <content type="html"><![CDATA[Halla Tómasdóttir]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시모어 산의 어두운 역사 - 네드 블랙호크 & 제프리 D. 민스(Ned Blackhawk and Jeffrey D. Means)]]></title>
+        <id>https://www.ted.com/talks/ned_blackhawk_and_jeffrey_d_means_the_dark_history_of_mount_rushmore?language=ko</id>
+        <link href="https://www.ted.com/talks/ned_blackhawk_and_jeffrey_d_means_the_dark_history_of_mount_rushmore?language=ko"/>
+        <updated>2022-02-21T17:40:55.242Z</updated>
+        <content type="html"><![CDATA[Ned Blackhawk and Jeffrey D. Means]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[젊은이들의 정신 건강을 돕는 새로운 방법]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/mona_chalabi_which_box_do_i_check?language=ko"/>
         <updated>2021-12-13T18:18:44.628Z</updated>
         <content type="html"><![CDATA[Mona Chalabi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[협상에서 원하는 것을 얻는 3가지 방법]]></title>
-        <id>https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko</id>
-        <link href="https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?language=ko"/>
-        <updated>2021-12-13T18:18:44.628Z</updated>
-        <content type="html"><![CDATA[Ruchi Sinha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계의 탄소 배출량 추적하기 — 인공위성과 인공지능을 활용하여]]></title>
-        <id>https://www.ted.com/talks/gavin_mccormick_tracking_the_whole_world_s_carbon_emissions_with_satellites_and_ai?language=ko</id>
-        <link href="https://www.ted.com/talks/gavin_mccormick_tracking_the_whole_world_s_carbon_emissions_with_satellites_and_ai?language=ko"/>
-        <updated>2022-01-29T05:38:28.285Z</updated>
-        <content type="html"><![CDATA[Gavin McCormick]]></content>
     </entry>
 </feed>
