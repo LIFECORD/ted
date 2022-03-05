@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-03-05T05:37:52.260Z</updated>
+    <updated>2022-03-05T17:38:05.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -41,11 +41,25 @@
         <content type="html"><![CDATA[Yana Buhrer Tavanier]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전자 제품이 기후에 미치는 영향을 줄이는 법]]></title>
+        <id>https://www.ted.com/talks/tim_dunn_how_we_re_reducing_the_climate_impact_of_electronics?language=ko</id>
+        <link href="https://www.ted.com/talks/tim_dunn_how_we_re_reducing_the_climate_impact_of_electronics?language=ko"/>
+        <updated>2022-03-05T17:38:04.462Z</updated>
+        <content type="html"><![CDATA[Tim Dunn]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한 국가를 분열시킨 오류의 해결책을 아시나요? - 엘리자베스 콕스]]></title>
         <id>https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=ko</id>
         <link href="https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=ko"/>
         <updated>2022-02-10T17:39:08.228Z</updated>
         <content type="html"><![CDATA[Elizabeth Cox]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건물을 탈탄소화하는 똑똑한 해결책]]></title>
+        <id>https://www.ted.com/talks/katie_mcginty_smart_solutions_to_decarbonize_buildings?language=ko</id>
+        <link href="https://www.ted.com/talks/katie_mcginty_smart_solutions_to_decarbonize_buildings?language=ko"/>
+        <updated>2022-03-05T17:38:04.469Z</updated>
+        <content type="html"><![CDATA[Katie McGinty]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[교활한 거미 아난시 이야기 - 에밀리 조벨 마샬(Emily Zobel Marshall)]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/mona_chalabi_how_accurate_is_the_weather_forecast?language=ko"/>
         <updated>2021-12-13T18:18:44.619Z</updated>
         <content type="html"><![CDATA[Mona Chalabi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시력 보존의 과학]]></title>
-        <id>https://www.ted.com/talks/joshua_chu_tan_the_science_of_preserving_sight?language=ko</id>
-        <link href="https://www.ted.com/talks/joshua_chu_tan_the_science_of_preserving_sight?language=ko"/>
-        <updated>2022-02-10T17:39:08.277Z</updated>
-        <content type="html"><![CDATA[Joshua Chu-Tan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자율주행 택시 시대가 다가오고 있습니다]]></title>
-        <id>https://www.ted.com/talks/aicha_evans_your_self_driving_robotaxi_is_almost_here?language=ko</id>
-        <link href="https://www.ted.com/talks/aicha_evans_your_self_driving_robotaxi_is_almost_here?language=ko"/>
-        <updated>2022-02-17T17:40:39.259Z</updated>
-        <content type="html"><![CDATA[Aicha Evans]]></content>
     </entry>
 </feed>
