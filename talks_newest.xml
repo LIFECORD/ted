@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-03-11T17:40:37.532Z</updated>
+    <updated>2022-03-12T05:39:40.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난민이 된다는 것은 무슨 뜻일까요? -베네데타 버티, 에브리앙 보그만(Benedetta Berti and Evelien Borgman)]]></title>
+        <id>https://www.ted.com/talks/benedetta_berti_and_evelien_borgman_what_does_it_mean_to_be_a_refugee_mar_2018?language=ko</id>
+        <link href="https://www.ted.com/talks/benedetta_berti_and_evelien_borgman_what_does_it_mean_to_be_a_refugee_mar_2018?language=ko"/>
+        <updated>2022-03-12T05:39:38.718Z</updated>
+        <content type="html"><![CDATA[Benedetta Berti and Evelien Borgman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홀로코스트에 영향을 준 움직임 - 알렉산드라 민나 스턴과 나탈리 리라]]></title>
         <id>https://www.ted.com/talks/alexandra_minna_stern_and_natalie_lira_the_movement_that_inspired_the_holocaust?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/madhavi_venkatesan_the_life_cycle_of_a_pair_of_jeans?language=ko"/>
         <updated>2021-12-31T05:40:27.979Z</updated>
         <content type="html"><![CDATA[Madhavi Venkatesan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈꾸기의 놀라운 효과]]></title>
-        <id>https://www.ted.com/talks/matt_walker_the_surprising_health_benefits_of_dreaming?language=ko</id>
-        <link href="https://www.ted.com/talks/matt_walker_the_surprising_health_benefits_of_dreaming?language=ko"/>
-        <updated>2022-01-11T05:41:10.013Z</updated>
-        <content type="html"><![CDATA[Matt Walker]]></content>
     </entry>
 </feed>
