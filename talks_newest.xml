@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-03-19T17:39:43.461Z</updated>
+    <updated>2022-03-20T05:38:31.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[Jennifer Aaker and Naomi Bagdonas]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[석유 가스 산업의 현실적인 탈탄소 방법]]></title>
+        <id>https://www.ted.com/talks/bjorn_otto_sverdrup_how_to_realistically_decarbonize_the_oil_and_gas_industry?language=ko</id>
+        <link href="https://www.ted.com/talks/bjorn_otto_sverdrup_how_to_realistically_decarbonize_the_oil_and_gas_industry?language=ko"/>
+        <updated>2022-03-20T05:38:30.551Z</updated>
+        <content type="html"><![CDATA[Bjørn Otto Sverdrup]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[로키의 괴물같은 아이들]]></title>
         <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_loki_s_monstrous_children?language=ko</id>
         <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_loki_s_monstrous_children?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/matt_walker_how_sleep_affects_what_and_how_much_you_eat?language=ko"/>
         <updated>2021-12-18T05:39:35.463Z</updated>
         <content type="html"><![CDATA[Matt Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주여행을 하고 싶은데, 나는 것이 싫다고요? 승강기를 타세요 - 파비오 파쿠치]]></title>
-        <id>https://www.ted.com/talks/fabio_pacucci_yes_scientists_are_actually_building_an_elevator_to_space?language=ko</id>
-        <link href="https://www.ted.com/talks/fabio_pacucci_yes_scientists_are_actually_building_an_elevator_to_space?language=ko"/>
-        <updated>2022-01-26T05:38:58.972Z</updated>
-        <content type="html"><![CDATA[Fabio Pacucci]]></content>
     </entry>
 </feed>
