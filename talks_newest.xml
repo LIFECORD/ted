@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-04T05:39:06.947Z</updated>
+    <updated>2022-04-04T17:43:05.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[흑인 얼굴과 흑인 고정 관념의 기원]]></title>
+        <id>https://www.ted.com/talks/dwan_reece_the_origins_of_blackface_and_black_stereotypes?language=ko</id>
+        <link href="https://www.ted.com/talks/dwan_reece_the_origins_of_blackface_and_black_stereotypes?language=ko"/>
+        <updated>2022-04-04T17:43:04.643Z</updated>
+        <content type="html"><![CDATA[Dwan Reece]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제트 팩은 어떻게 작동할까요? 그리고 왜 모두가 쓰고 있지 않을까요? - 리처드 브라우닝과 데비 브라우닝]]></title>
         <id>https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko</id>
         <link href="https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko"/>
@@ -151,6 +158,13 @@
         <link href="https://www.ted.com/talks/marie_brodsky_can_you_solve_the_birthday_cake_riddle?language=ko"/>
         <updated>2022-01-26T05:38:58.944Z</updated>
         <content type="html"><![CDATA[Marie Brodsky]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄소 제거에 대해 알아야 할 것들]]></title>
+        <id>https://www.ted.com/talks/gabrielle_walker_what_you_need_to_know_about_carbon_removal?language=ko</id>
+        <link href="https://www.ted.com/talks/gabrielle_walker_what_you_need_to_know_about_carbon_removal?language=ko"/>
+        <updated>2022-04-04T17:43:04.657Z</updated>
+        <content type="html"><![CDATA[Gabrielle Walker]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양 신의 아들의 비극적인 신화 이야기 - 이솔트 길레스피]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/matt_walker_how_to_deal_with_your_insomnia_and_finally_get_to_sleep?language=ko"/>
         <updated>2021-12-21T17:48:52.271Z</updated>
         <content type="html"><![CDATA[Matt Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신의 아이들을 죽인 악당을 키우시겠습니까? - 스티브 로스스타인(Steve Rothstein)]]></title>
-        <id>https://www.ted.com/talks/steve_rothstein_would_you_raise_the_bird_that_murdered_your_children?language=ko</id>
-        <link href="https://www.ted.com/talks/steve_rothstein_would_you_raise_the_bird_that_murdered_your_children?language=ko"/>
-        <updated>2022-01-08T05:41:03.363Z</updated>
-        <content type="html"><![CDATA[Steve Rothstein]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 인류를 위한 지속가능한 주거에 대한 비전]]></title>
-        <id>https://www.ted.com/talks/vishaan_chakrabarti_a_vision_of_sustainable_housing_for_all_of_humanity?language=ko</id>
-        <link href="https://www.ted.com/talks/vishaan_chakrabarti_a_vision_of_sustainable_housing_for_all_of_humanity?language=ko"/>
-        <updated>2022-03-14T17:40:38.519Z</updated>
-        <content type="html"><![CDATA[Vishaan Chakrabarti]]></content>
     </entry>
 </feed>
