@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-13T05:39:35.729Z</updated>
+    <updated>2022-04-13T17:43:17.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[Katie McGinty]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오랜 세월의 심금을 울리는 예술]]></title>
+        <id>https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko</id>
+        <link href="https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko"/>
+        <updated>2022-04-13T17:43:16.407Z</updated>
+        <content type="html"><![CDATA[Katie Paterson]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[교활한 거미 아난시 이야기 - 에밀리 조벨 마샬(Emily Zobel Marshall)]]></title>
         <id>https://www.ted.com/talks/emily_zobel_marshall_the_myth_of_anansi_the_trickster_spider?language=ko</id>
         <link href="https://www.ted.com/talks/emily_zobel_marshall_the_myth_of_anansi_the_trickster_spider?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/halla_tomasdottir_use_your_voice_vote_and_wallet_for_climate_action?language=ko"/>
         <updated>2022-01-20T05:38:29.683Z</updated>
         <content type="html"><![CDATA[Halla Tómasdóttir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시모어 산의 어두운 역사 - 네드 블랙호크 & 제프리 D. 민스(Ned Blackhawk and Jeffrey D. Means)]]></title>
-        <id>https://www.ted.com/talks/ned_blackhawk_and_jeffrey_d_means_the_dark_history_of_mount_rushmore?language=ko</id>
-        <link href="https://www.ted.com/talks/ned_blackhawk_and_jeffrey_d_means_the_dark_history_of_mount_rushmore?language=ko"/>
-        <updated>2022-02-21T17:40:55.242Z</updated>
-        <content type="html"><![CDATA[Ned Blackhawk and Jeffrey D. Means]]></content>
     </entry>
 </feed>
