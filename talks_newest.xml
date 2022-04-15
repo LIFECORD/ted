@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-14T17:43:46.993Z</updated>
+    <updated>2022-04-15T05:42:01.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피의자인 배우자에 대한 윤리적 딜레마 – 알렉스 워스닙(Alex Worsnip)]]></title>
+        <id>https://www.ted.com/talks/alex_worsnip_ethical_dilemma_who_should_you_believe?language=ko</id>
+        <link href="https://www.ted.com/talks/alex_worsnip_ethical_dilemma_who_should_you_believe?language=ko"/>
+        <updated>2022-04-15T05:42:00.435Z</updated>
+        <content type="html"><![CDATA[Alex Worsnip]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱀이 무섭다면, 이걸 보세요 - 앤드류 휘트워스]]></title>
         <id>https://www.ted.com/talks/andrew_whitworth_if_you_re_scared_of_snakes_watch_this?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/doug_mackay_you_can_only_save_one_who_do_you_choose?language=ko"/>
         <updated>2021-12-21T17:48:52.271Z</updated>
         <content type="html"><![CDATA[Doug MacKay]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목소리를 내고 투표로, 그리고 지갑을 열어서 기후 행동에 힘을 실어 주세요]]></title>
-        <id>https://www.ted.com/talks/halla_tomasdottir_use_your_voice_vote_and_wallet_for_climate_action?language=ko</id>
-        <link href="https://www.ted.com/talks/halla_tomasdottir_use_your_voice_vote_and_wallet_for_climate_action?language=ko"/>
-        <updated>2022-01-20T05:38:29.683Z</updated>
-        <content type="html"><![CDATA[Halla Tómasdóttir]]></content>
     </entry>
 </feed>
