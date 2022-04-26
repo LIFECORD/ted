@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-26T05:41:13.368Z</updated>
+    <updated>2022-04-26T17:45:10.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -237,6 +237,13 @@
         <content type="html"><![CDATA[Thomas W. Cronin]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[빛과 소리로 알츠하이머를 치료할 수 있을까요?]]></title>
+        <id>https://www.ted.com/talks/li_huei_tsai_could_we_treat_alzheimer_s_with_light_and_sound?language=ko</id>
+        <link href="https://www.ted.com/talks/li_huei_tsai_could_we_treat_alzheimer_s_with_light_and_sound?language=ko"/>
+        <updated>2022-04-26T17:45:10.142Z</updated>
+        <content type="html"><![CDATA[Li-Huei Tsai]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[생일 케이크 수수께끼를 풀 수 있나요?]]></title>
         <id>https://www.ted.com/talks/marie_brodsky_can_you_solve_the_birthday_cake_riddle?language=ko</id>
         <link href="https://www.ted.com/talks/marie_brodsky_can_you_solve_the_birthday_cake_riddle?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/gabrielle_walker_what_you_need_to_know_about_carbon_removal?language=ko"/>
         <updated>2022-04-04T17:43:04.657Z</updated>
         <content type="html"><![CDATA[Gabrielle Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양 신의 아들의 비극적인 신화 이야기 - 이솔트 길레스피]]></title>
-        <id>https://www.ted.com/talks/iseult_gillespie_the_tragic_myth_of_the_sun_god_s_son?language=ko</id>
-        <link href="https://www.ted.com/talks/iseult_gillespie_the_tragic_myth_of_the_sun_god_s_son?language=ko"/>
-        <updated>2022-02-02T17:41:00.684Z</updated>
-        <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
 </feed>
