@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-25T17:45:56.870Z</updated>
+    <updated>2022-04-26T05:41:13.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번이 마지막 팬데믹이 되도록 할 수 있습니다]]></title>
+        <id>https://www.ted.com/talks/bill_gates_we_can_make_covid_19_the_last_pandemic?language=ko</id>
+        <link href="https://www.ted.com/talks/bill_gates_we_can_make_covid_19_the_last_pandemic?language=ko"/>
+        <updated>2022-04-26T05:41:12.598Z</updated>
+        <content type="html"><![CDATA[Bill Gates]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바퀴벌레를 없애는 것은 왜 이렇게 어려울까요? - 아메야 곤달레카르]]></title>
         <id>https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill?language=ko</id>
@@ -34,11 +41,25 @@
         <content type="html"><![CDATA[Andrew Whitworth]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[역사 vs 정복자 티무르 – 스테파니 혼첼 스미스]]></title>
+        <id>https://www.ted.com/talks/stephanie_honchell_smith_history_vs_tamerlane_the_conqueror?language=ko</id>
+        <link href="https://www.ted.com/talks/stephanie_honchell_smith_history_vs_tamerlane_the_conqueror?language=ko"/>
+        <updated>2022-04-26T05:41:12.623Z</updated>
+        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[태양 때문에 인터넷이 멈출 수 있을까요? - 파비오 파쿠치 (Fabil Pacucci)]]></title>
         <id>https://www.ted.com/talks/fabio_pacucci_why_the_sun_could_crash_your_internet?language=ko</id>
         <link href="https://www.ted.com/talks/fabio_pacucci_why_the_sun_could_crash_your_internet?language=ko"/>
         <updated>2022-04-02T05:38:16.707Z</updated>
         <content type="html"><![CDATA[Fabio Pacucci]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼음과 불의 용 수수께끼- 헨리 피치오토]]></title>
+        <id>https://www.ted.com/talks/henri_picciotto_a_riddle_of_ice_and_fire_dragons?language=ko</id>
+        <link href="https://www.ted.com/talks/henri_picciotto_a_riddle_of_ice_and_fire_dragons?language=ko"/>
+        <updated>2022-04-26T05:41:12.628Z</updated>
+        <content type="html"><![CDATA[Henri Picciotto]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[염소, 블록 체인과 돈의 미래]]></title>
@@ -48,11 +69,25 @@
         <content type="html"><![CDATA[Fariel Salahuddin]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지구 환경을 보호하는 아프리카 늪지]]></title>
+        <id>https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?language=ko</id>
+        <link href="https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?language=ko"/>
+        <updated>2022-04-26T05:41:12.629Z</updated>
+        <content type="html"><![CDATA[Vera Songwe]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정서 학대의 징조 4가지 - 비안 응우엔 펭(Viann Nguyễn-Feng)]]></title>
         <id>https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=ko</id>
         <link href="https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=ko"/>
         <updated>2022-03-30T17:40:54.308Z</updated>
         <content type="html"><![CDATA[Viann Nguyen-Feng]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비즈니스에서의 목적의 힘]]></title>
+        <id>https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?language=ko</id>
+        <link href="https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?language=ko"/>
+        <updated>2022-04-26T05:41:12.632Z</updated>
+        <content type="html"><![CDATA[Ashley M. Grice]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비둘기는 어떻게 전 세계를 차지했을까요?]]></title>
@@ -221,40 +256,5 @@
         <link href="https://www.ted.com/talks/iseult_gillespie_the_tragic_myth_of_the_sun_god_s_son?language=ko"/>
         <updated>2022-02-02T17:41:00.684Z</updated>
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편견을 부수고 한계를 거부하는 방법]]></title>
-        <id>https://www.ted.com/talks/candace_parker_how_to_break_down_barriers_and_not_accept_limits?language=ko</id>
-        <link href="https://www.ted.com/talks/candace_parker_how_to_break_down_barriers_and_not_accept_limits?language=ko"/>
-        <updated>2022-02-17T17:40:39.213Z</updated>
-        <content type="html"><![CDATA[Candace Parker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 고양이의 눈동자는 길쭉할까? - 엠마 브라이스]]></title>
-        <id>https://www.ted.com/talks/emma_bryce_why_do_cats_have_vertical_pupils?language=ko</id>
-        <link href="https://www.ted.com/talks/emma_bryce_why_do_cats_have_vertical_pupils?language=ko"/>
-        <updated>2022-02-02T17:41:00.691Z</updated>
-        <content type="html"><![CDATA[Emma Bryce]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 훌륭한 리더들은 유머를 중요하게 여길까요?]]></title>
-        <id>https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously?language=ko</id>
-        <link href="https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously?language=ko"/>
-        <updated>2022-01-19T05:38:33.042Z</updated>
-        <content type="html"><![CDATA[Jennifer Aaker and Naomi Bagdonas]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 의료서비스를 위한 시각 스토리텔링]]></title>
-        <id>https://www.ted.com/talks/sam_hester_how_visual_storytelling_creates_better_health_care?language=ko</id>
-        <link href="https://www.ted.com/talks/sam_hester_how_visual_storytelling_creates_better_health_care?language=ko"/>
-        <updated>2022-04-21T17:48:50.212Z</updated>
-        <content type="html"><![CDATA[Sam Hester]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석유 가스 산업의 현실적인 탈탄소 방법]]></title>
-        <id>https://www.ted.com/talks/bjorn_otto_sverdrup_how_to_realistically_decarbonize_the_oil_and_gas_industry?language=ko</id>
-        <link href="https://www.ted.com/talks/bjorn_otto_sverdrup_how_to_realistically_decarbonize_the_oil_and_gas_industry?language=ko"/>
-        <updated>2022-03-20T05:38:30.551Z</updated>
-        <content type="html"><![CDATA[Bjørn Otto Sverdrup]]></content>
     </entry>
 </feed>
