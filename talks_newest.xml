@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-27T05:47:19.606Z</updated>
+    <updated>2022-04-27T17:48:14.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -216,6 +216,13 @@
         <content type="html"><![CDATA[Katie McGinty]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[기온을 높이지 않으면서 지속 가능한 냉방]]></title>
+        <id>https://www.ted.com/talks/rachel_kyte_sustainable_cooling_that_doesn_t_warm_the_planet?language=ko</id>
+        <link href="https://www.ted.com/talks/rachel_kyte_sustainable_cooling_that_doesn_t_warm_the_planet?language=ko"/>
+        <updated>2022-04-27T17:48:13.413Z</updated>
+        <content type="html"><![CDATA[Rachel Kyte]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오랜 세월의 심금을 울리는 예술]]></title>
         <id>https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko</id>
         <link href="https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/marie_brodsky_can_you_solve_the_birthday_cake_riddle?language=ko"/>
         <updated>2022-01-26T05:38:58.944Z</updated>
         <content type="html"><![CDATA[Marie Brodsky]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소 제거에 대해 알아야 할 것들]]></title>
-        <id>https://www.ted.com/talks/gabrielle_walker_what_you_need_to_know_about_carbon_removal?language=ko</id>
-        <link href="https://www.ted.com/talks/gabrielle_walker_what_you_need_to_know_about_carbon_removal?language=ko"/>
-        <updated>2022-04-04T17:43:04.657Z</updated>
-        <content type="html"><![CDATA[Gabrielle Walker]]></content>
     </entry>
 </feed>
