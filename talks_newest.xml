@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-05-02T05:49:34.049Z</updated>
+    <updated>2022-05-02T17:45:27.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[Francesca Bot]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[해조류와 소의 트림이 기후 변화와 무슨 관계가 있을까요?]]></title>
+        <id>https://www.ted.com/talks/ermias_kebreab_what_seaweed_and_cow_burps_have_to_do_with_climate_change?language=ko</id>
+        <link href="https://www.ted.com/talks/ermias_kebreab_what_seaweed_and_cow_burps_have_to_do_with_climate_change?language=ko"/>
+        <updated>2022-05-02T17:45:26.513Z</updated>
+        <content type="html"><![CDATA[Ermias Kebreab]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이 수수께끼를 풀어서 천지창조에서 살아남을 수 있을까요? - 제임스 탄톤]]></title>
         <id>https://www.ted.com/talks/james_tanton_can_you_survive_the_creation_of_the_universe_by_solving_this_riddle?language=ko</id>
         <link href="https://www.ted.com/talks/james_tanton_can_you_survive_the_creation_of_the_universe_by_solving_this_riddle?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/thomas_w_cronin_which_animal_has_the_best_eyesight?language=ko"/>
         <updated>2022-01-26T05:38:58.932Z</updated>
         <content type="html"><![CDATA[Thomas W. Cronin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛과 소리로 알츠하이머를 치료할 수 있을까요?]]></title>
-        <id>https://www.ted.com/talks/li_huei_tsai_could_we_treat_alzheimer_s_with_light_and_sound?language=ko</id>
-        <link href="https://www.ted.com/talks/li_huei_tsai_could_we_treat_alzheimer_s_with_light_and_sound?language=ko"/>
-        <updated>2022-04-26T17:45:10.142Z</updated>
-        <content type="html"><![CDATA[Li-Huei Tsai]]></content>
     </entry>
 </feed>
