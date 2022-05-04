@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-05-03T17:49:53.140Z</updated>
+    <updated>2022-05-04T05:42:17.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/bill_gates_we_can_make_covid_19_the_last_pandemic?language=ko"/>
         <updated>2022-04-26T05:41:12.598Z</updated>
         <content type="html"><![CDATA[Bill Gates]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두려움을 극복하기 위한 올림픽 챔피언의 사고방식]]></title>
+        <id>https://www.ted.com/talks/allyson_felix_an_olympic_champion_s_mindset_for_overcoming_fear?language=ko</id>
+        <link href="https://www.ted.com/talks/allyson_felix_an_olympic_champion_s_mindset_for_overcoming_fear?language=ko"/>
+        <updated>2022-05-04T05:42:17.051Z</updated>
+        <content type="html"><![CDATA[Allyson Felix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바퀴벌레를 없애는 것은 왜 이렇게 어려울까요? - 아메야 곤달레카르]]></title>
@@ -102,6 +109,13 @@
         <link href="https://www.ted.com/talks/elizabeth_carlen_and_joanna_moles_how_pigeons_took_over_the_world?language=ko"/>
         <updated>2022-03-30T17:40:54.311Z</updated>
         <content type="html"><![CDATA[Elizabeth Carlen and Joanna Moles]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자가 조립 능력 로봇과 잠재적인 인공 진화]]></title>
+        <id>https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?language=ko</id>
+        <link href="https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?language=ko"/>
+        <updated>2022-05-04T05:42:17.065Z</updated>
+        <content type="html"><![CDATA[Emma Hart]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[난민이 된다는 것은 무슨 뜻일까요? -베네데타 버티, 에브리앙 보그만(Benedetta Berti and Evelien Borgman)]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko"/>
         <updated>2022-04-13T17:43:16.407Z</updated>
         <content type="html"><![CDATA[Katie Paterson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교활한 거미 아난시 이야기 - 에밀리 조벨 마샬(Emily Zobel Marshall)]]></title>
-        <id>https://www.ted.com/talks/emily_zobel_marshall_the_myth_of_anansi_the_trickster_spider?language=ko</id>
-        <link href="https://www.ted.com/talks/emily_zobel_marshall_the_myth_of_anansi_the_trickster_spider?language=ko"/>
-        <updated>2022-01-27T17:43:20.120Z</updated>
-        <content type="html"><![CDATA[Emily Zobel Marshall]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 동물의 시력이 가장 뛰어날까요?  - 토마스 W. 크로닌]]></title>
-        <id>https://www.ted.com/talks/thomas_w_cronin_which_animal_has_the_best_eyesight?language=ko</id>
-        <link href="https://www.ted.com/talks/thomas_w_cronin_which_animal_has_the_best_eyesight?language=ko"/>
-        <updated>2022-01-26T05:38:58.932Z</updated>
-        <content type="html"><![CDATA[Thomas W. Cronin]]></content>
     </entry>
 </feed>
