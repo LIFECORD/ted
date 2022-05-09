@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-09T05:42:30.478Z</updated>
+    <updated>2022-05-09T17:47:35.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이루어질 수 없는 사랑을 다룬 아시아 신화 (TED Talks 한국어)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://www.ted.com/talks/alex_worsnip_ethical_dilemma_who_should_you_believe?language=ko"/>
         <updated>2022-04-15T05:42:00.435Z</updated>
         <content type="html"><![CDATA[Alex Worsnip]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악과 맞선 싸움에서 우크라이나와 함께하세요 (TED Talks 한국어)]]></title>
+        <id>https://www.ted.com/talks/garry_kasparov_stand_with_ukraine_in_the_fight_against_evil?language=ko</id>
+        <link href="https://www.ted.com/talks/garry_kasparov_stand_with_ukraine_in_the_fight_against_evil?language=ko"/>
+        <updated>2022-05-09T17:47:34.941Z</updated>
+        <content type="html"><![CDATA[Garry Kasparov]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뱀이 무섭다면, 이걸 보세요 - 앤드류 휘트워스 (TED Talks 한국어)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=ko"/>
         <updated>2022-02-10T17:39:08.228Z</updated>
         <content type="html"><![CDATA[Elizabeth Cox]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물을 탈탄소화하는 똑똑한 해결책 (TED Talks 한국어)]]></title>
-        <id>https://www.ted.com/talks/katie_mcginty_smart_solutions_to_decarbonize_buildings?language=ko</id>
-        <link href="https://www.ted.com/talks/katie_mcginty_smart_solutions_to_decarbonize_buildings?language=ko"/>
-        <updated>2022-03-05T17:38:04.469Z</updated>
-        <content type="html"><![CDATA[Katie McGinty]]></content>
     </entry>
 </feed>
