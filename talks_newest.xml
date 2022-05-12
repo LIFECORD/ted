@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-05-11T17:51:19.098Z</updated>
+    <updated>2022-05-12T05:46:34.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[Alexandra Minna Stern and Natalie Lira]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[팬픽션이 자아내는 창의성 그리고 커뮤니티]]></title>
+        <id>https://www.ted.com/talks/cecilia_aragon_the_creativity_and_community_behind_fanfiction?language=ko</id>
+        <link href="https://www.ted.com/talks/cecilia_aragon_the_creativity_and_community_behind_fanfiction?language=ko"/>
+        <updated>2022-05-12T05:46:33.328Z</updated>
+        <content type="html"><![CDATA[Cecilia Aragon]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[달의 여신 신화 이야기 - 신디아 페이 데이비스]]></title>
         <id>https://www.ted.com/talks/cynthia_fay_davis_the_myth_of_the_moon_goddess?language=ko</id>
         <link href="https://www.ted.com/talks/cynthia_fay_davis_the_myth_of_the_moon_goddess?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/lei_li_the_incredible_cancer_detecting_potential_of_photoacoustic_imaging?language=ko"/>
         <updated>2022-03-23T17:42:27.293Z</updated>
         <content type="html"><![CDATA[Lei Li]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 국가를 분열시킨 오류의 해결책을 아시나요? - 엘리자베스 콕스]]></title>
-        <id>https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=ko</id>
-        <link href="https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_fallacy_that_divided_a_nation?language=ko"/>
-        <updated>2022-02-10T17:39:08.228Z</updated>
-        <content type="html"><![CDATA[Elizabeth Cox]]></content>
     </entry>
 </feed>
