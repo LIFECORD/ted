@@ -1,8 +1,8 @@
 [talks_newest]
-title = "TED Talks 한국어"
+title = "TED Talks ─ Korean"
 url = "https://www.ted.com/talks?sort=newest&language=ko"
 entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='col']"
 titleSelector = "h4[class='h9 m5 f-w:700']"
 linkSelector = "h4.h9.m5.f-w:700 > a"
 contentSelector = "h4.h12.talk-link__speaker"
-waitUntil = "networkidle"
+waitForSelector = "div[class='col']"
