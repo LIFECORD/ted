@@ -1,3 +1,6 @@
+[default]
+timeout = 180
+
 [talks_newest]
 title = "TED Talks ─ Korean"
 url = "https://www.ted.com/talks?sort=newest&language=ko"
@@ -6,3 +9,4 @@ titleSelector = "h4[class='h9 m5 f-w:700']"
 linkSelector = "h4.h9.m5.f-w:700 > a"
 contentSelector = "h4.h12.talk-link__speaker"
 waitForSelector = "div.col div.m3"
+onFail = "stale"
