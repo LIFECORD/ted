@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-10-03T10:27:09.928Z</updated>
+    <updated>2022-10-03T11:18:49.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/elizabeth_cox_the_benefits_of_daydreaming?language=ko"/>
         <updated>2022-09-27T01:59:18.916Z</updated>
         <content type="html"><![CDATA[Elizabeth Cox]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리랜서 자질이 있으신가요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_do_you_have_what_it_takes_to_freelance?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_do_you_have_what_it_takes_to_freelance?language=ko"/>
+        <updated>2022-10-03T11:18:48.636Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콘헤드 흰개미, 알 무더기와 개미핥기의 공격: 흰개미 여왕의 통치 -  바바라 L. 톤]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/timothy_williams_ugly_history_cambodian_genocide?language=ko"/>
         <updated>2022-09-27T01:59:19.045Z</updated>
         <content type="html"><![CDATA[Timothy Williams]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채식을 위한 맛있는 안내서]]></title>
-        <id>https://www.ted.com/talks/alexis_nikole_nelson_a_flavorful_field_guide_to_foraging?language=ko</id>
-        <link href="https://www.ted.com/talks/alexis_nikole_nelson_a_flavorful_field_guide_to_foraging?language=ko"/>
-        <updated>2022-09-27T01:59:19.045Z</updated>
-        <content type="html"><![CDATA[Alexis Nikole Nelson]]></content>
     </entry>
 </feed>
