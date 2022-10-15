@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-10-14T23:24:21.042Z</updated>
+    <updated>2022-10-15T02:10:18.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_zeus_test?language=ko"/>
         <updated>2022-10-06T20:26:55.304Z</updated>
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대중 감시를 멈춰야 할 변화]]></title>
+        <id>https://www.ted.com/talks/albert_fox_cahn_the_shift_we_need_to_stop_mass_surveillance?language=ko</id>
+        <link href="https://www.ted.com/talks/albert_fox_cahn_the_shift_we_need_to_stop_mass_surveillance?language=ko"/>
+        <updated>2022-10-15T02:10:17.087Z</updated>
+        <content type="html"><![CDATA[Albert Fox Cahn]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[멍하니 있기의 좋은 점]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/bruce_feiler_the_secret_to_mastering_life_s_biggest_transitions?language=ko"/>
         <updated>2022-10-06T20:26:55.429Z</updated>
         <content type="html"><![CDATA[Bruce Feiler]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각을 글로 바꿔 주는 뇌 이식 기술]]></title>
-        <id>https://www.ted.com/talks/tom_oxley_a_brain_implant_that_turns_your_thoughts_into_text?language=ko</id>
-        <link href="https://www.ted.com/talks/tom_oxley_a_brain_implant_that_turns_your_thoughts_into_text?language=ko"/>
-        <updated>2022-10-06T20:26:55.431Z</updated>
-        <content type="html"><![CDATA[Tom Oxley]]></content>
     </entry>
 </feed>
