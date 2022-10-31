@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-31T19:19:42.541Z</updated>
+    <updated>2022-10-31T20:21:43.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[몽유병의 원인이란? - 엠마누엘 듀링 (TED Talks ─ Korean)]]></title>
@@ -80,6 +80,13 @@
         <link href="https://www.ted.com/talks/micaela_mantegna_how_to_stop_the_metaverse_from_becoming_the_internet_s_bad_sequel?language=ko"/>
         <updated>2022-10-23T20:26:33.027Z</updated>
         <content type="html"><![CDATA[Micaela Mantegna]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경제가 영원히 성장할 수 있을까? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/ted_ed_can_the_economy_grow_forever?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_can_the_economy_grow_forever?language=ko"/>
+        <updated>2022-10-31T20:21:42.366Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스페인어의 역사 - 일란 스타반스(Ilan Stavans) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/bryce_dallas_howard_how_to_preserve_your_private_life_in_the_age_of_social_media?language=ko"/>
         <updated>2022-10-23T20:26:33.090Z</updated>
         <content type="html"><![CDATA[Bryce Dallas Howard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기만의 메타버스를 만들고 공유해보세요! (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/agnes_larsson_the_awesome_potential_of_many_metaverses?language=ko</id>
-        <link href="https://www.ted.com/talks/agnes_larsson_the_awesome_potential_of_many_metaverses?language=ko"/>
-        <updated>2022-10-23T20:26:33.091Z</updated>
-        <content type="html"><![CDATA[Agnes Larsson]]></content>
     </entry>
 </feed>
