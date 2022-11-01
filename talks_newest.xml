@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-10-31T23:29:19.439Z</updated>
+    <updated>2022-11-01T02:06:56.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -59,6 +59,13 @@
         <id>https://www.ted.com/talks/ted_ed_do_you_have_what_it_takes_to_freelance?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_do_you_have_what_it_takes_to_freelance?language=ko"/>
         <updated>2022-10-23T20:26:33.024Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지갑 시험을 통과할 수 있나요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_would_you_pass_the_wallet_test?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_would_you_pass_the_wallet_test?language=ko"/>
+        <updated>2022-11-01T02:06:55.398Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
@@ -209,6 +216,13 @@
         <content type="html"><![CDATA[Jennifer Heldmann]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[만두의 간략한 역사 - 미란다 브라운]]></title>
+        <id>https://www.ted.com/talks/miranda_brown_a_brief_history_of_dumplings?language=ko</id>
+        <link href="https://www.ted.com/talks/miranda_brown_a_brief_history_of_dumplings?language=ko"/>
+        <updated>2022-11-01T02:06:55.595Z</updated>
+        <content type="html"><![CDATA[Miranda Brown]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기후 붕괴를 방지하기 위한 실제 비용]]></title>
         <id>https://www.ted.com/talks/yuval_noah_harari_the_actual_cost_of_preventing_climate_breakdown?language=ko</id>
         <link href="https://www.ted.com/talks/yuval_noah_harari_the_actual_cost_of_preventing_climate_breakdown?language=ko"/>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_college_admissions_fallacy?language=ko"/>
         <updated>2022-10-23T20:26:33.061Z</updated>
         <content type="html"><![CDATA[Elizabeth Cox]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASMR의 뇌 과학 (그리고 이점들)]]></title>
-        <id>https://www.ted.com/talks/craig_richard_the_brain_science_and_benefits_of_asmr?language=ko</id>
-        <link href="https://www.ted.com/talks/craig_richard_the_brain_science_and_benefits_of_asmr?language=ko"/>
-        <updated>2022-10-23T20:26:33.064Z</updated>
-        <content type="html"><![CDATA[Craig Richard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소셜 미디어 시대에 사생활을 지키는 방법]]></title>
-        <id>https://www.ted.com/talks/bryce_dallas_howard_how_to_preserve_your_private_life_in_the_age_of_social_media?language=ko</id>
-        <link href="https://www.ted.com/talks/bryce_dallas_howard_how_to_preserve_your_private_life_in_the_age_of_social_media?language=ko"/>
-        <updated>2022-10-23T20:26:33.090Z</updated>
-        <content type="html"><![CDATA[Bryce Dallas Howard]]></content>
     </entry>
 </feed>
