@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-11-02T21:20:00.531Z</updated>
+    <updated>2022-11-02T22:19:37.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -109,6 +109,13 @@
         <link href="https://www.ted.com/talks/charles_wallace_and_sajan_saini_why_a_sausage_can_do_what_your_gloves_cannot?language=ko"/>
         <updated>2022-10-23T20:26:33.028Z</updated>
         <content type="html"><![CDATA[Charles Wallace and Sajan Saini]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이민 수용소를 넘어서 정의를 향해 나아갈 수 있는 미국]]></title>
+        <id>https://www.ted.com/talks/cesar_cuauhtemoc_garcia_hernandez_the_us_can_move_past_immigration_prisons_and_towards_justice?language=ko</id>
+        <link href="https://www.ted.com/talks/cesar_cuauhtemoc_garcia_hernandez_the_us_can_move_past_immigration_prisons_and_towards_justice?language=ko"/>
+        <updated>2022-11-02T22:19:36.588Z</updated>
+        <content type="html"><![CDATA[César Cuauhtémoc García Hernández]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[버섯으로 만든 미래의 패션]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/james_hodge_esports_virtual_formula_1_and_the_new_era_of_play?language=ko"/>
         <updated>2022-10-23T20:26:33.061Z</updated>
         <content type="html"><![CDATA[James Hodge]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군사학교 입학 제도의 오류를 간파할 수 있나요? - 엘리자베스 콕스(Elizabeth Cox)]]></title>
-        <id>https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_college_admissions_fallacy?language=ko</id>
-        <link href="https://www.ted.com/talks/elizabeth_cox_can_you_outsmart_the_college_admissions_fallacy?language=ko"/>
-        <updated>2022-10-23T20:26:33.061Z</updated>
-        <content type="html"><![CDATA[Elizabeth Cox]]></content>
     </entry>
 </feed>
