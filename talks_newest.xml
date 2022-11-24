@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-11-24T04:24:11.027Z</updated>
+    <updated>2022-11-24T05:19:13.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[Jamie Bernthal]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["III이 있었다"  춤, 애니메이션과 기술의 매혹적인 조합]]></title>
+        <id>https://www.ted.com/talks/nina_mcneely_once_there_was_iii_a_mesmerizing_blend_of_dance_animation_and_tech?language=ko</id>
+        <link href="https://www.ted.com/talks/nina_mcneely_once_there_was_iii_a_mesmerizing_blend_of_dance_animation_and_tech?language=ko"/>
+        <updated>2022-11-24T05:19:12.543Z</updated>
+        <content type="html"><![CDATA[Nina McNeely]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[경제가 영원히 성장할 수 있을까?]]></title>
         <id>https://www.ted.com/talks/ted_ed_can_the_economy_grow_forever?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_can_the_economy_grow_forever?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_what_s_the_best_country_to_live_in?language=ko"/>
         <updated>2022-10-23T20:26:33.045Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[높은 고도가 당신의 몸에 미치는 영향 - 앤드류 러버링(Andrew Lovering)]]></title>
-        <id>https://www.ted.com/talks/andrew_lovering_how_high_altitude_affects_your_body?language=ko</id>
-        <link href="https://www.ted.com/talks/andrew_lovering_how_high_altitude_affects_your_body?language=ko"/>
-        <updated>2022-10-23T20:26:33.046Z</updated>
-        <content type="html"><![CDATA[Andrew Lovering]]></content>
     </entry>
 </feed>
