@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-11-25T18:23:45.523Z</updated>
+    <updated>2022-11-25T19:13:03.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://www.ted.com/talks/ted_ed_these_companies_with_no_ceo_are_thriving?language=ko"/>
         <updated>2022-10-23T20:26:33.002Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화석 연료를 대체할 최고의 희망, 원자력]]></title>
+        <id>https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels?language=ko</id>
+        <link href="https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels?language=ko"/>
+        <updated>2022-11-25T19:13:03.117Z</updated>
+        <content type="html"><![CDATA[Isabelle Boemeke]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제우스의 시험 - 이설트 길레스피]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/olga_kitaina_how_to_alter_the_perception_of_mental_health_care_in_russia?language=ko"/>
         <updated>2022-10-23T20:26:33.042Z</updated>
         <content type="html"><![CDATA[Olga Kitaina]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알코올은 어떻게 숙취를 일으킬까요?]]></title>
-        <id>https://www.ted.com/talks/judy_grisel_how_does_alcohol_cause_hangovers?language=ko</id>
-        <link href="https://www.ted.com/talks/judy_grisel_how_does_alcohol_cause_hangovers?language=ko"/>
-        <updated>2022-10-23T20:26:33.043Z</updated>
-        <content type="html"><![CDATA[Judy Grisel]]></content>
     </entry>
 </feed>
