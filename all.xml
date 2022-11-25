@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-24T23:17:51.913Z</updated>
+    <updated>2022-11-25T01:24:28.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko</id>
+        <link href="https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko"/>
+        <updated>2022-11-25T01:24:28.204Z</updated>
+        <content type="html"><![CDATA[Rob Ulrich]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[죽기 전에 질병 대유행이 또 올까요? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/ted_ed_will_there_be_another_pandemic_in_your_lifetime?language=ko</id>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/judy_grisel_how_does_alcohol_cause_hangovers?language=ko"/>
         <updated>2022-10-23T20:26:33.043Z</updated>
         <content type="html"><![CDATA[Judy Grisel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 살기 좋은 나라는 어디일까? (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/ted_ed_what_s_the_best_country_to_live_in?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_what_s_the_best_country_to_live_in?language=ko"/>
-        <updated>2022-10-23T20:26:33.045Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
