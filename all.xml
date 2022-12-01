@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T14:16:01.507Z</updated>
+    <updated>2022-12-01T18:32:15.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히 (TED Talks ─ Korean)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://www.ted.com/talks/jen_gunter_how_your_sense_of_smell_helps_you_savor_flavor?language=ko"/>
         <updated>2022-10-23T20:26:33.002Z</updated>
         <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페가수스와 키메라의 신화 - 이설트 길레스피 (Iseult Gillespie) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_pegasus_and_the_chimera?language=ko</id>
+        <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_pegasus_and_the_chimera?language=ko"/>
+        <updated>2022-12-01T18:32:14.358Z</updated>
+        <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[과연 빠른 체중 감량은 가능할까? (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/tierney_thys_and_christian_sardet_meet_the_microbes_that_could_eat_your_trash?language=ko"/>
         <updated>2022-10-23T20:26:33.040Z</updated>
         <content type="html"><![CDATA[Tierney Thys and Christian Sardet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지루한 건축의 유행에서 지극히 인간적인 건축으로 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/thomas_heatherwick_the_rise_of_boring_architecture_and_the_case_for_radically_human_buildings?language=ko</id>
-        <link href="https://www.ted.com/talks/thomas_heatherwick_the_rise_of_boring_architecture_and_the_case_for_radically_human_buildings?language=ko"/>
-        <updated>2022-10-23T20:26:33.041Z</updated>
-        <content type="html"><![CDATA[Thomas Heatherwick]]></content>
     </entry>
 </feed>
