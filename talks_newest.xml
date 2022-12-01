@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-12-01T18:32:15.069Z</updated>
+    <updated>2022-12-01T19:13:43.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 흑사병 의사들은 부리 모양 마스크를 썼을까?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_why_plague_doctors_wore_beaked_masks?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_why_plague_doctors_wore_beaked_masks?language=ko"/>
+        <updated>2022-12-01T19:13:42.512Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히]]></title>
         <id>https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/chanda_prescod_weinstein_the_search_for_the_invisible_matter_that_shapes_the_universe?language=ko"/>
         <updated>2022-10-23T20:26:33.038Z</updated>
         <content type="html"><![CDATA[Chanda Prescod-Weinstein]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰레기를 먹어 치울 수 있는 미생물을 만나보세요 - 티에르니 타이스, 크리스티안 사르뎃 (Tierney Thys and Christian Sardet)]]></title>
-        <id>https://www.ted.com/talks/tierney_thys_and_christian_sardet_meet_the_microbes_that_could_eat_your_trash?language=ko</id>
-        <link href="https://www.ted.com/talks/tierney_thys_and_christian_sardet_meet_the_microbes_that_could_eat_your_trash?language=ko"/>
-        <updated>2022-10-23T20:26:33.040Z</updated>
-        <content type="html"><![CDATA[Tierney Thys and Christian Sardet]]></content>
     </entry>
 </feed>
