@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-04T01:18:05.867Z</updated>
+    <updated>2022-12-04T02:43:13.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[왜 흑사병 의사들은 부리 모양 마스크를 썼을까? (TED Talks ─ Korean)]]></title>
@@ -243,17 +243,17 @@
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[효모 감염의 원인은 무엇이고 어떻게 치료할까요? - 리스베트 디뮤서 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/liesbeth_demuyser_what_causes_yeast_infections_and_how_do_you_get_rid_of_them?language=ko</id>
+        <link href="https://www.ted.com/talks/liesbeth_demuyser_what_causes_yeast_infections_and_how_do_you_get_rid_of_them?language=ko"/>
+        <updated>2022-12-04T02:43:12.584Z</updated>
+        <content type="html"><![CDATA[Liesbeth Demuyser]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[앞으로 인류는 어디에 거주하게 될까요? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/parag_khanna_where_on_earth_will_people_live_in_the_future?language=ko</id>
         <link href="https://www.ted.com/talks/parag_khanna_where_on_earth_will_people_live_in_the_future?language=ko"/>
         <updated>2022-10-23T20:26:33.032Z</updated>
         <content type="html"><![CDATA[Parag Khanna]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소셜미디어를 통해 기후 문제 해결에 기여하는 에코 크리에이터 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/zahra_biabani_the_eco_creators_helping_the_climate_through_social_media?language=ko</id>
-        <link href="https://www.ted.com/talks/zahra_biabani_the_eco_creators_helping_the_climate_through_social_media?language=ko"/>
-        <updated>2022-10-23T20:26:33.033Z</updated>
-        <content type="html"><![CDATA[Zahra Biabani]]></content>
     </entry>
 </feed>
