@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-04T08:23:01.474Z</updated>
+    <updated>2022-12-04T09:17:27.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[왜 흑사병 의사들은 부리 모양 마스크를 썼을까? (TED Talks ─ Korean)]]></title>
@@ -101,6 +101,13 @@
         <link href="https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels?language=ko"/>
         <updated>2022-11-25T19:13:03.117Z</updated>
         <content type="html"><![CDATA[Isabelle Boemeke]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우정이 뇌에 미치는 영향 - 샤넌 오델( Shannon Odell) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_how_friendship_affects_your_brain?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_how_friendship_affects_your_brain?language=ko"/>
+        <updated>2022-12-04T09:17:26.729Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제우스의 시험 - 이설트 길레스피 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/liesbeth_demuyser_what_causes_yeast_infections_and_how_do_you_get_rid_of_them?language=ko"/>
         <updated>2022-12-04T02:43:12.584Z</updated>
         <content type="html"><![CDATA[Liesbeth Demuyser]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앞으로 인류는 어디에 거주하게 될까요? (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/parag_khanna_where_on_earth_will_people_live_in_the_future?language=ko</id>
-        <link href="https://www.ted.com/talks/parag_khanna_where_on_earth_will_people_live_in_the_future?language=ko"/>
-        <updated>2022-10-23T20:26:33.032Z</updated>
-        <content type="html"><![CDATA[Parag Khanna]]></content>
     </entry>
 </feed>
