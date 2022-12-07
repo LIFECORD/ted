@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T21:15:04.573Z</updated>
+    <updated>2022-12-07T22:18:35.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[왜 흑사병 의사들은 부리 모양 마스크를 썼을까? (TED Talks ─ Korean)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://www.ted.com/talks/jen_gunter_how_your_sense_of_smell_helps_you_savor_flavor?language=ko"/>
         <updated>2022-10-23T20:26:33.002Z</updated>
         <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모님이 좋아하지 않는 사람과는 헤어질 것인가요? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/ted_ed_should_you_care_what_your_parents_think?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_should_you_care_what_your_parents_think?language=ko"/>
+        <updated>2022-12-07T22:18:34.572Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페가수스와 키메라의 신화 - 이설트 길레스피 (Iseult Gillespie) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/ted_ed_the_4_greatest_threats_to_the_survival_of_humanity?language=ko"/>
         <updated>2022-10-28T01:57:21.794Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효모 감염의 원인은 무엇이고 어떻게 치료할까요? - 리스베트 디뮤서 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/liesbeth_demuyser_what_causes_yeast_infections_and_how_do_you_get_rid_of_them?language=ko</id>
-        <link href="https://www.ted.com/talks/liesbeth_demuyser_what_causes_yeast_infections_and_how_do_you_get_rid_of_them?language=ko"/>
-        <updated>2022-12-04T02:43:12.584Z</updated>
-        <content type="html"><![CDATA[Liesbeth Demuyser]]></content>
     </entry>
 </feed>
