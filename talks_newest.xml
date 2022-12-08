@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-12-08T22:21:38.455Z</updated>
+    <updated>2022-12-08T23:23:34.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age?language=ko"/>
         <updated>2022-11-06T01:45:44.723Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불평등은 피할 수 없는 것일까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_is_inequality_inevitable?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_is_inequality_inevitable?language=ko"/>
+        <updated>2022-12-08T23:23:33.524Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세계에서 가장 큰 기계는 무슨 일을 할까요? - 헨리 리차드슨과 케이티 라이언]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/lyla_latif_the_true_cost_of_gold?language=ko"/>
         <updated>2022-10-23T20:26:33.031Z</updated>
         <content type="html"><![CDATA[Lyla Latif]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류의 생존을 위협하는 가장 큰 요인 네 가지]]></title>
-        <id>https://www.ted.com/talks/ted_ed_the_4_greatest_threats_to_the_survival_of_humanity?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_the_4_greatest_threats_to_the_survival_of_humanity?language=ko"/>
-        <updated>2022-10-28T01:57:21.794Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
