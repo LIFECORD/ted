@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-12-09T22:15:27.782Z</updated>
+    <updated>2022-12-09T23:16:45.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[Robert Katzschmann]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최고의 환대를 위한 비밀 재료]]></title>
+        <id>https://www.ted.com/talks/will_guidara_the_secret_ingredients_of_great_hospitality?language=ko</id>
+        <link href="https://www.ted.com/talks/will_guidara_the_secret_ingredients_of_great_hospitality?language=ko"/>
+        <updated>2022-12-09T23:16:45.041Z</updated>
+        <content type="html"><![CDATA[Will Guidara]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[몽유병의 원인이란? - 엠마누엘 듀링]]></title>
         <id>https://www.ted.com/talks/emmanuel_during_what_causes_sleepwalking?language=ko</id>
         <link href="https://www.ted.com/talks/emmanuel_during_what_causes_sleepwalking?language=ko"/>
@@ -60,6 +67,13 @@
         <link href="https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age?language=ko"/>
         <updated>2022-11-06T01:45:44.723Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은퇴 생활의 정수를 누리는 법]]></title>
+        <id>https://www.ted.com/talks/riley_moynes_how_to_squeeze_all_the_juice_out_of_retirement?language=ko</id>
+        <link href="https://www.ted.com/talks/riley_moynes_how_to_squeeze_all_the_juice_out_of_retirement?language=ko"/>
+        <updated>2022-12-09T23:16:45.045Z</updated>
+        <content type="html"><![CDATA[Riley Moynes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불평등은 피할 수 없는 것일까요?]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/cesar_cuauhtemoc_garcia_hernandez_the_us_can_move_past_immigration_prisons_and_towards_justice?language=ko"/>
         <updated>2022-11-02T22:19:36.588Z</updated>
         <content type="html"><![CDATA[César Cuauhtémoc García Hernández]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버섯으로 만든 미래의 패션]]></title>
-        <id>https://www.ted.com/talks/dan_widmaier_the_future_of_fashion_made_from_mushrooms?language=ko</id>
-        <link href="https://www.ted.com/talks/dan_widmaier_the_future_of_fashion_made_from_mushrooms?language=ko"/>
-        <updated>2022-10-23T20:26:33.029Z</updated>
-        <content type="html"><![CDATA[Dan Widmaier]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금의 실제 가치 - 라일라 라티프]]></title>
-        <id>https://www.ted.com/talks/lyla_latif_the_true_cost_of_gold?language=ko</id>
-        <link href="https://www.ted.com/talks/lyla_latif_the_true_cost_of_gold?language=ko"/>
-        <updated>2022-10-23T20:26:33.031Z</updated>
-        <content type="html"><![CDATA[Lyla Latif]]></content>
     </entry>
 </feed>
