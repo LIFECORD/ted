@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-12-18T08:21:30.131Z</updated>
+    <updated>2022-12-18T09:13:52.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko"/>
         <updated>2022-11-20T22:16:09.488Z</updated>
         <content type="html"><![CDATA[Robert Katzschmann]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 8시간 수면이 정말 필요할까?]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko"/>
+        <updated>2022-12-18T09:13:51.842Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최고의 환대를 위한 비밀 재료]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/petra_sijpesteijn_and_birte_kristiansen_the_rise_and_fall_of_the_medieval_islamic_empire?language=ko"/>
         <updated>2022-12-01T22:18:18.208Z</updated>
         <content type="html"><![CDATA[Petra Sijpesteijn and Birte Kristiansen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페인어의 역사 - 일란 스타반스(Ilan Stavans)]]></title>
-        <id>https://www.ted.com/talks/ilan_stavans_a_brief_history_of_spanish?language=ko</id>
-        <link href="https://www.ted.com/talks/ilan_stavans_a_brief_history_of_spanish?language=ko"/>
-        <updated>2022-10-23T20:26:33.027Z</updated>
-        <content type="html"><![CDATA[Ilan Stavans]]></content>
     </entry>
 </feed>
