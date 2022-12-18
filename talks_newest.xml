@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-12-18T22:13:26.405Z</updated>
+    <updated>2022-12-18T23:15:00.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko"/>
         <updated>2022-12-18T09:13:51.842Z</updated>
         <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이러스에 내성이 있는 생명체의 미래 잠재력]]></title>
+        <id>https://www.ted.com/talks/jason_w_chin_a_virus_resistant_organism_and_what_it_could_mean_for_the_future?language=ko</id>
+        <link href="https://www.ted.com/talks/jason_w_chin_a_virus_resistant_organism_and_what_it_could_mean_for_the_future?language=ko"/>
+        <updated>2022-12-18T23:14:59.299Z</updated>
+        <content type="html"><![CDATA[Jason W. Chin]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최고의 환대를 위한 비밀 재료]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_can_the_economy_grow_forever?language=ko"/>
         <updated>2022-10-31T20:21:42.366Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중세 이슬람 제국의 흥망성쇠 - 페트라 시즈페스테이진 & 베르테 크리스티안센 (Petra Sijpesteijin and Birte Kristiansen)]]></title>
-        <id>https://www.ted.com/talks/petra_sijpesteijn_and_birte_kristiansen_the_rise_and_fall_of_the_medieval_islamic_empire?language=ko</id>
-        <link href="https://www.ted.com/talks/petra_sijpesteijn_and_birte_kristiansen_the_rise_and_fall_of_the_medieval_islamic_empire?language=ko"/>
-        <updated>2022-12-01T22:18:18.208Z</updated>
-        <content type="html"><![CDATA[Petra Sijpesteijn and Birte Kristiansen]]></content>
     </entry>
 </feed>
