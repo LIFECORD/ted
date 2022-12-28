@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-28T06:19:36.687Z</updated>
+    <updated>2022-12-28T07:14:09.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기 (TED Talks ─ Korean)]]></title>
@@ -87,6 +87,13 @@
         <link href="https://www.ted.com/talks/emmanuel_during_what_causes_sleepwalking?language=ko"/>
         <updated>2022-10-27T03:46:18.026Z</updated>
         <content type="html"><![CDATA[Emmanuel During]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의견이 다른 사람들로부터 배울 수 있는 것 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/shreya_joshi_what_you_can_learn_from_people_who_disagree_with_you?language=ko</id>
+        <link href="https://www.ted.com/talks/shreya_joshi_what_you_can_learn_from_people_who_disagree_with_you?language=ko"/>
+        <updated>2022-12-28T07:14:08.471Z</updated>
+        <content type="html"><![CDATA[Shreya Joshi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존은 100% 재생 에너지로 운영할 것을 약속합니다 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/jamie_bernthal_how_to_write_the_perfect_crime_according_to_agatha_christie?language=ko"/>
         <updated>2022-11-06T01:45:44.730Z</updated>
         <content type="html"><![CDATA[Jamie Bernthal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["III이 있었다"  춤, 애니메이션과 기술의 매혹적인 조합 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/nina_mcneely_once_there_was_iii_a_mesmerizing_blend_of_dance_animation_and_tech?language=ko</id>
-        <link href="https://www.ted.com/talks/nina_mcneely_once_there_was_iii_a_mesmerizing_blend_of_dance_animation_and_tech?language=ko"/>
-        <updated>2022-11-24T05:19:12.543Z</updated>
-        <content type="html"><![CDATA[Nina McNeely]]></content>
     </entry>
 </feed>
