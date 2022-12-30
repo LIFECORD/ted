@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2022-12-30T09:14:25.641Z</updated>
+    <updated>2022-12-30T10:19:07.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko"/>
         <updated>2022-11-20T22:16:09.488Z</updated>
         <content type="html"><![CDATA[Robert Katzschmann]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나의 백신으로 모든 병을 예방할 수 있을까?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko"/>
+        <updated>2022-12-30T10:19:06.578Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 8시간 수면이 정말 필요할까?]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/micaela_mantegna_how_to_stop_the_metaverse_from_becoming_the_internet_s_bad_sequel?language=ko"/>
         <updated>2022-10-23T20:26:33.027Z</updated>
         <content type="html"><![CDATA[Micaela Mantegna]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아가사 크리스티(Agatha Christie)에게 들어보는 완벽한 범죄 소설 집필법 - 제이미 번설(Jamie Bernthal)]]></title>
-        <id>https://www.ted.com/talks/jamie_bernthal_how_to_write_the_perfect_crime_according_to_agatha_christie?language=ko</id>
-        <link href="https://www.ted.com/talks/jamie_bernthal_how_to_write_the_perfect_crime_according_to_agatha_christie?language=ko"/>
-        <updated>2022-11-06T01:45:44.730Z</updated>
-        <content type="html"><![CDATA[Jamie Bernthal]]></content>
     </entry>
 </feed>
