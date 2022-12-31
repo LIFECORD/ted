@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-31T08:18:17.831Z</updated>
+    <updated>2022-12-31T09:19:57.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기 (TED Talks ─ Korean)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://www.ted.com/talks/ted_ed_the_best_way_to_apologize_according_to_science?language=ko"/>
         <updated>2022-12-19T13:21:03.087Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지역 사회 기후 활동에 대한 창의적인 접근법 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/xavier_cortada_a_creative_approach_to_community_climate_action?language=ko</id>
+        <link href="https://www.ted.com/talks/xavier_cortada_a_creative_approach_to_community_climate_action?language=ko"/>
+        <updated>2022-12-31T09:19:56.893Z</updated>
+        <content type="html"><![CDATA[Xavier Cortada]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공 지능의 한계와 범용 인공 지능의 가능성 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/fabio_pacucci_the_boltzmann_brain_paradox?language=ko"/>
         <updated>2022-10-23T20:26:33.026Z</updated>
         <content type="html"><![CDATA[Fabio Pacucci]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스가 인터넷의 나쁜 속편이 되는 걸 막을 방법 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/micaela_mantegna_how_to_stop_the_metaverse_from_becoming_the_internet_s_bad_sequel?language=ko</id>
-        <link href="https://www.ted.com/talks/micaela_mantegna_how_to_stop_the_metaverse_from_becoming_the_internet_s_bad_sequel?language=ko"/>
-        <updated>2022-10-23T20:26:33.027Z</updated>
-        <content type="html"><![CDATA[Micaela Mantegna]]></content>
     </entry>
 </feed>
