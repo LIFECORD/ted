@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-01T08:21:39.032Z</updated>
+    <updated>2023-01-01T09:14:08.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기 (TED Talks ─ Korean)]]></title>
@@ -166,6 +166,13 @@
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[외계인 피라미드 수수께끼를 풀 수 있나요? - 헨리 피치오토 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/henri_picciotto_can_you_solve_the_alien_pyramid_riddle?language=ko</id>
+        <link href="https://www.ted.com/talks/henri_picciotto_can_you_solve_the_alien_pyramid_riddle?language=ko"/>
+        <updated>2023-01-01T09:14:08.332Z</updated>
+        <content type="html"><![CDATA[Henri Picciotto]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[과연 빠른 체중 감량은 가능할까? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/hei_man_chan_is_it_possible_to_lose_weight_fast?language=ko</id>
         <link href="https://www.ted.com/talks/hei_man_chan_is_it_possible_to_lose_weight_fast?language=ko"/>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/barbara_thorne_coneheads_egg_stacks_and_anteater_attacks_the_reign_of_a_termite_queen?language=ko"/>
         <updated>2022-10-23T20:26:33.025Z</updated>
         <content type="html"><![CDATA[Barbara Thorne]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[볼츠만 두뇌 역설 - 파비오 파쿠치 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/fabio_pacucci_the_boltzmann_brain_paradox?language=ko</id>
-        <link href="https://www.ted.com/talks/fabio_pacucci_the_boltzmann_brain_paradox?language=ko"/>
-        <updated>2022-10-23T20:26:33.026Z</updated>
-        <content type="html"><![CDATA[Fabio Pacucci]]></content>
     </entry>
 </feed>
