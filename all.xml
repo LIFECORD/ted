@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-02T07:14:02.266Z</updated>
+    <updated>2023-01-02T08:19:53.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사춘기가 뇌를 어떻게 변화시키는지 - 새넌 오델 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko"/>
+        <updated>2023-01-02T08:19:52.366Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기 (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/ted_ed_the_best_way_to_apologize_according_to_science?language=ko</id>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/heejae_lim_the_most_powerful_yet_overlooked_resource_in_schools?language=ko"/>
         <updated>2022-11-15T05:19:46.596Z</updated>
         <content type="html"><![CDATA[Heejae Lim]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘헤드 흰개미, 알 무더기와 개미핥기의 공격: 흰개미 여왕의 통치 -  바바라 L. 톤 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/barbara_thorne_coneheads_egg_stacks_and_anteater_attacks_the_reign_of_a_termite_queen?language=ko</id>
-        <link href="https://www.ted.com/talks/barbara_thorne_coneheads_egg_stacks_and_anteater_attacks_the_reign_of_a_termite_queen?language=ko"/>
-        <updated>2022-10-23T20:26:33.025Z</updated>
-        <content type="html"><![CDATA[Barbara Thorne]]></content>
     </entry>
 </feed>
