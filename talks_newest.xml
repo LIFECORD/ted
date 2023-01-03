@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-01-02T23:21:51.025Z</updated>
+    <updated>2023-01-03T01:12:15.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/xavier_cortada_a_creative_approach_to_community_climate_action?language=ko"/>
         <updated>2022-12-31T09:19:56.893Z</updated>
         <content type="html"><![CDATA[Xavier Cortada]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 덕분에 야생 동물과 가까워질 수 있을까요?]]></title>
+        <id>https://www.ted.com/talks/gautam_shah_can_the_metaverse_bring_us_closer_to_wildlife?language=ko</id>
+        <link href="https://www.ted.com/talks/gautam_shah_can_the_metaverse_bring_us_closer_to_wildlife?language=ko"/>
+        <updated>2023-01-03T01:12:14.640Z</updated>
+        <content type="html"><![CDATA[Gautam Shah]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공 지능의 한계와 범용 인공 지능의 가능성]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_would_you_pass_the_wallet_test?language=ko"/>
         <updated>2022-11-01T02:06:55.398Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 강력하지만 학교에서 간과되는 자원인 가정]]></title>
-        <id>https://www.ted.com/talks/heejae_lim_the_most_powerful_yet_overlooked_resource_in_schools?language=ko</id>
-        <link href="https://www.ted.com/talks/heejae_lim_the_most_powerful_yet_overlooked_resource_in_schools?language=ko"/>
-        <updated>2022-11-15T05:19:46.596Z</updated>
-        <content type="html"><![CDATA[Heejae Lim]]></content>
     </entry>
 </feed>
