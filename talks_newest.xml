@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-01-05T12:29:43.404Z</updated>
+    <updated>2023-01-05T13:24:31.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -237,6 +237,13 @@
         <content type="html"><![CDATA[Elizabeth Cox]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쥐라기의 거대 어룡, 세상에 드러나다]]></title>
+        <id>https://www.ted.com/talks/dean_r_lomax_a_giant_jurassic_sea_dragon_unearthed?language=ko</id>
+        <link href="https://www.ted.com/talks/dean_r_lomax_a_giant_jurassic_sea_dragon_unearthed?language=ko"/>
+        <updated>2023-01-05T13:24:30.770Z</updated>
+        <content type="html"><![CDATA[Dean R. Lomax]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[최초의 절대 반지 - 알렉스 젠들러]]></title>
         <id>https://www.ted.com/talks/alex_gendler_the_original_ring_of_power?language=ko</id>
         <link href="https://www.ted.com/talks/alex_gendler_the_original_ring_of_power?language=ko"/>
@@ -248,13 +255,6 @@
         <id>https://www.ted.com/talks/ted_ed_do_you_have_what_it_takes_to_freelance?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_do_you_have_what_it_takes_to_freelance?language=ko"/>
         <updated>2022-10-23T20:26:33.024Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지갑 시험을 통과할 수 있나요?]]></title>
-        <id>https://www.ted.com/talks/ted_ed_would_you_pass_the_wallet_test?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_would_you_pass_the_wallet_test?language=ko"/>
-        <updated>2022-11-01T02:06:55.398Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
