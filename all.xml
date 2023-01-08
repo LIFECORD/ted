@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-08T08:24:45.132Z</updated>
+    <updated>2023-01-08T09:14:08.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[비버들은 왜 댐을 만들까요? - 글리니스 후드 (TED Talks ─ Korean)]]></title>
@@ -59,6 +59,13 @@
         <link href="https://www.ted.com/talks/ted_ed_4_things_all_great_listeners_know?language=ko"/>
         <updated>2022-12-10T08:19:52.849Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살아있는 고래의 가치와 경제가 자연을 보호해야 하는 이유 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/ralph_chami_what_a_living_whale_is_worth_and_why_the_economy_should_protect_nature?language=ko</id>
+        <link href="https://www.ted.com/talks/ralph_chami_what_a_living_whale_is_worth_and_why_the_economy_should_protect_nature?language=ko"/>
+        <updated>2023-01-08T09:14:08.000Z</updated>
+        <content type="html"><![CDATA[Ralph Chami]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/elizabeth_cox_the_benefits_of_daydreaming?language=ko"/>
         <updated>2022-10-23T20:26:33.019Z</updated>
         <content type="html"><![CDATA[Elizabeth Cox]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쥐라기의 거대 어룡, 세상에 드러나다 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/dean_r_lomax_a_giant_jurassic_sea_dragon_unearthed?language=ko</id>
-        <link href="https://www.ted.com/talks/dean_r_lomax_a_giant_jurassic_sea_dragon_unearthed?language=ko"/>
-        <updated>2023-01-05T13:24:30.770Z</updated>
-        <content type="html"><![CDATA[Dean R. Lomax]]></content>
     </entry>
 </feed>
