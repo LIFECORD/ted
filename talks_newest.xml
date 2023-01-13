@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-01-12T23:17:09.370Z</updated>
+    <updated>2023-01-13T03:33:44.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -52,6 +52,13 @@
         <id>https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko"/>
         <updated>2023-01-11T15:30:41.547Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 하면 더 나은 경제를 만들 수 있을까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko"/>
+        <updated>2023-01-13T03:33:43.658Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
@@ -153,6 +160,13 @@
         <content type="html"><![CDATA[Chris Roe]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[감기 치료는 왜 그토록 힘들까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_why_is_it_so_hard_to_cure_the_common_cold?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_why_is_it_so_hard_to_cure_the_common_cold?language=ko"/>
+        <updated>2023-01-13T03:33:43.737Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리는 몇 살 때 가장 똑똑할까요?]]></title>
         <id>https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age?language=ko</id>
         <link href="https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age?language=ko"/>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/shannon_odell_how_friendship_affects_your_brain?language=ko"/>
         <updated>2023-01-11T15:30:41.610Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제우스의 시험 - 이설트 길레스피]]></title>
-        <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_zeus_test?language=ko</id>
-        <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_zeus_test?language=ko"/>
-        <updated>2023-01-11T15:30:41.614Z</updated>
-        <content type="html"><![CDATA[Iseult Gillespie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대중 감시를 멈춰야 할 변화]]></title>
-        <id>https://www.ted.com/talks/albert_fox_cahn_the_shift_we_need_to_stop_mass_surveillance?language=ko</id>
-        <link href="https://www.ted.com/talks/albert_fox_cahn_the_shift_we_need_to_stop_mass_surveillance?language=ko"/>
-        <updated>2023-01-11T15:30:41.614Z</updated>
-        <content type="html"><![CDATA[Albert Fox Cahn]]></content>
     </entry>
 </feed>
