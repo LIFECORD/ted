@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-01-18T23:16:15.785Z</updated>
+    <updated>2023-01-19T01:17:58.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자본주의는 정말로 망가졌을까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_is_capitalism_actually_broken?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_is_capitalism_actually_broken?language=ko"/>
+        <updated>2023-01-19T01:17:58.299Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[바이러스에 내성이 있는 생명체의 미래 잠재력]]></title>
         <id>https://www.ted.com/talks/jason_w_chin_a_virus_resistant_organism_and_what_it_could_mean_for_the_future?language=ko</id>
         <link href="https://www.ted.com/talks/jason_w_chin_a_virus_resistant_organism_and_what_it_could_mean_for_the_future?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_these_companies_with_no_ceo_are_thriving?language=ko"/>
         <updated>2023-01-18T15:16:42.166Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화석 연료를 대체할 최고의 희망, 원자력]]></title>
-        <id>https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels?language=ko</id>
-        <link href="https://www.ted.com/talks/isabelle_boemeke_nuclear_power_is_our_best_hope_to_ditch_fossil_fuels?language=ko"/>
-        <updated>2023-01-18T15:16:42.179Z</updated>
-        <content type="html"><![CDATA[Isabelle Boemeke]]></content>
     </entry>
 </feed>
