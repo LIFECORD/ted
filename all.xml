@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-23T04:22:08.352Z</updated>
+    <updated>2023-01-23T05:21:10.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[미국 사법 제도의 고질병인 불량 데이터 (TED Talks ─ Korean)]]></title>
@@ -222,6 +222,13 @@
         <content type="html"><![CDATA[Soraya Field Fiorio]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[운동을 하면 정말 신진대사가 촉진될까? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_can_exercise_actually_boost_your_metabolism?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_can_exercise_actually_boost_your_metabolism?language=ko"/>
+        <updated>2023-01-23T05:21:09.589Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[불평등은 피할 수 없는 것일까요? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/ted_ed_is_inequality_inevitable?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_is_inequality_inevitable?language=ko"/>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/ted_ed_should_you_care_what_your_parents_think?language=ko"/>
         <updated>2023-01-18T15:16:42.113Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페가수스와 키메라의 신화 - 이설트 길레스피 (Iseult Gillespie) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_pegasus_and_the_chimera?language=ko</id>
-        <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_pegasus_and_the_chimera?language=ko"/>
-        <updated>2023-01-18T15:16:42.116Z</updated>
-        <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
 </feed>
