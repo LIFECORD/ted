@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-26T23:22:28.491Z</updated>
+    <updated>2023-01-27T01:20:29.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[거절에 대처하는 법 (TED Talks ─ Korean)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://www.ted.com/talks/jessie_christiansen_what_the_discovery_of_exoplanets_reveals_about_the_universe?language=ko"/>
         <updated>2023-01-25T20:16:20.778Z</updated>
         <content type="html"><![CDATA[Jessie Christiansen]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숲과 균류의 오래된 공생 관계를 어떻게 활용할 수 있을까요? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/colin_averill_how_to_harness_the_ancient_partnership_between_forests_and_fungi?language=ko</id>
+        <link href="https://www.ted.com/talks/colin_averill_how_to_harness_the_ancient_partnership_between_forests_and_fungi?language=ko"/>
+        <updated>2023-01-27T01:20:27.630Z</updated>
+        <content type="html"><![CDATA[Colin Averill]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비버들은 왜 댐을 만들까요? - 글리니스 후드 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/henry_richardson_what_does_the_world_s_largest_machine_do?language=ko"/>
         <updated>2023-01-25T20:16:20.843Z</updated>
         <content type="html"><![CDATA[Henry Richardson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후각은 어떻게 맛을 음미하는 것을 도울까요? (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jen_gunter_how_your_sense_of_smell_helps_you_savor_flavor?language=ko</id>
-        <link href="https://www.ted.com/talks/jen_gunter_how_your_sense_of_smell_helps_you_savor_flavor?language=ko"/>
-        <updated>2023-01-25T20:16:20.843Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
