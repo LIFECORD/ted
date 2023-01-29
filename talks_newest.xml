@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-01-28T23:14:50.241Z</updated>
+    <updated>2023-01-29T01:20:50.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리는 정확히 언제 성인이 될까요? - 섀넌 오델]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult?language=ko"/>
+        <updated>2023-01-29T01:20:49.779Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국 사법 제도의 고질병인 불량 데이터]]></title>
         <id>https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system?language=ko</id>
         <link href="https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system?language=ko"/>
         <updated>2023-01-25T20:16:20.770Z</updated>
         <content type="html"><![CDATA[Clementine Jacoby]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기생 말벌의 기괴한 세계 - 마일스 장]]></title>
+        <id>https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps?language=ko</id>
+        <link href="https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps?language=ko"/>
+        <updated>2023-01-29T01:20:49.779Z</updated>
+        <content type="html"><![CDATA[Miles Zhang]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사 대 토머스 제퍼슨 - 프랭크 코글리아노(Frank Cogliano)]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/jen_gunter_can_exercise_actually_boost_your_metabolism?language=ko"/>
         <updated>2023-01-25T20:16:20.841Z</updated>
         <content type="html"><![CDATA[Jen Gunter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불평등은 피할 수 없는 것일까요?]]></title>
-        <id>https://www.ted.com/talks/ted_ed_is_inequality_inevitable?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_is_inequality_inevitable?language=ko"/>
-        <updated>2023-01-25T20:16:20.842Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계에서 가장 큰 기계는 무슨 일을 할까요? - 헨리 리차드슨과 케이티 라이언]]></title>
-        <id>https://www.ted.com/talks/henry_richardson_what_does_the_world_s_largest_machine_do?language=ko</id>
-        <link href="https://www.ted.com/talks/henry_richardson_what_does_the_world_s_largest_machine_do?language=ko"/>
-        <updated>2023-01-25T20:16:20.843Z</updated>
-        <content type="html"><![CDATA[Henry Richardson]]></content>
     </entry>
 </feed>
