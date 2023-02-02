@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-02T01:18:12.470Z</updated>
+    <updated>2023-02-02T02:51:09.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[거절에 대처하는 법 (TED Talks ─ Korean)]]></title>
@@ -115,6 +115,13 @@
         <link href="https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko"/>
         <updated>2023-02-01T17:15:11.096Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신은 어떻게 개발되며, 왜 안전할까요? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_how_vaccines_are_developed_and_why_they_re_safe?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_how_vaccines_are_developed_and_why_they_re_safe?language=ko"/>
+        <updated>2023-02-02T02:51:08.816Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 흑사병 의사들은 부리 모양 마스크를 썼을까? (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/soraya_field_fiorio_how_did_they_build_the_great_pyramid_of_giza?language=ko"/>
         <updated>2023-02-01T17:15:11.173Z</updated>
         <content type="html"><![CDATA[Soraya Field Fiorio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동을 하면 정말 신진대사가 촉진될까? (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jen_gunter_can_exercise_actually_boost_your_metabolism?language=ko</id>
-        <link href="https://www.ted.com/talks/jen_gunter_can_exercise_actually_boost_your_metabolism?language=ko"/>
-        <updated>2023-02-01T17:15:11.178Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
