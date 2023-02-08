@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-02-08T22:18:38.774Z</updated>
+    <updated>2023-02-08T23:19:07.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko"/>
         <updated>2023-02-04T02:37:28.006Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공 지능의 미래를 밝혀 줄 곤충의 뇌]]></title>
+        <id>https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko</id>
+        <link href="https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko"/>
+        <updated>2023-02-08T23:19:06.975Z</updated>
+        <content type="html"><![CDATA[Frances S. Chance]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/riley_moynes_how_to_squeeze_all_the_juice_out_of_retirement?language=ko"/>
         <updated>2023-02-04T02:37:28.170Z</updated>
         <content type="html"><![CDATA[Riley Moynes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기자의 대 피라미드는 어떻게 지어졌을까요? - 소라야 필드 피오리오(Soraya Field Fiorio)]]></title>
-        <id>https://www.ted.com/talks/soraya_field_fiorio_how_did_they_build_the_great_pyramid_of_giza?language=ko</id>
-        <link href="https://www.ted.com/talks/soraya_field_fiorio_how_did_they_build_the_great_pyramid_of_giza?language=ko"/>
-        <updated>2023-02-04T02:37:28.174Z</updated>
-        <content type="html"><![CDATA[Soraya Field Fiorio]]></content>
     </entry>
 </feed>
