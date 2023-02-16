@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-02-15T23:16:40.539Z</updated>
+    <updated>2023-02-16T01:20:09.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -116,6 +116,13 @@
         <link href="https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko"/>
         <updated>2023-02-04T02:37:28.015Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 사회 불안을 느낄까요?(그리고 어떻게 대처해야 할까요?)]]></title>
+        <id>https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko</id>
+        <link href="https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko"/>
+        <updated>2023-02-16T01:20:08.706Z</updated>
+        <content type="html"><![CDATA[Fallon Goodman]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떻게 하면 더 나은 경제를 만들 수 있을까요?]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_why_is_it_so_hard_to_cure_the_common_cold?language=ko"/>
         <updated>2023-02-04T02:37:28.165Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 몇 살 때 가장 똑똑할까요?]]></title>
-        <id>https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age?language=ko</id>
-        <link href="https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age?language=ko"/>
-        <updated>2023-02-04T02:37:28.169Z</updated>
-        <content type="html"><![CDATA[Shannon Odell]]></content>
     </entry>
 </feed>
