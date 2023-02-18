@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-02-18T01:17:24.603Z</updated>
+    <updated>2023-02-18T02:43:00.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -123,6 +123,13 @@
         <link href="https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko"/>
         <updated>2023-02-04T02:37:28.015Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타지마할: 영원한 사랑의 상징 - 스테파니 혼첼 스미스(Stephanie Honchell Smith)]]></title>
+        <id>https://www.ted.com/talks/stephanie_honchell_smith_the_taj_mahal_a_monument_to_eternal_love?language=ko</id>
+        <link href="https://www.ted.com/talks/stephanie_honchell_smith_the_taj_mahal_a_monument_to_eternal_love?language=ko"/>
+        <updated>2023-02-18T02:42:59.993Z</updated>
+        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리는 왜 사회 불안을 느낄까요?(그리고 어떻게 대처해야 할까요?)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/shreya_joshi_what_you_can_learn_from_people_who_disagree_with_you?language=ko"/>
         <updated>2023-02-04T02:37:28.162Z</updated>
         <content type="html"><![CDATA[Shreya Joshi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존은 100% 재생 에너지로 운영할 것을 약속합니다]]></title>
-        <id>https://www.ted.com/talks/chris_roe_amazon_s_commitment_to_run_on_100_percent_renewable_energy?language=ko</id>
-        <link href="https://www.ted.com/talks/chris_roe_amazon_s_commitment_to_run_on_100_percent_renewable_energy?language=ko"/>
-        <updated>2023-02-04T02:37:28.163Z</updated>
-        <content type="html"><![CDATA[Chris Roe]]></content>
     </entry>
 </feed>
