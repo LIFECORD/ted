@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-02-19T19:12:37.118Z</updated>
+    <updated>2023-02-19T20:16:24.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko"/>
         <updated>2023-02-08T23:19:06.975Z</updated>
         <content type="html"><![CDATA[Frances S. Chance]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ 세대가 미래를 위해 투자하는 방법]]></title>
+        <id>https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future?language=ko</id>
+        <link href="https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future?language=ko"/>
+        <updated>2023-02-19T20:16:23.224Z</updated>
+        <content type="html"><![CDATA[Miguel Goncalves]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/emmanuel_during_what_causes_sleepwalking?language=ko"/>
         <updated>2023-02-04T02:37:28.161Z</updated>
         <content type="html"><![CDATA[Emmanuel During]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의견이 다른 사람들로부터 배울 수 있는 것]]></title>
-        <id>https://www.ted.com/talks/shreya_joshi_what_you_can_learn_from_people_who_disagree_with_you?language=ko</id>
-        <link href="https://www.ted.com/talks/shreya_joshi_what_you_can_learn_from_people_who_disagree_with_you?language=ko"/>
-        <updated>2023-02-04T02:37:28.162Z</updated>
-        <content type="html"><![CDATA[Shreya Joshi]]></content>
     </entry>
 </feed>
