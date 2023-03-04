@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-04T08:19:38.202Z</updated>
+    <updated>2023-03-04T09:14:53.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[거절에 대처하는 법 (TED Talks ─ Korean)]]></title>
@@ -38,6 +38,13 @@
         <link href="https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps?language=ko"/>
         <updated>2023-03-04T01:17:51.484Z</updated>
         <content type="html"><![CDATA[Miles Zhang]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의료 혁신에서 간호사가 중요한 이유 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation?language=ko</id>
+        <link href="https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation?language=ko"/>
+        <updated>2023-03-04T09:14:52.881Z</updated>
+        <content type="html"><![CDATA[Ben Gran]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사 대 토머스 제퍼슨 - 프랭크 코글리아노(Frank Cogliano) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/ted_ed_is_capitalism_actually_broken?language=ko"/>
         <updated>2023-03-04T01:17:51.585Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이러스에 내성이 있는 생명체의 미래 잠재력 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jason_w_chin_a_virus_resistant_organism_and_what_it_could_mean_for_the_future?language=ko</id>
-        <link href="https://www.ted.com/talks/jason_w_chin_a_virus_resistant_organism_and_what_it_could_mean_for_the_future?language=ko"/>
-        <updated>2023-03-04T01:17:51.586Z</updated>
-        <content type="html"><![CDATA[Jason W. Chin]]></content>
     </entry>
 </feed>
