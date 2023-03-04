@@ -2,259 +2,259 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-03-04T14:14:30.657Z</updated>
+    <updated>2023-03-04T15:15:49.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Have you met your soulmate?]]></title>
-        <id>https://www.ted.com/talks/ashley_clift_jennings_have_you_met_your_soulmate</id>
-        <link href="https://www.ted.com/talks/ashley_clift_jennings_have_you_met_your_soulmate"/>
-        <updated>2023-03-04T14:14:29.769Z</updated>
-        <content type="html"><![CDATA[Ashley Clift-Jennings]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 steps of anxiety overload — and how you can take back control]]></title>
-        <id>https://www.ted.com/talks/lisa_damour_3_steps_of_anxiety_overload_and_how_you_can_take_back_control</id>
-        <link href="https://www.ted.com/talks/lisa_damour_3_steps_of_anxiety_overload_and_how_you_can_take_back_control"/>
-        <updated>2023-03-04T14:14:29.793Z</updated>
-        <content type="html"><![CDATA[Lisa Damour]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The nostalgia behind your favorite Chinese food]]></title>
-        <id>https://www.ted.com/talks/vincent_yeow_lim_the_nostalgia_behind_your_favorite_chinese_food</id>
-        <link href="https://www.ted.com/talks/vincent_yeow_lim_the_nostalgia_behind_your_favorite_chinese_food"/>
-        <updated>2023-03-04T14:14:29.794Z</updated>
-        <content type="html"><![CDATA[Vincent Yeow Lim]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do airplanes stay in the air?]]></title>
-        <id>https://www.ted.com/talks/raymond_adkins_how_do_airplanes_stay_in_the_air</id>
-        <link href="https://www.ted.com/talks/raymond_adkins_how_do_airplanes_stay_in_the_air"/>
-        <updated>2023-03-04T14:14:29.796Z</updated>
-        <content type="html"><![CDATA[Raymond Adkins]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is democracy doomed? The global fight for our future]]></title>
-        <id>https://www.ted.com/talks/timothy_snyder_is_democracy_doomed_the_global_fight_for_our_future</id>
-        <link href="https://www.ted.com/talks/timothy_snyder_is_democracy_doomed_the_global_fight_for_our_future"/>
-        <updated>2023-03-04T14:14:29.797Z</updated>
-        <content type="html"><![CDATA[Timothy Snyder]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of the most "dangerous" men in American history]]></title>
-        <id>https://www.ted.com/talks/keenan_norris_one_of_the_most_dangerous_men_in_american_history</id>
-        <link href="https://www.ted.com/talks/keenan_norris_one_of_the_most_dangerous_men_in_american_history"/>
-        <updated>2023-03-04T14:14:29.813Z</updated>
-        <content type="html"><![CDATA[Keenan Norris]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A for-profit mindset for nonprofit success]]></title>
-        <id>https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success</id>
-        <link href="https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success"/>
-        <updated>2023-03-04T14:14:29.814Z</updated>
-        <content type="html"><![CDATA[Tolu Oyekan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Bright Future Ahead"]]></title>
-        <id>https://www.ted.com/talks/kera_bright_future_ahead</id>
-        <link href="https://www.ted.com/talks/kera_bright_future_ahead"/>
-        <updated>2023-03-04T14:14:29.815Z</updated>
-        <content type="html"><![CDATA[KERA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 stories of Pakistani resilience, told in film]]></title>
-        <id>https://www.ted.com/talks/jawad_sharif_3_stories_of_pakistani_resilience_told_in_film</id>
-        <link href="https://www.ted.com/talks/jawad_sharif_3_stories_of_pakistani_resilience_told_in_film"/>
-        <updated>2023-03-04T14:14:29.816Z</updated>
-        <content type="html"><![CDATA[Jawad Sharif]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could fungi actually be the key to humanity's survival?]]></title>
-        <id>https://www.ted.com/talks/david_andrew_quist_could_fungi_actually_be_the_key_to_humanity_s_survival</id>
-        <link href="https://www.ted.com/talks/david_andrew_quist_could_fungi_actually_be_the_key_to_humanity_s_survival"/>
-        <updated>2023-03-04T14:14:29.819Z</updated>
-        <content type="html"><![CDATA[David Andrew Quist]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When did slavery actually end in the United States?]]></title>
-        <id>https://www.ted.com/talks/karlos_hill_and_soraya_field_fiorio_when_did_slavery_actually_end_in_the_united_states</id>
-        <link href="https://www.ted.com/talks/karlos_hill_and_soraya_field_fiorio_when_did_slavery_actually_end_in_the_united_states"/>
-        <updated>2023-03-04T14:14:29.821Z</updated>
-        <content type="html"><![CDATA[Karlos Hill and Soraya Field Fiorio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The secret to making new friends as an adult]]></title>
-        <id>https://www.ted.com/talks/marisa_g_franco_the_secret_to_making_new_friends_as_an_adult</id>
-        <link href="https://www.ted.com/talks/marisa_g_franco_the_secret_to_making_new_friends_as_an_adult"/>
-        <updated>2023-03-04T14:14:29.822Z</updated>
-        <content type="html"><![CDATA[Marisa G. Franco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Black queer culture shaped history]]></title>
-        <id>https://www.ted.com/talks/channing_gerard_joseph_how_black_queer_culture_shaped_history</id>
-        <link href="https://www.ted.com/talks/channing_gerard_joseph_how_black_queer_culture_shaped_history"/>
-        <updated>2023-03-04T14:14:29.825Z</updated>
-        <content type="html"><![CDATA[Channing Gerard Joseph]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethical dilemma: Should we get rid of mosquitoes?]]></title>
-        <id>https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes</id>
-        <link href="https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes"/>
-        <updated>2023-03-04T14:14:29.836Z</updated>
+        <title type="html"><![CDATA[윤리적 문제: 모기를 박멸해도 괜찮을까요? - 탈리아 해켓(Talya Hackett)]]></title>
+        <id>https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes?language=ko</id>
+        <link href="https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes?language=ko"/>
+        <updated>2023-03-04T15:15:48.061Z</updated>
         <content type="html"><![CDATA[Talya Hackett]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The fairy tales of the fossil fuel industry — and a better climate story]]></title>
-        <id>https://www.ted.com/talks/luisa_neubauer_the_fairy_tales_of_the_fossil_fuel_industry_and_a_better_climate_story</id>
-        <link href="https://www.ted.com/talks/luisa_neubauer_the_fairy_tales_of_the_fossil_fuel_industry_and_a_better_climate_story"/>
-        <updated>2023-03-04T14:14:29.836Z</updated>
-        <content type="html"><![CDATA[Luisa Neubauer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to participate in your own legal defense]]></title>
-        <id>https://www.ted.com/talks/lam_ho_how_to_participate_in_your_own_legal_defense</id>
-        <link href="https://www.ted.com/talks/lam_ho_how_to_participate_in_your_own_legal_defense"/>
-        <updated>2023-03-04T14:14:29.837Z</updated>
-        <content type="html"><![CDATA[Lam Ho]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 values for repairing the harms of colonialism]]></title>
-        <id>https://www.ted.com/talks/jing_corpuz_5_values_for_repairing_the_harms_of_colonialism</id>
-        <link href="https://www.ted.com/talks/jing_corpuz_5_values_for_repairing_the_harms_of_colonialism"/>
-        <updated>2023-03-04T14:14:29.837Z</updated>
-        <content type="html"><![CDATA[Jing Corpuz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you steal the most powerful wand in the wizarding world?]]></title>
-        <id>https://www.ted.com/talks/dan_finkel_can_you_steal_the_most_powerful_wand_in_the_wizarding_world</id>
-        <link href="https://www.ted.com/talks/dan_finkel_can_you_steal_the_most_powerful_wand_in_the_wizarding_world"/>
-        <updated>2023-03-04T14:14:29.838Z</updated>
-        <content type="html"><![CDATA[Dan Finkel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ecstasy of Eskista, an ancient Ethiopian dance]]></title>
-        <id>https://www.ted.com/talks/melaku_belay_the_ecstasy_of_eskista_an_ancient_ethiopian_dance</id>
-        <link href="https://www.ted.com/talks/melaku_belay_the_ecstasy_of_eskista_an_ancient_ethiopian_dance"/>
-        <updated>2023-03-04T14:14:29.839Z</updated>
-        <content type="html"><![CDATA[Melaku Belay]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden connections that transcend borders and defy stereotypes]]></title>
-        <id>https://www.ted.com/talks/aparna_bharadwaj_hidden_connections_that_transcend_borders_and_defy_stereotypes</id>
-        <link href="https://www.ted.com/talks/aparna_bharadwaj_hidden_connections_that_transcend_borders_and_defy_stereotypes"/>
-        <updated>2023-03-04T14:14:29.850Z</updated>
-        <content type="html"><![CDATA[Aparna Bharadwaj]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 new species of robot that jump, dance — and walk on water]]></title>
-        <id>https://www.ted.com/talks/dennis_hong_7_new_species_of_robot_that_jump_dance_and_walk_on_water</id>
-        <link href="https://www.ted.com/talks/dennis_hong_7_new_species_of_robot_that_jump_dance_and_walk_on_water"/>
-        <updated>2023-03-04T14:14:29.851Z</updated>
-        <content type="html"><![CDATA[Dennis Hong]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to deal with rejection]]></title>
-        <id>https://www.ted.com/talks/ted_ed_how_to_deal_with_rejection</id>
-        <link href="https://www.ted.com/talks/ted_ed_how_to_deal_with_rejection"/>
-        <updated>2023-03-04T14:14:29.854Z</updated>
+        <title type="html"><![CDATA[거절에 대처하는 법]]></title>
+        <id>https://www.ted.com/talks/ted_ed_how_to_deal_with_rejection?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_how_to_deal_with_rejection?language=ko"/>
+        <updated>2023-03-04T15:15:48.063Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The one question every aspiring leader needs to ask]]></title>
-        <id>https://www.ted.com/talks/constance_hockaday_the_one_question_every_aspiring_leader_needs_to_ask</id>
-        <link href="https://www.ted.com/talks/constance_hockaday_the_one_question_every_aspiring_leader_needs_to_ask"/>
-        <updated>2023-03-04T14:14:29.855Z</updated>
-        <content type="html"><![CDATA[Constance Hockaday]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Mana" / "Salt Water"]]></title>
-        <id>https://www.ted.com/talks/mia_kami_mana_salt_water</id>
-        <link href="https://www.ted.com/talks/mia_kami_mana_salt_water"/>
-        <updated>2023-03-04T14:14:29.856Z</updated>
-        <content type="html"><![CDATA[Mia Kami]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A socialist perspective on the pursuit of happiness]]></title>
-        <id>https://www.ted.com/talks/aaron_bastani_a_socialist_perspective_on_the_pursuit_of_happiness</id>
-        <link href="https://www.ted.com/talks/aaron_bastani_a_socialist_perspective_on_the_pursuit_of_happiness"/>
-        <updated>2023-03-04T14:14:29.872Z</updated>
-        <content type="html"><![CDATA[Aaron Bastani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When are you actually an adult?]]></title>
-        <id>https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult</id>
-        <link href="https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult"/>
-        <updated>2023-03-04T14:14:29.873Z</updated>
+        <title type="html"><![CDATA[우리는 정확히 언제 성인이 될까요? - 섀넌 오델]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult?language=ko"/>
+        <updated>2023-03-04T15:15:48.063Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where does your sense of self come from? A scientific look]]></title>
-        <id>https://www.ted.com/talks/anil_ananthaswamy_where_does_your_sense_of_self_come_from_a_scientific_look</id>
-        <link href="https://www.ted.com/talks/anil_ananthaswamy_where_does_your_sense_of_self_come_from_a_scientific_look"/>
-        <updated>2023-03-04T14:14:29.874Z</updated>
-        <content type="html"><![CDATA[Anil Ananthaswamy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can we feed ourselves without devouring the planet?]]></title>
-        <id>https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet</id>
-        <link href="https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet"/>
-        <updated>2023-03-04T14:14:29.875Z</updated>
-        <content type="html"><![CDATA[George Monbiot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mao Zedong's infamous mango cult]]></title>
-        <id>https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult</id>
-        <link href="https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult"/>
-        <updated>2023-03-04T14:14:29.876Z</updated>
+        <title type="html"><![CDATA[마오 쩌둥의 악명 높은 망고 숭배 - 비비안 장(Vivian Jiang)]]></title>
+        <id>https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult?language=ko</id>
+        <link href="https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult?language=ko"/>
+        <updated>2023-03-04T15:15:48.069Z</updated>
         <content type="html"><![CDATA[Vivian Jiang]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to recognize privilege – and uplift those without it]]></title>
-        <id>https://www.ted.com/talks/mariam_veiszadeh_how_to_recognize_privilege_and_uplift_those_without_it</id>
-        <link href="https://www.ted.com/talks/mariam_veiszadeh_how_to_recognize_privilege_and_uplift_those_without_it"/>
-        <updated>2023-03-04T14:14:29.877Z</updated>
-        <content type="html"><![CDATA[Mariam Veiszadeh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How bad data traps people in the US justice system]]></title>
-        <id>https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system</id>
-        <link href="https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system"/>
-        <updated>2023-03-04T14:14:29.878Z</updated>
+        <title type="html"><![CDATA[미국 사법 제도의 고질병인 불량 데이터]]></title>
+        <id>https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system?language=ko</id>
+        <link href="https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system?language=ko"/>
+        <updated>2023-03-04T15:15:48.093Z</updated>
         <content type="html"><![CDATA[Clementine Jacoby]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The bizarre world of parasitic wasps]]></title>
-        <id>https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps</id>
-        <link href="https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps"/>
-        <updated>2023-03-04T14:14:29.880Z</updated>
+        <title type="html"><![CDATA[기생 말벌의 기괴한 세계 - 마일스 장]]></title>
+        <id>https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps?language=ko</id>
+        <link href="https://www.ted.com/talks/miles_zhang_the_bizarre_world_of_parasitic_wasps?language=ko"/>
+        <updated>2023-03-04T15:15:48.108Z</updated>
         <content type="html"><![CDATA[Miles Zhang]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The sustainable brilliance of Indigenous design]]></title>
-        <id>https://www.ted.com/talks/manu_peni_the_sustainable_brilliance_of_indigenous_design</id>
-        <link href="https://www.ted.com/talks/manu_peni_the_sustainable_brilliance_of_indigenous_design"/>
-        <updated>2023-03-04T14:14:29.881Z</updated>
-        <content type="html"><![CDATA[Manu Peni]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why nurses are key to medical innovation]]></title>
-        <id>https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation</id>
-        <link href="https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation"/>
-        <updated>2023-03-04T14:14:29.882Z</updated>
+        <title type="html"><![CDATA[의료 혁신에서 간호사가 중요한 이유]]></title>
+        <id>https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation?language=ko</id>
+        <link href="https://www.ted.com/talks/ben_gran_why_nurses_are_key_to_medical_innovation?language=ko"/>
+        <updated>2023-03-04T15:15:48.109Z</updated>
         <content type="html"><![CDATA[Ben Gran]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[History vs. Thomas Jefferson]]></title>
-        <id>https://www.ted.com/talks/frank_cogliano_history_vs_thomas_jefferson</id>
-        <link href="https://www.ted.com/talks/frank_cogliano_history_vs_thomas_jefferson"/>
-        <updated>2023-03-04T14:14:29.883Z</updated>
+        <title type="html"><![CDATA[역사 대 토머스 제퍼슨 - 프랭크 코글리아노(Frank Cogliano)]]></title>
+        <id>https://www.ted.com/talks/frank_cogliano_history_vs_thomas_jefferson?language=ko</id>
+        <link href="https://www.ted.com/talks/frank_cogliano_history_vs_thomas_jefferson?language=ko"/>
+        <updated>2023-03-04T15:15:48.123Z</updated>
         <content type="html"><![CDATA[Frank Cogliano]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The secret to a happy life — lessons from 8 decades of research]]></title>
-        <id>https://www.ted.com/talks/robert_waldinger_the_secret_to_a_happy_life_lessons_from_8_decades_of_research</id>
-        <link href="https://www.ted.com/talks/robert_waldinger_the_secret_to_a_happy_life_lessons_from_8_decades_of_research"/>
-        <updated>2023-03-04T14:14:29.887Z</updated>
-        <content type="html"><![CDATA[Robert Waldinger]]></content>
+        <title type="html"><![CDATA[외행성의 발견으로 파헤치는 우주]]></title>
+        <id>https://www.ted.com/talks/jessie_christiansen_what_the_discovery_of_exoplanets_reveals_about_the_universe?language=ko</id>
+        <link href="https://www.ted.com/talks/jessie_christiansen_what_the_discovery_of_exoplanets_reveals_about_the_universe?language=ko"/>
+        <updated>2023-03-04T15:15:48.126Z</updated>
+        <content type="html"><![CDATA[Jessie Christiansen]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숲과 균류의 오래된 공생 관계를 어떻게 활용할 수 있을까요?]]></title>
+        <id>https://www.ted.com/talks/colin_averill_how_to_harness_the_ancient_partnership_between_forests_and_fungi?language=ko</id>
+        <link href="https://www.ted.com/talks/colin_averill_how_to_harness_the_ancient_partnership_between_forests_and_fungi?language=ko"/>
+        <updated>2023-03-04T15:15:48.130Z</updated>
+        <content type="html"><![CDATA[Colin Averill]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비버들은 왜 댐을 만들까요? - 글리니스 후드]]></title>
+        <id>https://www.ted.com/talks/glynnis_hood_why_do_beavers_build_dams?language=ko</id>
+        <link href="https://www.ted.com/talks/glynnis_hood_why_do_beavers_build_dams?language=ko"/>
+        <updated>2023-03-04T15:15:48.131Z</updated>
+        <content type="html"><![CDATA[Glynnis Hood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우울할 때 빨래는 어떻게 할까요?]]></title>
+        <id>https://www.ted.com/talks/kc_davis_how_to_do_laundry_when_you_re_depressed_jan_2022?language=ko</id>
+        <link href="https://www.ted.com/talks/kc_davis_how_to_do_laundry_when_you_re_depressed_jan_2022?language=ko"/>
+        <updated>2023-03-04T15:15:48.135Z</updated>
+        <content type="html"><![CDATA[KC Davis]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 귀여운 것들을 쥐어짜고 싶어할까요? - 조슈아 폴 데일]]></title>
+        <id>https://www.ted.com/talks/joshua_paul_dale_why_do_you_want_to_squeeze_cute_things?language=ko</id>
+        <link href="https://www.ted.com/talks/joshua_paul_dale_why_do_you_want_to_squeeze_cute_things?language=ko"/>
+        <updated>2023-03-04T15:15:48.135Z</updated>
+        <content type="html"><![CDATA[Joshua Paul Dale]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사춘기가 뇌를 어떻게 변화시키는지 - 새넌 오델]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko"/>
+        <updated>2023-03-04T15:15:48.142Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공 지능의 미래를 밝혀 줄 곤충의 뇌]]></title>
+        <id>https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko</id>
+        <link href="https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko"/>
+        <updated>2023-03-04T15:15:48.145Z</updated>
+        <content type="html"><![CDATA[Frances S. Chance]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ 세대가 미래를 위해 투자하는 방법]]></title>
+        <id>https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future?language=ko</id>
+        <link href="https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future?language=ko"/>
+        <updated>2023-03-04T15:15:48.147Z</updated>
+        <content type="html"><![CDATA[Miguel Goncalves]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(과학적인 면에서) 가장 좋은 방법으로 사과하기]]></title>
+        <id>https://www.ted.com/talks/ted_ed_the_best_way_to_apologize_according_to_science?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_the_best_way_to_apologize_according_to_science?language=ko"/>
+        <updated>2023-03-04T15:15:48.148Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지역 사회 기후 활동에 대한 창의적인 접근법]]></title>
+        <id>https://www.ted.com/talks/xavier_cortada_a_creative_approach_to_community_climate_action?language=ko</id>
+        <link href="https://www.ted.com/talks/xavier_cortada_a_creative_approach_to_community_climate_action?language=ko"/>
+        <updated>2023-03-04T15:15:48.149Z</updated>
+        <content type="html"><![CDATA[Xavier Cortada]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 덕분에 야생 동물과 가까워질 수 있을까요?]]></title>
+        <id>https://www.ted.com/talks/gautam_shah_can_the_metaverse_bring_us_closer_to_wildlife?language=ko</id>
+        <link href="https://www.ted.com/talks/gautam_shah_can_the_metaverse_bring_us_closer_to_wildlife?language=ko"/>
+        <updated>2023-03-04T15:15:48.150Z</updated>
+        <content type="html"><![CDATA[Gautam Shah]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑의 과학 - 샤넌 오델(Shannon Odell)]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_the_science_of_falling_in_love?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_the_science_of_falling_in_love?language=ko"/>
+        <updated>2023-03-04T15:15:48.152Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공 지능의 한계와 범용 인공 지능의 가능성]]></title>
+        <id>https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko"/>
+        <updated>2023-03-04T15:15:48.153Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치솟는 에너지 요금에서 벗어나는 법:  화석 연료 사용을 멈추세요!]]></title>
+        <id>https://www.ted.com/talks/tessa_khan_how_can_we_escape_soaring_energy_bills_stop_using_fossil_fuels?language=ko</id>
+        <link href="https://www.ted.com/talks/tessa_khan_how_can_we_escape_soaring_energy_bills_stop_using_fossil_fuels?language=ko"/>
+        <updated>2023-03-04T15:15:48.157Z</updated>
+        <content type="html"><![CDATA[Tessa Khan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타지마할: 영원한 사랑의 상징 - 스테파니 혼첼 스미스(Stephanie Honchell Smith)]]></title>
+        <id>https://www.ted.com/talks/stephanie_honchell_smith_the_taj_mahal_a_monument_to_eternal_love?language=ko</id>
+        <link href="https://www.ted.com/talks/stephanie_honchell_smith_the_taj_mahal_a_monument_to_eternal_love?language=ko"/>
+        <updated>2023-03-04T15:15:48.159Z</updated>
+        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 사회 불안을 느낄까요?(그리고 어떻게 대처해야 할까요?)]]></title>
+        <id>https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko</id>
+        <link href="https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko"/>
+        <updated>2023-03-04T15:15:48.161Z</updated>
+        <content type="html"><![CDATA[Fallon Goodman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 하면 더 나은 경제를 만들 수 있을까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko"/>
+        <updated>2023-03-04T15:15:48.162Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신은 어떻게 개발되며, 왜 안전할까요?]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_how_vaccines_are_developed_and_why_they_re_safe?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_how_vaccines_are_developed_and_why_they_re_safe?language=ko"/>
+        <updated>2023-03-04T15:15:48.163Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 흑사병 의사들은 부리 모양 마스크를 썼을까?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_why_plague_doctors_wore_beaked_masks?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_why_plague_doctors_wore_beaked_masks?language=ko"/>
+        <updated>2023-03-04T15:15:48.167Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경청하는 사람이 알아야 할 네 가지 원칙]]></title>
+        <id>https://www.ted.com/talks/ted_ed_4_things_all_great_listeners_know?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_4_things_all_great_listeners_know?language=ko"/>
+        <updated>2023-03-04T15:15:48.168Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살아있는 고래의 가치와 경제가 자연을 보호해야 하는 이유]]></title>
+        <id>https://www.ted.com/talks/ralph_chami_what_a_living_whale_is_worth_and_why_the_economy_should_protect_nature?language=ko</id>
+        <link href="https://www.ted.com/talks/ralph_chami_what_a_living_whale_is_worth_and_why_the_economy_should_protect_nature?language=ko"/>
+        <updated>2023-03-04T15:15:48.169Z</updated>
+        <content type="html"><![CDATA[Ralph Chami]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히]]></title>
+        <id>https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko</id>
+        <link href="https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko"/>
+        <updated>2023-03-04T15:15:48.170Z</updated>
+        <content type="html"><![CDATA[Rob Ulrich]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상을 바꿀 밀밭]]></title>
+        <id>https://www.ted.com/talks/guntur_v_subbarao_the_wheat_field_that_could_change_the_world?language=ko</id>
+        <link href="https://www.ted.com/talks/guntur_v_subbarao_the_wheat_field_that_could_change_the_world?language=ko"/>
+        <updated>2023-03-04T15:15:48.174Z</updated>
+        <content type="html"><![CDATA[Guntur V. Subbarao]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽기 전에 질병 대유행이 또 올까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_will_there_be_another_pandemic_in_your_lifetime?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_will_there_be_another_pandemic_in_your_lifetime?language=ko"/>
+        <updated>2023-03-04T15:15:48.175Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생명의 가치는 어떻게 결정할까요? - 레베카 워커]]></title>
+        <id>https://www.ted.com/talks/rebecca_l_walker_how_do_we_determine_the_value_of_a_life?language=ko</id>
+        <link href="https://www.ted.com/talks/rebecca_l_walker_how_do_we_determine_the_value_of_a_life?language=ko"/>
+        <updated>2023-03-04T15:15:48.185Z</updated>
+        <content type="html"><![CDATA[Rebecca L. Walker]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물처럼 움직이는 미래 기계]]></title>
+        <id>https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko</id>
+        <link href="https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko"/>
+        <updated>2023-03-04T15:15:48.187Z</updated>
+        <content type="html"><![CDATA[Robert Katzschmann]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나의 백신으로 모든 병을 예방할 수 있을까?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko"/>
+        <updated>2023-03-04T15:15:48.187Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 8시간 수면이 정말 필요할까?]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko"/>
+        <updated>2023-03-04T15:15:48.191Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
