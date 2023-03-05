@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-03-05T08:19:23.682Z</updated>
+    <updated>2023-03-05T09:15:15.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국에서 노예 제도가 실제로 끝난 것은 언제일까요? - 카를로스 힐(Karlos Hill),  소라야 필드 피오리오(Soraya Field Fiorio)]]></title>
+        <id>https://www.ted.com/talks/karlos_hill_and_soraya_field_fiorio_when_did_slavery_actually_end_in_the_united_states?language=ko</id>
+        <link href="https://www.ted.com/talks/karlos_hill_and_soraya_field_fiorio_when_did_slavery_actually_end_in_the_united_states?language=ko"/>
+        <updated>2023-03-05T09:15:14.694Z</updated>
+        <content type="html"><![CDATA[Karlos Hill and Soraya Field Fiorio]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤리적 문제: 모기를 박멸해도 괜찮을까요? - 탈리아 해켓(Talya Hackett)]]></title>
         <id>https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko"/>
         <updated>2023-03-04T15:15:48.187Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 8시간 수면이 정말 필요할까?]]></title>
-        <id>https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko</id>
-        <link href="https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night?language=ko"/>
-        <updated>2023-03-04T15:15:48.191Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
