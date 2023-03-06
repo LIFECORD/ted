@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-03-06T11:14:22.411Z</updated>
+    <updated>2023-03-06T12:32:23.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult?language=ko"/>
         <updated>2023-03-04T15:15:48.063Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구를 파괴하지 않으면서 식량을 조달하는 방법]]></title>
+        <id>https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet?language=ko</id>
+        <link href="https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet?language=ko"/>
+        <updated>2023-03-06T12:32:23.241Z</updated>
+        <content type="html"><![CDATA[George Monbiot]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마오 쩌둥의 악명 높은 망고 숭배 - 비비안 장(Vivian Jiang)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko"/>
         <updated>2023-03-04T15:15:48.187Z</updated>
         <content type="html"><![CDATA[Robert Katzschmann]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나의 백신으로 모든 병을 예방할 수 있을까?]]></title>
-        <id>https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_could_one_vaccine_protect_against_everything?language=ko"/>
-        <updated>2023-03-04T15:15:48.187Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
