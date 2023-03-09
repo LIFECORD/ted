@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-03-09T12:33:23.430Z</updated>
+    <updated>2023-03-09T13:32:15.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -109,6 +109,13 @@
         <link href="https://www.ted.com/talks/joshua_paul_dale_why_do_you_want_to_squeeze_cute_things?language=ko"/>
         <updated>2023-03-04T15:15:48.135Z</updated>
         <content type="html"><![CDATA[Joshua Paul Dale]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이러스를 없애는 세 가지 방법]]></title>
+        <id>https://www.ted.com/talks/ted_ed_3_ways_to_end_a_virus?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_3_ways_to_end_a_virus?language=ko"/>
+        <updated>2023-03-09T13:32:14.704Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사춘기가 뇌를 어떻게 변화시키는지 - 새넌 오델]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/rebecca_l_walker_how_do_we_determine_the_value_of_a_life?language=ko"/>
         <updated>2023-03-04T15:15:48.185Z</updated>
         <content type="html"><![CDATA[Rebecca L. Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물처럼 움직이는 미래 기계]]></title>
-        <id>https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko</id>
-        <link href="https://www.ted.com/talks/robert_katzschmann_the_future_of_machines_that_move_like_animals?language=ko"/>
-        <updated>2023-03-04T15:15:48.187Z</updated>
-        <content type="html"><![CDATA[Robert Katzschmann]]></content>
     </entry>
 </feed>
