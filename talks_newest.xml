@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-03-14T14:18:58.046Z</updated>
+    <updated>2023-03-14T15:20:43.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공 바이러스가 실험실을 탈출하면 어떤 일이 일어날까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_what_happens_if_an_engineered_virus_escapes_the_lab?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_what_happens_if_an_engineered_virus_escapes_the_lab?language=ko"/>
+        <updated>2023-03-14T15:20:42.479Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비행기는 어떻게 하늘을 날까요? - 레이몬드 애드킨스(Raymond Adkins)]]></title>
         <id>https://www.ted.com/talks/raymond_adkins_how_do_airplanes_stay_in_the_air?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/guntur_v_subbarao_the_wheat_field_that_could_change_the_world?language=ko"/>
         <updated>2023-03-14T14:18:57.176Z</updated>
         <content type="html"><![CDATA[Guntur V. Subbarao]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽기 전에 질병 대유행이 또 올까요?]]></title>
-        <id>https://www.ted.com/talks/ted_ed_will_there_be_another_pandemic_in_your_lifetime?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_will_there_be_another_pandemic_in_your_lifetime?language=ko"/>
-        <updated>2023-03-14T14:18:57.178Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
