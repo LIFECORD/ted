@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-03-16T14:16:07.882Z</updated>
+    <updated>2023-03-16T15:17:57.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[촉각을 잃으면 어떻게 될까요? - 안토니오 카탈도(Antonio Cataldo)]]></title>
+        <id>https://www.ted.com/talks/antonio_cataldo_what_would_happen_if_you_lost_your_sense_of_touch?language=ko</id>
+        <link href="https://www.ted.com/talks/antonio_cataldo_what_would_happen_if_you_lost_your_sense_of_touch?language=ko"/>
+        <updated>2023-03-16T15:17:36.618Z</updated>
+        <content type="html"><![CDATA[Antonio Cataldo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공 바이러스가 실험실을 탈출하면 어떤 일이 일어날까요?]]></title>
         <id>https://www.ted.com/talks/ted_ed_what_happens_if_an_engineered_virus_escapes_the_lab?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/jay_van_bavel_and_dominic_packer_the_sibling_rivalry_that_divided_a_town?language=ko"/>
         <updated>2023-03-16T13:29:02.488Z</updated>
         <content type="html"><![CDATA[Jay Van Bavel and Dominic Packer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히]]></title>
-        <id>https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko</id>
-        <link href="https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko"/>
-        <updated>2023-03-14T14:18:57.174Z</updated>
-        <content type="html"><![CDATA[Rob Ulrich]]></content>
     </entry>
 </feed>
