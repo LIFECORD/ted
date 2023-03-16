@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-16T12:31:06.494Z</updated>
+    <updated>2023-03-16T13:29:03.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[인공 바이러스가 실험실을 탈출하면 어떤 일이 일어날까요? (TED Talks ─ Korean)]]></title>
@@ -243,17 +243,17 @@
         <content type="html"><![CDATA[Ralph Chami]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한 도시를 갈라놓은 두 형제의 싸움 - 제이 반 바벨과 도미닉 패커 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/jay_van_bavel_and_dominic_packer_the_sibling_rivalry_that_divided_a_town?language=ko</id>
+        <link href="https://www.ted.com/talks/jay_van_bavel_and_dominic_packer_the_sibling_rivalry_that_divided_a_town?language=ko"/>
+        <updated>2023-03-16T13:29:02.488Z</updated>
+        <content type="html"><![CDATA[Jay Van Bavel and Dominic Packer]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[굴은 어떻게 진주를 만들까요? - 롭 울리히 (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko</id>
         <link href="https://www.ted.com/talks/rob_ulrich_how_do_oysters_make_pearls?language=ko"/>
         <updated>2023-03-14T14:18:57.174Z</updated>
         <content type="html"><![CDATA[Rob Ulrich]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상을 바꿀 밀밭 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/guntur_v_subbarao_the_wheat_field_that_could_change_the_world?language=ko</id>
-        <link href="https://www.ted.com/talks/guntur_v_subbarao_the_wheat_field_that_could_change_the_world?language=ko"/>
-        <updated>2023-03-14T14:18:57.176Z</updated>
-        <content type="html"><![CDATA[Guntur V. Subbarao]]></content>
     </entry>
 </feed>
