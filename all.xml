@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-25T10:14:57.467Z</updated>
+    <updated>2023-03-25T11:11:48.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[촉각을 잃으면 어떻게 될까요? - 안토니오 카탈도(Antonio Cataldo) (TED Talks ─ Korean)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오토바이로 시작하는 아프리카의 친환경 이동 수단 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/adetayo_bamiduro_africa_s_path_to_clean_mobility_driven_by_motorcycles?language=ko</id>
+        <link href="https://www.ted.com/talks/adetayo_bamiduro_africa_s_path_to_clean_mobility_driven_by_motorcycles?language=ko"/>
+        <updated>2023-03-25T11:11:47.635Z</updated>
+        <content type="html"><![CDATA[Adetayo Bamiduro]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사춘기가 뇌를 어떻게 변화시키는지 - 새넌 오델 (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko</id>
         <link href="https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko"/>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/ted_ed_4_things_all_great_listeners_know?language=ko"/>
         <updated>2023-03-21T14:12:28.963Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살아있는 고래의 가치와 경제가 자연을 보호해야 하는 이유 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/ralph_chami_what_a_living_whale_is_worth_and_why_the_economy_should_protect_nature?language=ko</id>
-        <link href="https://www.ted.com/talks/ralph_chami_what_a_living_whale_is_worth_and_why_the_economy_should_protect_nature?language=ko"/>
-        <updated>2023-03-21T14:12:28.979Z</updated>
-        <content type="html"><![CDATA[Ralph Chami]]></content>
     </entry>
 </feed>
