@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-04-04T21:12:46.021Z</updated>
+    <updated>2023-04-04T22:14:09.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -28,9 +28,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[비행기는 어떻게 하늘을 날까요? - 레이몬드 애드킨스(Raymond Adkins)]]></title>
-        <id>https://www.ted.com/talks/raymond_adkins_how_do_airplanes_stay_in_the_air?language=ko</id>
-        <link href="https://www.ted.com/talks/raymond_adkins_how_do_airplanes_stay_in_the_air?language=ko"/>
-        <updated>2023-03-21T14:12:28.850Z</updated>
+        <id>https://www.ted.com/talks/raymond_adkins_how_do_airplanes_actually_fly?language=ko</id>
+        <link href="https://www.ted.com/talks/raymond_adkins_how_do_airplanes_actually_fly?language=ko"/>
+        <updated>2023-04-04T22:14:08.648Z</updated>
         <content type="html"><![CDATA[Raymond Adkins]]></content>
     </entry>
     <entry>
