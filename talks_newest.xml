@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-04-05T11:13:47.483Z</updated>
+    <updated>2023-04-05T12:34:55.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/phnam_bagley_gourmet_food_for_the_final_frontier?language=ko"/>
         <updated>2023-04-01T12:24:48.613Z</updated>
         <content type="html"><![CDATA[Phnam Bagley]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감정을 다스리는 방법]]></title>
+        <id>https://www.ted.com/talks/ted_ed_how_to_manage_your_emotions?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_how_to_manage_your_emotions?language=ko"/>
+        <updated>2023-04-05T12:34:54.309Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비행기는 어떻게 하늘을 날까요? - 레이몬드 애드킨스(Raymond Adkins)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko"/>
         <updated>2023-03-21T14:12:28.944Z</updated>
         <content type="html"><![CDATA[Fallon Goodman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 더 나은 경제를 만들 수 있을까요?]]></title>
-        <id>https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_how_do_we_create_a_better_economy?language=ko"/>
-        <updated>2023-03-21T14:12:28.950Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
