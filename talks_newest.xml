@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-04-06T06:18:55.920Z</updated>
+    <updated>2023-04-06T07:13:22.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/phnam_bagley_gourmet_food_for_the_final_frontier?language=ko"/>
         <updated>2023-04-01T12:24:48.613Z</updated>
         <content type="html"><![CDATA[Phnam Bagley]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대륙이 이동하고 있습니다. 언제 충돌할까요? - 장 밥티스트 P. 코헬]]></title>
+        <id>https://www.ted.com/talks/jean_baptiste_p_koehl_the_continents_are_moving_when_will_they_collide?language=ko</id>
+        <link href="https://www.ted.com/talks/jean_baptiste_p_koehl_the_continents_are_moving_when_will_they_collide?language=ko"/>
+        <updated>2023-04-06T07:13:21.491Z</updated>
+        <content type="html"><![CDATA[Jean-Baptiste P. Koehl]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감정을 다스리는 방법]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/stephanie_honchell_smith_the_taj_mahal_a_monument_to_eternal_love?language=ko"/>
         <updated>2023-03-21T14:12:28.943Z</updated>
         <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 왜 사회 불안을 느낄까요?(그리고 어떻게 대처해야 할까요?)]]></title>
-        <id>https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko</id>
-        <link href="https://www.ted.com/talks/fallon_goodman_why_you_feel_anxious_socializing_and_what_to_do_about_it?language=ko"/>
-        <updated>2023-03-21T14:12:28.944Z</updated>
-        <content type="html"><![CDATA[Fallon Goodman]]></content>
     </entry>
 </feed>
