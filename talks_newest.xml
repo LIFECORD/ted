@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-04-13T08:18:50.580Z</updated>
+    <updated>2023-04-13T09:14:38.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/phnam_bagley_gourmet_food_for_the_final_frontier?language=ko"/>
         <updated>2023-04-01T12:24:48.613Z</updated>
         <content type="html"><![CDATA[Phnam Bagley]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래의 청정 에너지 중심지]]></title>
+        <id>https://www.ted.com/talks/rebekah_shirley_the_clean_energy_hub_of_the_future?language=ko</id>
+        <link href="https://www.ted.com/talks/rebekah_shirley_the_clean_energy_hub_of_the_future?language=ko"/>
+        <updated>2023-04-13T09:14:37.484Z</updated>
+        <content type="html"><![CDATA[Rebekah Shirley]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대륙이 이동하고 있습니다. 언제 충돌할까요? - 장 밥티스트 P. 코헬]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/shannon_odell_the_science_of_falling_in_love?language=ko"/>
         <updated>2023-03-21T14:12:28.941Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공 지능의 한계와 범용 인공 지능의 가능성]]></title>
-        <id>https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_how_will_ai_change_the_world?language=ko"/>
-        <updated>2023-03-21T14:12:28.942Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
