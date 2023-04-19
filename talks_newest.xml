@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-04-19T11:13:09.059Z</updated>
+    <updated>2023-04-19T12:28:43.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko"/>
         <updated>2023-04-19T07:17:53.682Z</updated>
         <content type="html"><![CDATA[Susan Freitas and Darren Parker]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레칭은 근육에 어떤 영향을 미칠까요? - 말라치 맥휴(Malachy McHugh)]]></title>
+        <id>https://www.ted.com/talks/malachy_mchugh_how_stretching_actually_changes_your_muscles?language=ko</id>
+        <link href="https://www.ted.com/talks/malachy_mchugh_how_stretching_actually_changes_your_muscles?language=ko"/>
+        <updated>2023-04-19T12:28:42.703Z</updated>
+        <content type="html"><![CDATA[Malachy McHugh]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만약 여러분이 개미이면서 곰팡이 부자라면]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko"/>
         <updated>2023-03-21T14:12:28.916Z</updated>
         <content type="html"><![CDATA[Frances S. Chance]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ 세대가 미래를 위해 투자하는 방법]]></title>
-        <id>https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future?language=ko</id>
-        <link href="https://www.ted.com/talks/miguel_goncalves_how_millennials_and_gen_z_can_invest_in_a_better_future?language=ko"/>
-        <updated>2023-03-21T14:12:28.918Z</updated>
-        <content type="html"><![CDATA[Miguel Goncalves]]></content>
     </entry>
 </feed>
