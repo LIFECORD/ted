@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T14:14:24.469Z</updated>
+    <updated>2023-04-20T15:15:25.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[팝콘은 어떻게 영화관 단골 메뉴가 되었을까? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/andrew_smith_why_do_we_eat_popcorn_at_the_movies?language=ko</id>
+        <link href="https://www.ted.com/talks/andrew_smith_why_do_we_eat_popcorn_at_the_movies?language=ko"/>
+        <updated>2023-04-20T15:15:24.023Z</updated>
+        <content type="html"><![CDATA[Andrew Smith]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[암컷만 있는 종이 어떻게 번식할까? -수잔나 프레이타스, 대런 파커(Susana Freitas and Darren Parker) (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko</id>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/shannon_odell_how_puberty_changes_your_brain?language=ko"/>
         <updated>2023-03-21T14:12:28.913Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공 지능의 미래를 밝혀 줄 곤충의 뇌 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko</id>
-        <link href="https://www.ted.com/talks/frances_s_chance_are_insect_brains_the_secret_to_great_ai?language=ko"/>
-        <updated>2023-03-21T14:12:28.916Z</updated>
-        <content type="html"><![CDATA[Frances S. Chance]]></content>
     </entry>
 </feed>
