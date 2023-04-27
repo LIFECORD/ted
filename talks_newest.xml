@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-04-26T23:14:51.759Z</updated>
+    <updated>2023-04-27T01:11:49.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[Keenan Norris]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비영리 단체의 성공을 위한 영리적 마음가짐]]></title>
+        <id>https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success?language=ko</id>
+        <link href="https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success?language=ko"/>
+        <updated>2023-04-27T01:11:49.027Z</updated>
+        <content type="html"><![CDATA[Tolu Oyekan]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[영화로 말하는 파키스탄 회복력 세 가지 이야기]]></title>
         <id>https://www.ted.com/talks/jawad_sharif_3_stories_of_pakistani_resilience_told_in_film?language=ko</id>
         <link href="https://www.ted.com/talks/jawad_sharif_3_stories_of_pakistani_resilience_told_in_film?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/glynnis_hood_why_do_beavers_build_dams?language=ko"/>
         <updated>2023-03-21T14:12:28.907Z</updated>
         <content type="html"><![CDATA[Glynnis Hood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우울할 때 빨래는 어떻게 할까요?]]></title>
-        <id>https://www.ted.com/talks/kc_davis_how_to_do_laundry_when_you_re_depressed_jan_2022?language=ko</id>
-        <link href="https://www.ted.com/talks/kc_davis_how_to_do_laundry_when_you_re_depressed_jan_2022?language=ko"/>
-        <updated>2023-03-21T14:12:28.908Z</updated>
-        <content type="html"><![CDATA[KC Davis]]></content>
     </entry>
 </feed>
