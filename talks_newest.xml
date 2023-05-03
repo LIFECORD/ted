@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-05-03T09:13:50.857Z</updated>
+    <updated>2023-05-03T10:15:12.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사람을 얼렸다가 되살릴 수 있을까요? - 섀넌 테시어]]></title>
+        <id>https://www.ted.com/talks/shannon_n_tessier_can_you_freeze_your_body_and_come_back_to_life?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_n_tessier_can_you_freeze_your_body_and_come_back_to_life?language=ko"/>
+        <updated>2023-05-03T10:15:12.035Z</updated>
+        <content type="html"><![CDATA[Shannon N. Tessier]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에너지를 소비하지 않고 생산하는 건물]]></title>
         <id>https://www.ted.com/talks/ksenia_petrichenko_what_if_buildings_created_energy_instead_of_consuming_it?language=ko</id>
         <link href="https://www.ted.com/talks/ksenia_petrichenko_what_if_buildings_created_energy_instead_of_consuming_it?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult?language=ko"/>
         <updated>2023-03-21T14:12:28.875Z</updated>
         <content type="html"><![CDATA[Vivian Jiang]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 사법 제도의 고질병인 불량 데이터]]></title>
-        <id>https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system?language=ko</id>
-        <link href="https://www.ted.com/talks/clementine_jacoby_how_bad_data_traps_people_in_the_us_justice_system?language=ko"/>
-        <updated>2023-03-21T14:12:28.880Z</updated>
-        <content type="html"><![CDATA[Clementine Jacoby]]></content>
     </entry>
 </feed>
