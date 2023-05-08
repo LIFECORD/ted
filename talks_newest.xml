@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-05-08T12:28:57.218Z</updated>
+    <updated>2023-05-08T13:18:39.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무굴 제국의  흥망]]></title>
+        <id>https://www.ted.com/talks/stephanie_honchell_smith_the_rise_and_fall_of_the_mughal_empire?language=ko</id>
+        <link href="https://www.ted.com/talks/stephanie_honchell_smith_the_rise_and_fall_of_the_mughal_empire?language=ko"/>
+        <updated>2023-05-08T13:18:39.004Z</updated>
+        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 우리는 조상들과 달리 뻐드렁니가 있을까? - G. 리챠드 스콧]]></title>
         <id>https://www.ted.com/talks/g_richard_scott_why_do_we_have_crooked_teeth_when_our_ancestors_didn_t?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet?language=ko"/>
         <updated>2023-03-21T14:12:28.873Z</updated>
         <content type="html"><![CDATA[George Monbiot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마오 쩌둥의 악명 높은 망고 숭배 - 비비안 장(Vivian Jiang)]]></title>
-        <id>https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult?language=ko</id>
-        <link href="https://www.ted.com/talks/vivian_jiang_mao_zedong_s_infamous_mango_cult?language=ko"/>
-        <updated>2023-03-21T14:12:28.875Z</updated>
-        <content type="html"><![CDATA[Vivian Jiang]]></content>
     </entry>
 </feed>
