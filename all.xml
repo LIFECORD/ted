@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-10T11:12:30.789Z</updated>
+    <updated>2023-05-10T12:27:29.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[무굴 제국의  흥망 (TED Talks ─ Korean)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://www.ted.com/talks/charles_wallace_when_you_re_an_ant_but_also_a_fungus_tycoon?language=ko"/>
         <updated>2023-04-15T09:13:59.004Z</updated>
         <content type="html"><![CDATA[Charles Wallace]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신경 과학자가 알려주는 불안을 누그러뜨리는 방법 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/wendy_suzuki_how_to_calm_your_anxiety_from_a_neuroscientist?language=ko</id>
+        <link href="https://www.ted.com/talks/wendy_suzuki_how_to_calm_your_anxiety_from_a_neuroscientist?language=ko"/>
+        <updated>2023-05-10T12:27:28.855Z</updated>
+        <content type="html"><![CDATA[Wendy Suzuki]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브리테 크리스티안센과 페트라 시페스테인이 들려주는 이슬람 황금기의 어느 날 이야기 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/shannon_odell_when_are_you_actually_an_adult?language=ko"/>
         <updated>2023-03-21T14:12:28.872Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구를 파괴하지 않으면서 식량을 조달하는 방법 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet?language=ko</id>
-        <link href="https://www.ted.com/talks/george_monbiot_can_we_feed_ourselves_without_devouring_the_planet?language=ko"/>
-        <updated>2023-03-21T14:12:28.873Z</updated>
-        <content type="html"><![CDATA[George Monbiot]]></content>
     </entry>
 </feed>
