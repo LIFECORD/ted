@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-17T11:12:38.221Z</updated>
+    <updated>2023-05-17T12:28:00.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이란에서의 '여성, 삶, 자유' 가 다른 나라들에서도 의미가 있는 이유 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/golshifteh_farahani_woman_life_freedom_in_iran_and_what_it_means_for_the_rest_of_the_world?language=ko</id>
+        <link href="https://www.ted.com/talks/golshifteh_farahani_woman_life_freedom_in_iran_and_what_it_means_for_the_rest_of_the_world?language=ko"/>
+        <updated>2023-05-17T12:28:00.192Z</updated>
+        <content type="html"><![CDATA[Golshifteh Farahani]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무굴 제국의  흥망 (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/stephanie_honchell_smith_the_rise_and_fall_of_the_mughal_empire?language=ko</id>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes?language=ko"/>
         <updated>2023-03-21T14:12:28.851Z</updated>
         <content type="html"><![CDATA[Talya Hackett]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뛰어오르고, 춤추고, 물 위를 걷는 새로운 로봇 일곱 종류를 소개합니다 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/dennis_hong_7_new_species_of_robot_that_jump_dance_and_walk_on_water?language=ko</id>
-        <link href="https://www.ted.com/talks/dennis_hong_7_new_species_of_robot_that_jump_dance_and_walk_on_water?language=ko"/>
-        <updated>2023-03-24T12:27:45.698Z</updated>
-        <content type="html"><![CDATA[Dennis Hong]]></content>
     </entry>
 </feed>
