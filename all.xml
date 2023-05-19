@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T04:16:54.945Z</updated>
+    <updated>2023-05-19T05:13:24.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이란에서의 '여성, 삶, 자유' 가 다른 나라들에서도 의미가 있는 이유 (TED Talks ─ Korean)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://www.ted.com/talks/chinyanta_kabaso_the_dazzling_diversity_of_african_dance_in_14_moves?language=ko"/>
         <updated>2023-04-24T01:11:48.366Z</updated>
         <content type="html"><![CDATA[Chinyanta Kabaso]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하와이 전설: 바람을 다스리는 자들 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/sydney_iaukea_the_hawaiian_story_of_the_king_s_betrayal?language=ko</id>
+        <link href="https://www.ted.com/talks/sydney_iaukea_the_hawaiian_story_of_the_king_s_betrayal?language=ko"/>
+        <updated>2023-05-19T05:13:23.995Z</updated>
+        <content type="html"><![CDATA[Sydney Iaukea]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[암컷만 있는 종이 어떻게 번식할까? -수잔나 프레이타스, 대런 파커(Susana Freitas and Darren Parker) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/karlos_hill_and_soraya_field_fiorio_when_did_slavery_actually_end_in_the_united_states?language=ko"/>
         <updated>2023-03-21T14:12:28.851Z</updated>
         <content type="html"><![CDATA[Karlos Hill and Soraya Field Fiorio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤리적 문제: 모기를 박멸해도 괜찮을까요? - 탈리아 해켓(Talya Hackett) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes?language=ko</id>
-        <link href="https://www.ted.com/talks/talya_hackett_ethical_dilemma_should_we_get_rid_of_mosquitoes?language=ko"/>
-        <updated>2023-03-21T14:12:28.851Z</updated>
-        <content type="html"><![CDATA[Talya Hackett]]></content>
     </entry>
 </feed>
