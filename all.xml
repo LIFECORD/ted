@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-31T12:34:39.754Z</updated>
+    <updated>2023-05-31T13:17:53.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[여름이 없었던 한 해 - 데이비드 비엘로 (David Biello) (TED Talks ─ Korean)]]></title>
@@ -194,6 +194,13 @@
         <content type="html"><![CDATA[Brendan Rogers and Jessica Howard]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나눔 실천으로 기후 위기를 해결할 수 있습니다 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/tessa_clarke_the_surprising_climate_benefits_of_sharing_your_stuff?language=ko</id>
+        <link href="https://www.ted.com/talks/tessa_clarke_the_surprising_climate_benefits_of_sharing_your_stuff?language=ko"/>
+        <updated>2023-05-31T13:17:53.307Z</updated>
+        <content type="html"><![CDATA[Tessa Clarke]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[역대 최고로 금지된 도서 - 몰리 고드프리 (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/mollie_godfrey_one_of_the_most_banned_books_of_all_time?language=ko</id>
         <link href="https://www.ted.com/talks/mollie_godfrey_one_of_the_most_banned_books_of_all_time?language=ko"/>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success?language=ko"/>
         <updated>2023-04-27T01:11:49.027Z</updated>
         <content type="html"><![CDATA[Tolu Oyekan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화로 말하는 파키스탄 회복력 세 가지 이야기 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jawad_sharif_3_stories_of_pakistani_resilience_told_in_film?language=ko</id>
-        <link href="https://www.ted.com/talks/jawad_sharif_3_stories_of_pakistani_resilience_told_in_film?language=ko"/>
-        <updated>2023-04-13T03:15:12.071Z</updated>
-        <content type="html"><![CDATA[Jawad Sharif]]></content>
     </entry>
 </feed>
