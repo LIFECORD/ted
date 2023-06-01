@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-01T12:28:25.421Z</updated>
+    <updated>2023-06-01T13:18:16.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혼잣말은 정상적인 행동일까요?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_is_it_normal_to_talk_to_yourself?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_is_it_normal_to_talk_to_yourself?language=ko"/>
+        <updated>2023-06-01T13:18:16.061Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름이 없었던 한 해 - 데이비드 비엘로 (David Biello)]]></title>
         <id>https://www.ted.com/talks/david_biello_the_year_without_summer?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/raymond_adkins_how_do_airplanes_actually_fly?language=ko"/>
         <updated>2023-04-04T22:14:08.648Z</updated>
         <content type="html"><![CDATA[Raymond Adkins]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 역사상 가장 위험한 사람 - 키난 노리스(Keenan Norris)]]></title>
-        <id>https://www.ted.com/talks/keenan_norris_one_of_the_most_dangerous_men_in_american_history?language=ko</id>
-        <link href="https://www.ted.com/talks/keenan_norris_one_of_the_most_dangerous_men_in_american_history?language=ko"/>
-        <updated>2023-03-26T08:18:13.673Z</updated>
-        <content type="html"><![CDATA[Keenan Norris]]></content>
     </entry>
 </feed>
