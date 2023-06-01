@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-01T10:17:38.385Z</updated>
+    <updated>2023-06-01T11:11:59.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[Antonio Cataldo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[직장에서 더 나은 경계를 설정하는  3단계 지침]]></title>
+        <id>https://www.ted.com/talks/nedra_glover_tawwab_your_3_step_guide_to_setting_better_boundaries_at_work?language=ko</id>
+        <link href="https://www.ted.com/talks/nedra_glover_tawwab_your_3_step_guide_to_setting_better_boundaries_at_work?language=ko"/>
+        <updated>2023-06-01T11:11:59.312Z</updated>
+        <content type="html"><![CDATA[Nedra Glover Tawwab]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인공 바이러스가 실험실을 탈출하면 어떤 일이 일어날까요?]]></title>
         <id>https://www.ted.com/talks/ted_ed_what_happens_if_an_engineered_virus_escapes_the_lab?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_what_happens_if_an_engineered_virus_escapes_the_lab?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/keenan_norris_one_of_the_most_dangerous_men_in_american_history?language=ko"/>
         <updated>2023-03-26T08:18:13.673Z</updated>
         <content type="html"><![CDATA[Keenan Norris]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비영리 단체의 성공을 위한 영리적 마음가짐]]></title>
-        <id>https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success?language=ko</id>
-        <link href="https://www.ted.com/talks/tolu_oyekan_a_for_profit_mindset_for_nonprofit_success?language=ko"/>
-        <updated>2023-04-27T01:11:49.027Z</updated>
-        <content type="html"><![CDATA[Tolu Oyekan]]></content>
     </entry>
 </feed>
