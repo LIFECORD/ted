@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-02T03:15:38.383Z</updated>
+    <updated>2023-06-02T04:16:52.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://www.ted.com/talks/dave_sivaprasad_mangroves_storm_walls_and_other_ways_to_protect_coasts_from_climate_change?language=ko"/>
         <updated>2023-04-26T01:10:37.061Z</updated>
         <content type="html"><![CDATA[Dave Sivaprasad]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이와 상관없이 삶에 새로움이 필요한 이유]]></title>
+        <id>https://www.ted.com/talks/kenneth_chabert_why_your_life_needs_novelty_no_matter_your_age?language=ko</id>
+        <link href="https://www.ted.com/talks/kenneth_chabert_why_your_life_needs_novelty_no_matter_your_age?language=ko"/>
+        <updated>2023-06-02T04:16:51.648Z</updated>
+        <content type="html"><![CDATA[Kenneth Chabert]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14가지 움직임으로 본 아프리카 춤의 놀라운 다양성]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ksenia_petrichenko_what_if_buildings_created_energy_instead_of_consuming_it?language=ko"/>
         <updated>2023-04-26T08:20:08.658Z</updated>
         <content type="html"><![CDATA[Ksenia Petrichenko]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비행기는 어떻게 하늘을 날까요? - 레이몬드 애드킨스(Raymond Adkins)]]></title>
-        <id>https://www.ted.com/talks/raymond_adkins_how_do_airplanes_actually_fly?language=ko</id>
-        <link href="https://www.ted.com/talks/raymond_adkins_how_do_airplanes_actually_fly?language=ko"/>
-        <updated>2023-04-04T22:14:08.648Z</updated>
-        <content type="html"><![CDATA[Raymond Adkins]]></content>
     </entry>
 </feed>
