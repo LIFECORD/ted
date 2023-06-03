@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-03T12:25:42.444Z</updated>
+    <updated>2023-06-03T13:16:33.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼잣말은 정상적인 행동일까요? (TED Talks ─ Korean)]]></title>
@@ -180,6 +180,13 @@
         <content type="html"><![CDATA[Phnam Bagley]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비디오 게임은 어떻게 학습 능력을 키워줄까요? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn?language=ko</id>
+        <link href="https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn?language=ko"/>
+        <updated>2023-06-03T13:16:31.510Z</updated>
+        <content type="html"><![CDATA[Kris Alexander]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미래의 청정 에너지 중심지 (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/rebekah_shirley_the_clean_energy_hub_of_the_future?language=ko</id>
         <link href="https://www.ted.com/talks/rebekah_shirley_the_clean_energy_hub_of_the_future?language=ko"/>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/shannon_n_tessier_can_you_freeze_your_body_and_come_back_to_life?language=ko"/>
         <updated>2023-05-03T10:15:12.035Z</updated>
         <content type="html"><![CDATA[Shannon N. Tessier]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너지를 소비하지 않고 생산하는 건물 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/ksenia_petrichenko_what_if_buildings_created_energy_instead_of_consuming_it?language=ko</id>
-        <link href="https://www.ted.com/talks/ksenia_petrichenko_what_if_buildings_created_energy_instead_of_consuming_it?language=ko"/>
-        <updated>2023-04-26T08:20:08.658Z</updated>
-        <content type="html"><![CDATA[Ksenia Petrichenko]]></content>
     </entry>
 </feed>
