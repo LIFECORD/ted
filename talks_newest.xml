@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-05T22:13:34.263Z</updated>
+    <updated>2023-06-05T23:14:38.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -216,6 +216,13 @@
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[곤충 오줌에 대한 흥미로운 물리학]]></title>
+        <id>https://www.ted.com/talks/saad_bhamla_the_fascinating_physics_of_insect_pee?language=ko</id>
+        <link href="https://www.ted.com/talks/saad_bhamla_the_fascinating_physics_of_insect_pee?language=ko"/>
+        <updated>2023-06-05T23:14:37.820Z</updated>
+        <content type="html"><![CDATA[Saad Bhamla]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[북극의 얼음 아래에는 뭐가 숨어 있을까요? - 브렌던 로저스와 제시카 하워드(Brendan Rogers and Jessica Howard)]]></title>
         <id>https://www.ted.com/talks/brendan_rogers_and_jessica_howard_what_s_hidden_in_arctic_ice?language=ko</id>
         <link href="https://www.ted.com/talks/brendan_rogers_and_jessica_howard_what_s_hidden_in_arctic_ice?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_how_to_manage_your_emotions?language=ko"/>
         <updated>2023-04-05T12:34:54.309Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람을 얼렸다가 되살릴 수 있을까요? - 섀넌 테시어]]></title>
-        <id>https://www.ted.com/talks/shannon_n_tessier_can_you_freeze_your_body_and_come_back_to_life?language=ko</id>
-        <link href="https://www.ted.com/talks/shannon_n_tessier_can_you_freeze_your_body_and_come_back_to_life?language=ko"/>
-        <updated>2023-05-03T10:15:12.035Z</updated>
-        <content type="html"><![CDATA[Shannon N. Tessier]]></content>
     </entry>
 </feed>
