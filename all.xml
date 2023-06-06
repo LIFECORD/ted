@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T10:14:48.743Z</updated>
+    <updated>2023-06-06T11:12:23.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마녀를 이기고 오래된 저주를 끝낼 수 있을까요? - 단 핀켈(Dan Finkel) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko</id>
+        <link href="https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko"/>
+        <updated>2023-06-06T11:12:22.729Z</updated>
+        <content type="html"><![CDATA[Dan Finkel]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼잣말은 정상적인 행동일까요? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/ted_ed_is_it_normal_to_talk_to_yourself?language=ko</id>
@@ -180,6 +187,13 @@
         <content type="html"><![CDATA[Phnam Bagley]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[말은 어떻게 역사를 바꾸었을까요? - 윌리엄 T. 테일러(William T. Taylor) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/william_t_taylor_how_horses_changed_history?language=ko</id>
+        <link href="https://www.ted.com/talks/william_t_taylor_how_horses_changed_history?language=ko"/>
+        <updated>2023-06-06T11:12:22.792Z</updated>
+        <content type="html"><![CDATA[William T. Taylor]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비디오 게임은 어떻게 학습 능력을 키워줄까요? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn?language=ko</id>
         <link href="https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn?language=ko"/>
@@ -241,19 +255,5 @@
         <link href="https://www.ted.com/talks/mollie_godfrey_one_of_the_most_banned_books_of_all_time?language=ko"/>
         <updated>2023-04-29T07:15:07.369Z</updated>
         <content type="html"><![CDATA[Mollie Godfrey]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대기에서 탄소를 제거하는 거대 기계를 소개합니다 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jan_wurzbacher_the_massive_machines_removing_carbon_from_earth_s_atmosphere?language=ko</id>
-        <link href="https://www.ted.com/talks/jan_wurzbacher_the_massive_machines_removing_carbon_from_earth_s_atmosphere?language=ko"/>
-        <updated>2023-04-23T10:14:17.375Z</updated>
-        <content type="html"><![CDATA[Jan Wurzbacher]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감정을 다스리는 방법 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/ted_ed_how_to_manage_your_emotions?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_how_to_manage_your_emotions?language=ko"/>
-        <updated>2023-04-05T12:34:54.309Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
