@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-07T07:13:29.358Z</updated>
+    <updated>2023-06-07T08:20:00.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/ted_ed_is_it_normal_to_talk_to_yourself?language=ko"/>
         <updated>2023-06-01T13:18:16.061Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇이 "좋은 대학"을 만들고, 왜 그것이 중요한가?]]></title>
+        <id>https://www.ted.com/talks/cecilia_m_orphan_what_makes_a_good_college_and_why_it_matters?language=ko</id>
+        <link href="https://www.ted.com/talks/cecilia_m_orphan_what_makes_a_good_college_and_why_it_matters?language=ko"/>
+        <updated>2023-06-07T08:19:59.369Z</updated>
+        <content type="html"><![CDATA[Cecilia M. Orphan]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여름이 없었던 한 해 - 데이비드 비엘로 (David Biello)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/tessa_clarke_the_surprising_climate_benefits_of_sharing_your_stuff?language=ko"/>
         <updated>2023-05-31T13:17:53.307Z</updated>
         <content type="html"><![CDATA[Tessa Clarke]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최고로 금지된 도서 - 몰리 고드프리]]></title>
-        <id>https://www.ted.com/talks/mollie_godfrey_one_of_the_most_banned_books_of_all_time?language=ko</id>
-        <link href="https://www.ted.com/talks/mollie_godfrey_one_of_the_most_banned_books_of_all_time?language=ko"/>
-        <updated>2023-04-29T07:15:07.369Z</updated>
-        <content type="html"><![CDATA[Mollie Godfrey]]></content>
     </entry>
 </feed>
