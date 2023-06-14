@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-14T05:14:00.580Z</updated>
+    <updated>2023-06-14T06:18:15.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윌리엄 포크너의 글이 읽기에 난해한 이유는 뭘까? - 사샤 모렐 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/sascha_morrell_why_is_william_faulkner_so_difficult_to_read?language=ko</id>
+        <link href="https://www.ted.com/talks/sascha_morrell_why_is_william_faulkner_so_difficult_to_read?language=ko"/>
+        <updated>2023-06-14T06:18:14.764Z</updated>
+        <content type="html"><![CDATA[Sascha Morrell]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마녀를 이기고 오래된 저주를 끝낼 수 있을까요? - 단 핀켈(Dan Finkel) (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko</id>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/brendan_rogers_and_jessica_howard_what_s_hidden_in_arctic_ice?language=ko"/>
         <updated>2023-04-16T11:11:35.140Z</updated>
         <content type="html"><![CDATA[Brendan Rogers and Jessica Howard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나눔 실천으로 기후 위기를 해결할 수 있습니다 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/tessa_clarke_the_surprising_climate_benefits_of_sharing_your_stuff?language=ko</id>
-        <link href="https://www.ted.com/talks/tessa_clarke_the_surprising_climate_benefits_of_sharing_your_stuff?language=ko"/>
-        <updated>2023-05-31T13:17:53.307Z</updated>
-        <content type="html"><![CDATA[Tessa Clarke]]></content>
     </entry>
 </feed>
