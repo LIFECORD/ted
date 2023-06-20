@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-20T04:17:12.528Z</updated>
+    <updated>2023-06-20T05:15:00.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[신화 속 상상의 동물 중에 누가 가장 빠를까요? - 이즐트 길레스피(Iseult Gillespie) (TED Talks ─ Korean)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko"/>
         <updated>2023-06-18T09:13:17.704Z</updated>
         <content type="html"><![CDATA[Susan G. Wardle]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식품 유통기한은 여러분이 생각하는 것과 다릅니다 - 캐롤린 빈스(Carolyn Beaens) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/carolyn_beans_food_expiration_dates_don_t_mean_what_you_think?language=ko</id>
+        <link href="https://www.ted.com/talks/carolyn_beans_food_expiration_dates_don_t_mean_what_you_think?language=ko"/>
+        <updated>2023-06-20T05:14:59.881Z</updated>
+        <content type="html"><![CDATA[Carolyn Beans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윌리엄 포크너의 글이 읽기에 난해한 이유는 뭘까? - 사샤 모렐 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/michael_middlebrooks_the_fantastically_weird_world_of_photosynthetic_sea_slugs?language=ko"/>
         <updated>2023-05-03T01:11:40.986Z</updated>
         <content type="html"><![CDATA[Michael Middlebrooks]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대륙이 이동하고 있습니다. 언제 충돌할까요? - 장 밥티스트 P. 코헬 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jean_baptiste_p_koehl_the_continents_are_moving_when_will_they_collide?language=ko</id>
-        <link href="https://www.ted.com/talks/jean_baptiste_p_koehl_the_continents_are_moving_when_will_they_collide?language=ko"/>
-        <updated>2023-04-06T07:13:21.491Z</updated>
-        <content type="html"><![CDATA[Jean-Baptiste P. Koehl]]></content>
     </entry>
 </feed>
