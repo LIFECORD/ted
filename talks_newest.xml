@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-22T01:19:57.495Z</updated>
+    <updated>2023-06-22T02:41:28.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/carolyn_beans_food_expiration_dates_don_t_mean_what_you_think?language=ko"/>
         <updated>2023-06-20T05:14:59.881Z</updated>
         <content type="html"><![CDATA[Carolyn Beans]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주로부터 온 무선 에너지로 모든 것에 전력을 공급하는 방법]]></title>
+        <id>https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?language=ko</id>
+        <link href="https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?language=ko"/>
+        <updated>2023-06-22T02:41:27.668Z</updated>
+        <content type="html"><![CDATA[Ali Hajimiri]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윌리엄 포크너의 글이 읽기에 난해한 이유는 뭘까? - 사샤 모렐]]></title>
@@ -160,6 +167,13 @@
         <content type="html"><![CDATA[Susan Freitas and Darren Parker]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[인류 역사상 가장 중요한 시기]]></title>
+        <id>https://www.ted.com/talks/ted_ed_the_most_important_century_in_human_history?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_the_most_important_century_in_human_history?language=ko"/>
+        <updated>2023-06-22T02:41:27.717Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다중언어 교육의 힘 - 메간 알루비키 플릭]]></title>
         <id>https://www.ted.com/talks/megan_alubicki_flick_the_power_of_multilingualism_in_education?language=ko</id>
         <link href="https://www.ted.com/talks/megan_alubicki_flick_the_power_of_multilingualism_in_education?language=ko"/>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/william_t_taylor_how_horses_changed_history?language=ko"/>
         <updated>2023-06-06T11:12:22.792Z</updated>
         <content type="html"><![CDATA[William T. Taylor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비디오 게임은 어떻게 학습 능력을 키워줄까요?]]></title>
-        <id>https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn?language=ko</id>
-        <link href="https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn?language=ko"/>
-        <updated>2023-06-03T13:16:31.510Z</updated>
-        <content type="html"><![CDATA[Kris Alexander]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래의 청정 에너지 중심지]]></title>
-        <id>https://www.ted.com/talks/rebekah_shirley_the_clean_energy_hub_of_the_future?language=ko</id>
-        <link href="https://www.ted.com/talks/rebekah_shirley_the_clean_energy_hub_of_the_future?language=ko"/>
-        <updated>2023-04-13T09:14:37.484Z</updated>
-        <content type="html"><![CDATA[Rebekah Shirley]]></content>
     </entry>
 </feed>
