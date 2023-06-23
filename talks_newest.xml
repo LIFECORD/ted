@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-23T01:27:52.932Z</updated>
+    <updated>2023-06-23T03:00:03.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자신을 믿는 세 단계 지침]]></title>
+        <id>https://www.ted.com/talks/sheryl_lee_ralph_a_3_step_guide_to_believing_in_yourself?language=ko</id>
+        <link href="https://www.ted.com/talks/sheryl_lee_ralph_a_3_step_guide_to_believing_in_yourself?language=ko"/>
+        <updated>2023-06-23T03:00:02.434Z</updated>
+        <content type="html"><![CDATA[Sheryl Lee Ralph]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신화 속 상상의 동물 중에 누가 가장 빠를까요? - 이즐트 길레스피(Iseult Gillespie)]]></title>
         <id>https://www.ted.com/talks/iseult_gillespie_who_is_the_fastest_creature_in_mythology?language=ko</id>
@@ -139,6 +146,13 @@
         <content type="html"><![CDATA[Kenneth Chabert]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대변 이식과 그 작용 원리 - 케트린 엠 스테픈슨과 데이비드 엘 서스킨드 (Kathryn M. Stephenson and David L. Suskind)]]></title>
+        <id>https://www.ted.com/talks/kathryn_m_stephenson_and_david_l_suskind_what_is_a_poop_transplant_and_how_does_it_work?language=ko</id>
+        <link href="https://www.ted.com/talks/kathryn_m_stephenson_and_david_l_suskind_what_is_a_poop_transplant_and_how_does_it_work?language=ko"/>
+        <updated>2023-06-23T03:00:02.480Z</updated>
+        <content type="html"><![CDATA[Kathryn M. Stephenson and David L. Suskind]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[14가지 움직임으로 본 아프리카 춤의 놀라운 다양성]]></title>
         <id>https://www.ted.com/talks/chinyanta_kabaso_the_dazzling_diversity_of_african_dance_in_14_moves?language=ko</id>
         <link href="https://www.ted.com/talks/chinyanta_kabaso_the_dazzling_diversity_of_african_dance_in_14_moves?language=ko"/>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/ted_ed_what_happens_if_an_engineered_virus_escapes_the_lab?language=ko"/>
         <updated>2023-03-21T14:12:28.850Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최후의 변경에서 먹는 고급 요리]]></title>
-        <id>https://www.ted.com/talks/phnam_bagley_gourmet_food_for_the_final_frontier?language=ko</id>
-        <link href="https://www.ted.com/talks/phnam_bagley_gourmet_food_for_the_final_frontier?language=ko"/>
-        <updated>2023-04-01T12:24:48.613Z</updated>
-        <content type="html"><![CDATA[Phnam Bagley]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말은 어떻게 역사를 바꾸었을까요? - 윌리엄 T. 테일러(William T. Taylor)]]></title>
-        <id>https://www.ted.com/talks/william_t_taylor_how_horses_changed_history?language=ko</id>
-        <link href="https://www.ted.com/talks/william_t_taylor_how_horses_changed_history?language=ko"/>
-        <updated>2023-06-06T11:12:22.792Z</updated>
-        <content type="html"><![CDATA[William T. Taylor]]></content>
     </entry>
 </feed>
