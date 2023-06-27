@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-27T19:13:18.004Z</updated>
+    <updated>2023-06-27T20:19:19.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[자신을 믿는 세 단계 지침 (TED Talks ─ Korean)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko"/>
         <updated>2023-06-06T11:12:22.729Z</updated>
         <content type="html"><![CDATA[Dan Finkel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모든 아이가 행복한 가정에서 자랄 수 있는 가정 위탁 제도 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/sixto_cancel_a_foster_care_system_where_every_child_has_a_loving_home?language=ko</id>
+        <link href="https://www.ted.com/talks/sixto_cancel_a_foster_care_system_where_every_child_has_a_loving_home?language=ko"/>
+        <updated>2023-06-27T20:19:18.360Z</updated>
+        <content type="html"><![CDATA[Sixto Cancel]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일어날 뻔했던 전염병 - 조지 자이단(George Zaidan) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/emily_grubert_what_happens_to_gas_stations_when_the_world_goes_electric?language=ko"/>
         <updated>2023-04-18T01:09:27.291Z</updated>
         <content type="html"><![CDATA[Emily Grubert]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촉각을 잃으면 어떻게 될까요? - 안토니오 카탈도(Antonio Cataldo) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/antonio_cataldo_what_would_happen_if_you_lost_your_sense_of_touch?language=ko</id>
-        <link href="https://www.ted.com/talks/antonio_cataldo_what_would_happen_if_you_lost_your_sense_of_touch?language=ko"/>
-        <updated>2023-03-21T14:12:28.848Z</updated>
-        <content type="html"><![CDATA[Antonio Cataldo]]></content>
     </entry>
 </feed>
