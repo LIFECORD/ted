@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-06-27T01:29:02.327Z</updated>
+    <updated>2023-06-27T02:59:29.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[Sydney Iaukea]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뒷마당에 북극곰이 나타났을 때 대처하는 방법]]></title>
+        <id>https://www.ted.com/talks/alysa_mccall_what_to_do_when_there_s_a_polar_bear_in_your_backyard?language=ko</id>
+        <link href="https://www.ted.com/talks/alysa_mccall_what_to_do_when_there_s_a_polar_bear_in_your_backyard?language=ko"/>
+        <updated>2023-06-27T02:59:28.459Z</updated>
+        <content type="html"><![CDATA[Alysa McCall]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[암컷만 있는 종이 어떻게 번식할까? -수잔나 프레이타스, 대런 파커(Susana Freitas and Darren Parker)]]></title>
         <id>https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko</id>
         <link href="https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/antonio_cataldo_what_would_happen_if_you_lost_your_sense_of_touch?language=ko"/>
         <updated>2023-03-21T14:12:28.848Z</updated>
         <content type="html"><![CDATA[Antonio Cataldo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장에서 더 나은 경계를 설정하는  3단계 지침]]></title>
-        <id>https://www.ted.com/talks/nedra_glover_tawwab_your_3_step_guide_to_setting_better_boundaries_at_work?language=ko</id>
-        <link href="https://www.ted.com/talks/nedra_glover_tawwab_your_3_step_guide_to_setting_better_boundaries_at_work?language=ko"/>
-        <updated>2023-06-01T11:11:59.312Z</updated>
-        <content type="html"><![CDATA[Nedra Glover Tawwab]]></content>
     </entry>
 </feed>
