@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-04T22:15:54.608Z</updated>
+    <updated>2023-07-04T23:16:51.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[자신을 믿는 세 단계 지침 (TED Talks ─ Korean)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko"/>
         <updated>2023-06-06T11:12:22.729Z</updated>
         <content type="html"><![CDATA[Dan Finkel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생명을 구하는 약은 지구상에서 가장 추운 곳에 숨어있습니다. (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/normand_voyer_are_life_saving_medicines_hiding_in_the_world_s_coldest_places?language=ko</id>
+        <link href="https://www.ted.com/talks/normand_voyer_are_life_saving_medicines_hiding_in_the_world_s_coldest_places?language=ko"/>
+        <updated>2023-07-04T23:16:51.087Z</updated>
+        <content type="html"><![CDATA[Normand Voyer]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모든 아이가 행복한 가정에서 자랄 수 있는 가정 위탁 제도 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/wendy_suzuki_how_to_calm_your_anxiety_from_a_neuroscientist?language=ko"/>
         <updated>2023-05-10T12:27:28.855Z</updated>
         <content type="html"><![CDATA[Wendy Suzuki]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리테 크리스티안센과 페트라 시페스테인이 들려주는 이슬람 황금기의 어느 날 이야기 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/birte_kristiansen_and_petra_sijpesteijn_a_day_in_the_islamic_golden_age?language=ko</id>
-        <link href="https://www.ted.com/talks/birte_kristiansen_and_petra_sijpesteijn_a_day_in_the_islamic_golden_age?language=ko"/>
-        <updated>2023-04-27T11:12:14.204Z</updated>
-        <content type="html"><![CDATA[Birte Kristiansen and Petra Sijpesteijn]]></content>
     </entry>
 </feed>
