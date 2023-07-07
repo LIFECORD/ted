@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-07T13:23:32.108Z</updated>
+    <updated>2023-07-07T14:15:08.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -237,6 +237,13 @@
         <content type="html"><![CDATA[Megan Alubicki Flick]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여성과 여자 아이들의 자폐증을 종종 놓치는 이유]]></title>
+        <id>https://www.ted.com/talks/kate_kahle_why_autism_is_often_missed_in_women_and_girls?language=ko</id>
+        <link href="https://www.ted.com/talks/kate_kahle_why_autism_is_often_missed_in_women_and_girls?language=ko"/>
+        <updated>2023-07-07T14:15:08.067Z</updated>
+        <content type="html"><![CDATA[Kate Kahle]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스트레칭은 근육에 어떤 영향을 미칠까요? - 말라치 맥휴(Malachy McHugh)]]></title>
         <id>https://www.ted.com/talks/malachy_mchugh_how_stretching_actually_changes_your_muscles?language=ko</id>
         <link href="https://www.ted.com/talks/malachy_mchugh_how_stretching_actually_changes_your_muscles?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/dan_finkel_this_one_weird_trick_will_get_you_infinite_gold?language=ko"/>
         <updated>2023-04-28T11:16:58.808Z</updated>
         <content type="html"><![CDATA[Dan Finkel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만약 여러분이 개미이면서 곰팡이 부자라면]]></title>
-        <id>https://www.ted.com/talks/charles_wallace_when_you_re_an_ant_but_also_a_fungus_tycoon?language=ko</id>
-        <link href="https://www.ted.com/talks/charles_wallace_when_you_re_an_ant_but_also_a_fungus_tycoon?language=ko"/>
-        <updated>2023-04-15T09:13:59.004Z</updated>
-        <content type="html"><![CDATA[Charles Wallace]]></content>
     </entry>
 </feed>
