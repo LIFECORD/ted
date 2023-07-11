@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-11T14:15:13.682Z</updated>
+    <updated>2023-07-11T15:17:26.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동물들은 슬픔을 느낄 수 있을까요? - 바바라 제이. 킹]]></title>
+        <id>https://www.ted.com/talks/barbara_j_king_can_other_animals_understand_death?language=ko</id>
+        <link href="https://www.ted.com/talks/barbara_j_king_can_other_animals_understand_death?language=ko"/>
+        <updated>2023-07-11T15:17:25.832Z</updated>
+        <content type="html"><![CDATA[Barbara J. King]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자신을 믿는 세 단계 지침]]></title>
         <id>https://www.ted.com/talks/sheryl_lee_ralph_a_3_step_guide_to_believing_in_yourself?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/megan_alubicki_flick_the_power_of_multilingualism_in_education?language=ko"/>
         <updated>2023-06-17T09:13:35.981Z</updated>
         <content type="html"><![CDATA[Megan Alubicki Flick]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성과 여자 아이들의 자폐증을 종종 놓치는 이유]]></title>
-        <id>https://www.ted.com/talks/kate_kahle_why_autism_is_often_missed_in_women_and_girls?language=ko</id>
-        <link href="https://www.ted.com/talks/kate_kahle_why_autism_is_often_missed_in_women_and_girls?language=ko"/>
-        <updated>2023-07-07T14:15:08.067Z</updated>
-        <content type="html"><![CDATA[Kate Kahle]]></content>
     </entry>
 </feed>
