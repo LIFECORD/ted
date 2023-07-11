@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-11T10:17:36.503Z</updated>
+    <updated>2023-07-11T11:13:16.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[자신을 믿는 세 단계 지침 (TED Talks ─ Korean)]]></title>
@@ -94,6 +94,13 @@
         <link href="https://www.ted.com/talks/david_biello_1816_the_year_with_no_summer?language=ko"/>
         <updated>2023-06-01T17:13:27.441Z</updated>
         <content type="html"><![CDATA[David Biello]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상이 중국의 혁신 전략에서 배울 수 있는 것 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?language=ko</id>
+        <link href="https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?language=ko"/>
+        <updated>2023-07-11T11:13:16.156Z</updated>
+        <content type="html"><![CDATA[Keyu Jin]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[열심히 일하는 것이 당신을 좋은 사람으로 만드나요? (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/kate_kahle_why_autism_is_often_missed_in_women_and_girls?language=ko"/>
         <updated>2023-07-07T14:15:08.067Z</updated>
         <content type="html"><![CDATA[Kate Kahle]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레칭은 근육에 어떤 영향을 미칠까요? - 말라치 맥휴(Malachy McHugh) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/malachy_mchugh_how_stretching_actually_changes_your_muscles?language=ko</id>
-        <link href="https://www.ted.com/talks/malachy_mchugh_how_stretching_actually_changes_your_muscles?language=ko"/>
-        <updated>2023-04-19T12:28:42.703Z</updated>
-        <content type="html"><![CDATA[Malachy McHugh]]></content>
     </entry>
 </feed>
