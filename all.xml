@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-17T04:19:14.219Z</updated>
+    <updated>2023-07-17T05:15:58.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[동물들은 슬픔을 느낄 수 있을까요? - 바바라 제이. 킹 (TED Talks ─ Korean)]]></title>
@@ -108,6 +108,13 @@
         <link href="https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?language=ko"/>
         <updated>2023-07-11T11:13:16.156Z</updated>
         <content type="html"><![CDATA[Keyu Jin]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교황 세 명이 동시에 있었던 이유 - 조엘 롤로-코스터 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/joelle_rollo_koster_why_were_there_three_popes_at_the_same_time?language=ko</id>
+        <link href="https://www.ted.com/talks/joelle_rollo_koster_why_were_there_three_popes_at_the_same_time?language=ko"/>
+        <updated>2023-07-17T05:15:57.432Z</updated>
+        <content type="html"><![CDATA[Joëlle Rollo-Koster]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[열심히 일하는 것이 당신을 좋은 사람으로 만드나요? (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/ted_ed_the_most_important_century_in_human_history?language=ko"/>
         <updated>2023-06-22T02:41:27.717Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다중언어 교육의 힘 - 메간 알루비키 플릭 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/megan_alubicki_flick_the_power_of_multilingualism_in_education?language=ko</id>
-        <link href="https://www.ted.com/talks/megan_alubicki_flick_the_power_of_multilingualism_in_education?language=ko"/>
-        <updated>2023-06-17T09:13:35.981Z</updated>
-        <content type="html"><![CDATA[Megan Alubicki Flick]]></content>
     </entry>
 </feed>
