@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-18T08:19:48.480Z</updated>
+    <updated>2023-07-18T09:15:17.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://www.ted.com/talks/cecilia_m_orphan_what_makes_a_good_college_and_why_it_matters?language=ko"/>
         <updated>2023-06-07T08:19:59.369Z</updated>
         <content type="html"><![CDATA[Cecilia M. Orphan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정신 분열로 얻은 교훈]]></title>
+        <id>https://www.ted.com/talks/andy_dunn_lessons_from_losing_my_mind?language=ko</id>
+        <link href="https://www.ted.com/talks/andy_dunn_lessons_from_losing_my_mind?language=ko"/>
+        <updated>2023-07-18T09:15:15.139Z</updated>
+        <content type="html"><![CDATA[Andy Dunn]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여름이 없었던 한 해 - 데이비드 비엘로 (David Biello)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko"/>
         <updated>2023-04-19T07:17:53.682Z</updated>
         <content type="html"><![CDATA[Susan Freitas and Darren Parker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류 역사상 가장 중요한 시기]]></title>
-        <id>https://www.ted.com/talks/ted_ed_the_most_important_century_in_human_history?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_the_most_important_century_in_human_history?language=ko"/>
-        <updated>2023-06-22T02:41:27.717Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
