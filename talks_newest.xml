@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-18T12:30:25.185Z</updated>
+    <updated>2023-07-18T13:21:23.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/sheryl_lee_ralph_a_3_step_guide_to_believing_in_yourself?language=ko"/>
         <updated>2023-06-23T03:00:02.434Z</updated>
         <content type="html"><![CDATA[Sheryl Lee Ralph]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마리 앙투아네트는 왜 그렇게 논란이 많을까요? - 캐롤린 해리스(Carolyn Harris)]]></title>
+        <id>https://www.ted.com/talks/carolyn_harris_why_is_marie_antoinette_so_controversial?language=ko</id>
+        <link href="https://www.ted.com/talks/carolyn_harris_why_is_marie_antoinette_so_controversial?language=ko"/>
+        <updated>2023-07-18T13:21:23.034Z</updated>
+        <content type="html"><![CDATA[Carolyn Harris]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신화 속 상상의 동물 중에 누가 가장 빠를까요? - 이즐트 길레스피(Iseult Gillespie)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/alysa_mccall_what_to_do_when_there_s_a_polar_bear_in_your_backyard?language=ko"/>
         <updated>2023-06-27T02:59:28.459Z</updated>
         <content type="html"><![CDATA[Alysa McCall]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암컷만 있는 종이 어떻게 번식할까? -수잔나 프레이타스, 대런 파커(Susana Freitas and Darren Parker)]]></title>
-        <id>https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko</id>
-        <link href="https://www.ted.com/talks/susan_freitas_and_darren_parker_how_does_this_all_female_species_reproduce?language=ko"/>
-        <updated>2023-04-19T07:17:53.682Z</updated>
-        <content type="html"><![CDATA[Susan Freitas and Darren Parker]]></content>
     </entry>
 </feed>
