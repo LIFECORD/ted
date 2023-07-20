@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-20T09:14:08.181Z</updated>
+    <updated>2023-07-20T10:16:12.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[동물들은 슬픔을 느낄 수 있을까요? - 바바라 제이. 킹 (TED Talks ─ Korean)]]></title>
@@ -45,6 +45,13 @@
         <link href="https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko"/>
         <updated>2023-06-18T09:13:17.704Z</updated>
         <content type="html"><![CDATA[Susan G. Wardle]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마취제가 발명되기 전에는 어떻게 수술을 했을까요? - 샐리 프램튼(Sally Frampton) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/sally_frampton_what_did_people_do_before_anesthesia?language=ko</id>
+        <link href="https://www.ted.com/talks/sally_frampton_what_did_people_do_before_anesthesia?language=ko"/>
+        <updated>2023-07-20T10:16:11.298Z</updated>
+        <content type="html"><![CDATA[Sally Frampton]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[식품 유통기한은 여러분이 생각하는 것과 다릅니다 - 캐롤린 빈스(Carolyn Beaens) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/tsedal_neeley_4_ways_to_make_hybrid_work_better_for_everyone?language=ko"/>
         <updated>2023-05-19T07:13:27.831Z</updated>
         <content type="html"><![CDATA[Tsedal Neeley]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하와이 전설: 바람을 다스리는 자들 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/sydney_iaukea_the_hawaiian_story_of_the_king_s_betrayal?language=ko</id>
-        <link href="https://www.ted.com/talks/sydney_iaukea_the_hawaiian_story_of_the_king_s_betrayal?language=ko"/>
-        <updated>2023-05-19T05:13:23.995Z</updated>
-        <content type="html"><![CDATA[Sydney Iaukea]]></content>
     </entry>
 </feed>
