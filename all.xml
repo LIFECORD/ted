@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-20T03:14:41.994Z</updated>
+    <updated>2023-07-20T04:16:50.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[동물들은 슬픔을 느낄 수 있을까요? - 바바라 제이. 킹 (TED Talks ─ Korean)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://www.ted.com/talks/barbara_j_king_can_other_animals_understand_death?language=ko"/>
         <updated>2023-07-11T15:17:25.832Z</updated>
         <content type="html"><![CDATA[Barbara J. King]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 우리는 좋은 소식을 보도하는데 이토록 서툴까요? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/angus_hervey_why_are_we_so_bad_at_reporting_good_news?language=ko</id>
+        <link href="https://www.ted.com/talks/angus_hervey_why_are_we_so_bad_at_reporting_good_news?language=ko"/>
+        <updated>2023-07-20T04:16:49.375Z</updated>
+        <content type="html"><![CDATA[Angus Hervey]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자신을 믿는 세 단계 지침 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/sydney_iaukea_the_hawaiian_story_of_the_king_s_betrayal?language=ko"/>
         <updated>2023-05-19T05:13:23.995Z</updated>
         <content type="html"><![CDATA[Sydney Iaukea]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒷마당에 북극곰이 나타났을 때 대처하는 방법 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/alysa_mccall_what_to_do_when_there_s_a_polar_bear_in_your_backyard?language=ko</id>
-        <link href="https://www.ted.com/talks/alysa_mccall_what_to_do_when_there_s_a_polar_bear_in_your_backyard?language=ko"/>
-        <updated>2023-06-27T02:59:28.459Z</updated>
-        <content type="html"><![CDATA[Alysa McCall]]></content>
     </entry>
 </feed>
