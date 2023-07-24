@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-24T11:12:12.507Z</updated>
+    <updated>2023-07-24T12:29:24.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[역사상 가장 위험한 신화 - 아넬리스 메네르트(Anneliese Mehnert) (TED Talks ─ Korean)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://www.ted.com/talks/barbara_j_king_can_other_animals_understand_death?language=ko"/>
         <updated>2023-07-11T15:17:25.832Z</updated>
         <content type="html"><![CDATA[Barbara J. King]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르완다 종족 학살의 원인 - 수잔나 버클리-시스텔(Susanne Buckley-Zistel) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/susanne_buckley_zistel_what_caused_the_rwandan_genocide?language=ko</id>
+        <link href="https://www.ted.com/talks/susanne_buckley_zistel_what_caused_the_rwandan_genocide?language=ko"/>
+        <updated>2023-07-24T12:29:23.582Z</updated>
+        <content type="html"><![CDATA[Susanne Buckley-Zistel]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 우리는 좋은 소식을 보도하는데 이토록 서툴까요? (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/kenneth_chabert_why_your_life_needs_novelty_no_matter_your_age?language=ko"/>
         <updated>2023-06-02T04:16:51.648Z</updated>
         <content type="html"><![CDATA[Kenneth Chabert]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대변 이식과 그 작용 원리 - 케트린 엠 스테픈슨과 데이비드 엘 서스킨드 (Kathryn M. Stephenson and David L. Suskind) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/kathryn_m_stephenson_and_david_l_suskind_what_is_a_poop_transplant_and_how_does_it_work?language=ko</id>
-        <link href="https://www.ted.com/talks/kathryn_m_stephenson_and_david_l_suskind_what_is_a_poop_transplant_and_how_does_it_work?language=ko"/>
-        <updated>2023-06-23T03:00:02.480Z</updated>
-        <content type="html"><![CDATA[Kathryn M. Stephenson and David L. Suskind]]></content>
     </entry>
 </feed>
