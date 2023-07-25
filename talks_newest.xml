@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-25T12:30:11.444Z</updated>
+    <updated>2023-07-25T13:20:07.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[차세대 글로벌 패권 국가는 우리가 예상하는 국가가 아니다.]]></title>
+        <id>https://www.ted.com/talks/ian_bremmer_the_next_global_superpower_isn_t_who_you_think?language=ko</id>
+        <link href="https://www.ted.com/talks/ian_bremmer_the_next_global_superpower_isn_t_who_you_think?language=ko"/>
+        <updated>2023-07-25T13:20:06.250Z</updated>
+        <content type="html"><![CDATA[Ian Bremmer]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리의 뇌가 어디에서나 얼굴을 보는 이유 - 수잔 G. 워들]]></title>
         <id>https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko</id>
         <link href="https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko"/>
@@ -88,6 +95,13 @@
         <link href="https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?language=ko"/>
         <updated>2023-06-22T02:41:27.668Z</updated>
         <content type="html"><![CDATA[Ali Hajimiri]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악과 소음을 구별할 수 있나요? - 하나코 사와다(Hanako Sawada)]]></title>
+        <id>https://www.ted.com/talks/hanako_sawada_test_yourself_can_you_tell_the_difference_between_music_and_noise?language=ko</id>
+        <link href="https://www.ted.com/talks/hanako_sawada_test_yourself_can_you_tell_the_difference_between_music_and_noise?language=ko"/>
+        <updated>2023-07-25T13:20:06.267Z</updated>
+        <content type="html"><![CDATA[Hanako Sawada]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윌리엄 포크너의 글이 읽기에 난해한 이유는 뭘까? - 사샤 모렐]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/stephanie_honchell_smith_whatever_happened_to_the_hole_in_the_ozone_layer?language=ko"/>
         <updated>2023-05-13T13:15:50.187Z</updated>
         <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맹그로브 습지 복원, 해일 방파제와 기후 변화로부터 해안 지역을 보호하는 여러 가지 방법]]></title>
-        <id>https://www.ted.com/talks/dave_sivaprasad_mangroves_storm_walls_and_other_ways_to_protect_coasts_from_climate_change?language=ko</id>
-        <link href="https://www.ted.com/talks/dave_sivaprasad_mangroves_storm_walls_and_other_ways_to_protect_coasts_from_climate_change?language=ko"/>
-        <updated>2023-04-26T01:10:37.061Z</updated>
-        <content type="html"><![CDATA[Dave Sivaprasad]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이와 상관없이 삶에 새로움이 필요한 이유]]></title>
-        <id>https://www.ted.com/talks/kenneth_chabert_why_your_life_needs_novelty_no_matter_your_age?language=ko</id>
-        <link href="https://www.ted.com/talks/kenneth_chabert_why_your_life_needs_novelty_no_matter_your_age?language=ko"/>
-        <updated>2023-06-02T04:16:51.648Z</updated>
-        <content type="html"><![CDATA[Kenneth Chabert]]></content>
     </entry>
 </feed>
