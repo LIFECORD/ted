@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-27T13:18:10.914Z</updated>
+    <updated>2023-07-27T14:13:21.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/barbara_j_king_can_other_animals_understand_death?language=ko"/>
         <updated>2023-07-11T15:17:25.832Z</updated>
         <content type="html"><![CDATA[Barbara J. King]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시간 여행 자동차 수수께끼를 풀어보세요 - 댄 핀켈(Daniel Finkel)]]></title>
+        <id>https://www.ted.com/talks/daniel_finkel_can_you_solve_the_time_traveling_car_riddle?language=ko</id>
+        <link href="https://www.ted.com/talks/daniel_finkel_can_you_solve_the_time_traveling_car_riddle?language=ko"/>
+        <updated>2023-07-27T14:13:20.384Z</updated>
+        <content type="html"><![CDATA[Daniel Finkel]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[르완다 종족 학살의 원인 - 수잔나 버클리-시스텔(Susanne Buckley-Zistel)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/andrew_smith_why_do_we_eat_popcorn_at_the_movies?language=ko"/>
         <updated>2023-04-20T15:15:24.023Z</updated>
         <content type="html"><![CDATA[Andrew Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오존층 구멍에 무슨 일이 있었나요? - 스테파니 혼첼 스미스(Stephanie Honchell Smith)]]></title>
-        <id>https://www.ted.com/talks/stephanie_honchell_smith_whatever_happened_to_the_hole_in_the_ozone_layer?language=ko</id>
-        <link href="https://www.ted.com/talks/stephanie_honchell_smith_whatever_happened_to_the_hole_in_the_ozone_layer?language=ko"/>
-        <updated>2023-05-13T13:15:50.187Z</updated>
-        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
     </entry>
 </feed>
