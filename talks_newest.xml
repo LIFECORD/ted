@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-07-27T19:11:09.023Z</updated>
+    <updated>2023-07-27T20:16:04.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몰입의 상태에 도달하는 방법]]></title>
+        <id>https://www.ted.com/talks/ted_ed_how_to_enter_flow_state?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_how_to_enter_flow_state?language=ko"/>
+        <updated>2023-07-27T20:16:03.594Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역사상 가장 위험한 신화 - 아넬리스 메네르트(Anneliese Mehnert)]]></title>
         <id>https://www.ted.com/talks/anneliese_mehnert_one_of_history_s_most_dangerous_myths?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/jiaying_zhao_how_to_feng_shui_your_fridge_and_other_happy_climate_hacks?language=ko"/>
         <updated>2023-06-29T05:19:34.119Z</updated>
         <content type="html"><![CDATA[Jiaying Zhao]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝콘은 어떻게 영화관 단골 메뉴가 되었을까?]]></title>
-        <id>https://www.ted.com/talks/andrew_smith_why_do_we_eat_popcorn_at_the_movies?language=ko</id>
-        <link href="https://www.ted.com/talks/andrew_smith_why_do_we_eat_popcorn_at_the_movies?language=ko"/>
-        <updated>2023-04-20T15:15:24.023Z</updated>
-        <content type="html"><![CDATA[Andrew Smith]]></content>
     </entry>
 </feed>
