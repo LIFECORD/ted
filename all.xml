@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-30T02:28:22.411Z</updated>
+    <updated>2023-07-30T03:14:22.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[몰입의 상태에 도달하는 방법 (TED Talks ─ Korean)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://www.ted.com/talks/anneliese_mehnert_one_of_history_s_most_dangerous_myths?language=ko"/>
         <updated>2023-07-22T12:26:05.976Z</updated>
         <content type="html"><![CDATA[Anneliese Mehnert]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구의 중심에서 무슨 일이 일어나고 있을까요? - 섀넌 오델 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_what_s_happening_to_earth_s_core?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_what_s_happening_to_earth_s_core?language=ko"/>
+        <updated>2023-07-30T03:14:21.652Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동물들은 슬픔을 느낄 수 있을까요? - 바바라 제이. 킹 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/damon_gameau_the_story_that_shapes_your_relationship_with_nature?language=ko"/>
         <updated>2023-07-10T10:17:42.546Z</updated>
         <content type="html"><![CDATA[Damon Gameau]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 냉장고를 풍수 인테리어 하는 법 — 그리고 다른 행복한 기후 꿀팁들 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/jiaying_zhao_how_to_feng_shui_your_fridge_and_other_happy_climate_hacks?language=ko</id>
-        <link href="https://www.ted.com/talks/jiaying_zhao_how_to_feng_shui_your_fridge_and_other_happy_climate_hacks?language=ko"/>
-        <updated>2023-06-29T05:19:34.119Z</updated>
-        <content type="html"><![CDATA[Jiaying Zhao]]></content>
     </entry>
 </feed>
