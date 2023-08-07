@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-07T15:14:39.108Z</updated>
+    <updated>2023-08-07T16:25:01.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[휴대폰 배터리가 시간이 지남에 따라 점점 성능이 떨어지는 이유 – 조지 자이던(George Zaidan) (TED Talks ─ Korean)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://www.ted.com/talks/george_zaidan_why_your_phone_battery_gets_worse_over_time?language=ko"/>
         <updated>2023-08-07T15:14:38.144Z</updated>
         <content type="html"><![CDATA[George Zaidan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실명은 비극적인 양분법이 아닙니다 — 훨씬 범위가 넓습니다 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/andrew_leland_blindness_isn_t_a_tragic_binary_it_s_a_rich_spectrum?language=ko</id>
+        <link href="https://www.ted.com/talks/andrew_leland_blindness_isn_t_a_tragic_binary_it_s_a_rich_spectrum?language=ko"/>
+        <updated>2023-08-07T16:25:00.908Z</updated>
+        <content type="html"><![CDATA[Andrew Leland]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몰입의 상태에 도달하는 방법 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/audra_a_diptee_why_did_the_british_empire_burn_sink_and_hide_these_documents?language=ko"/>
         <updated>2023-05-13T12:25:24.724Z</updated>
         <content type="html"><![CDATA[Audra A. Diptée]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멸종 위기에 처한 종을 동물원이 실제로 구할 수 있을까요? - 나이젤 로스펠스(Nigel Rothfels) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/nigel_rothfels_can_zoos_actually_save_species_from_extinction?language=ko</id>
-        <link href="https://www.ted.com/talks/nigel_rothfels_can_zoos_actually_save_species_from_extinction?language=ko"/>
-        <updated>2023-05-02T12:28:52.184Z</updated>
-        <content type="html"><![CDATA[Nigel Rothfels]]></content>
     </entry>
 </feed>
