@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-07T14:13:18.894Z</updated>
+    <updated>2023-08-07T15:14:39.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴대폰 배터리가 시간이 지남에 따라 점점 성능이 떨어지는 이유 – 조지 자이던(George Zaidan)]]></title>
+        <id>https://www.ted.com/talks/george_zaidan_why_your_phone_battery_gets_worse_over_time?language=ko</id>
+        <link href="https://www.ted.com/talks/george_zaidan_why_your_phone_battery_gets_worse_over_time?language=ko"/>
+        <updated>2023-08-07T15:14:38.144Z</updated>
+        <content type="html"><![CDATA[George Zaidan]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몰입의 상태에 도달하는 방법]]></title>
         <id>https://www.ted.com/talks/ted_ed_how_to_enter_flow_state?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/nigel_rothfels_can_zoos_actually_save_species_from_extinction?language=ko"/>
         <updated>2023-05-02T12:28:52.184Z</updated>
         <content type="html"><![CDATA[Nigel Rothfels]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자연과의 관계를 빚는 이야기]]></title>
-        <id>https://www.ted.com/talks/damon_gameau_the_story_that_shapes_your_relationship_with_nature?language=ko</id>
-        <link href="https://www.ted.com/talks/damon_gameau_the_story_that_shapes_your_relationship_with_nature?language=ko"/>
-        <updated>2023-07-10T10:17:42.546Z</updated>
-        <content type="html"><![CDATA[Damon Gameau]]></content>
     </entry>
 </feed>
