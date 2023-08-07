@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-07T16:25:01.780Z</updated>
+    <updated>2023-08-07T17:12:28.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/ted_ed_how_to_enter_flow_state?language=ko"/>
         <updated>2023-07-27T20:16:03.594Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자원을 반복 재활용할 수 있는 확실한 방법]]></title>
+        <id>https://www.ted.com/talks/garry_cooper_how_to_make_sure_materials_get_reused_again_and_again?language=ko</id>
+        <link href="https://www.ted.com/talks/garry_cooper_how_to_make_sure_materials_get_reused_again_and_again?language=ko"/>
+        <updated>2023-08-07T17:12:27.934Z</updated>
+        <content type="html"><![CDATA[Garry Cooper]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사상 가장 위험한 신화 - 아넬리스 메네르트(Anneliese Mehnert)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/g_richard_scott_why_do_we_have_crooked_teeth_when_our_ancestors_didn_t?language=ko"/>
         <updated>2023-05-02T15:16:15.008Z</updated>
         <content type="html"><![CDATA[G. Richard Scott]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 제국주의 영국은 이 문서들을 태우고, 가라앉히고, 숨겼을까요? - 오드라 앤드류 딥티(Audra A. Diptée)]]></title>
-        <id>https://www.ted.com/talks/audra_a_diptee_why_did_the_british_empire_burn_sink_and_hide_these_documents?language=ko</id>
-        <link href="https://www.ted.com/talks/audra_a_diptee_why_did_the_british_empire_burn_sink_and_hide_these_documents?language=ko"/>
-        <updated>2023-05-13T12:25:24.724Z</updated>
-        <content type="html"><![CDATA[Audra A. Diptée]]></content>
     </entry>
 </feed>
