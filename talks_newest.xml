@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-10T15:15:09.217Z</updated>
+    <updated>2023-08-10T16:19:24.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이곳에 무언가 둘 수만 있다면 엄청난 부자가 될 수 있습니다! - 파비오 파쿠치(Fabio Pacucci)]]></title>
+        <id>https://www.ted.com/talks/fabio_pacucci_whoever_builds_something_here_will_be_rich_beyond_measure?language=ko</id>
+        <link href="https://www.ted.com/talks/fabio_pacucci_whoever_builds_something_here_will_be_rich_beyond_measure?language=ko"/>
+        <updated>2023-08-10T16:19:23.717Z</updated>
+        <content type="html"><![CDATA[Fabio Pacucci]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰을 비행기 모드로 하지 않으면 어떤 일이 발생할까요? - 린제이 드 마르키(Lindsay DeMarchi)]]></title>
         <id>https://www.ted.com/talks/lindsay_demarchi_what_happens_if_you_don_t_put_your_phone_in_airplane_mode?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/golshifteh_farahani_woman_life_freedom_in_iran_and_what_it_means_for_the_rest_of_the_world?language=ko"/>
         <updated>2023-05-17T12:28:00.192Z</updated>
         <content type="html"><![CDATA[Golshifteh Farahani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무굴 제국의  흥망]]></title>
-        <id>https://www.ted.com/talks/stephanie_honchell_smith_the_rise_and_fall_of_the_mughal_empire?language=ko</id>
-        <link href="https://www.ted.com/talks/stephanie_honchell_smith_the_rise_and_fall_of_the_mughal_empire?language=ko"/>
-        <updated>2023-05-08T13:18:39.004Z</updated>
-        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
     </entry>
 </feed>
