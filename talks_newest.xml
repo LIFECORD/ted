@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-11T13:16:14.414Z</updated>
+    <updated>2023-08-11T14:12:09.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://www.ted.com/talks/garry_cooper_how_to_make_sure_materials_get_reused_again_and_again?language=ko"/>
         <updated>2023-08-07T17:12:27.934Z</updated>
         <content type="html"><![CDATA[Garry Cooper]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이탈리아 르네상스의 무자비한 용병들 - 스테파니 혼첼 스미스(Stephanie Honchell Smith)]]></title>
+        <id>https://www.ted.com/talks/stephanie_honchell_smith_the_merciless_mercenaries_of_the_italian_renaissance?language=ko</id>
+        <link href="https://www.ted.com/talks/stephanie_honchell_smith_the_merciless_mercenaries_of_the_italian_renaissance?language=ko"/>
+        <updated>2023-08-11T14:12:08.947Z</updated>
+        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사상 가장 위험한 신화 - 아넬리스 메네르트(Anneliese Mehnert)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/sheena_meade_how_second_chance_laws_could_transform_the_us_justice_system?language=ko"/>
         <updated>2023-06-25T13:22:04.054Z</updated>
         <content type="html"><![CDATA[Sheena Meade]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란에서의 '여성, 삶, 자유' 가 다른 나라들에서도 의미가 있는 이유]]></title>
-        <id>https://www.ted.com/talks/golshifteh_farahani_woman_life_freedom_in_iran_and_what_it_means_for_the_rest_of_the_world?language=ko</id>
-        <link href="https://www.ted.com/talks/golshifteh_farahani_woman_life_freedom_in_iran_and_what_it_means_for_the_rest_of_the_world?language=ko"/>
-        <updated>2023-05-17T12:28:00.192Z</updated>
-        <content type="html"><![CDATA[Golshifteh Farahani]]></content>
     </entry>
 </feed>
