@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-12T11:10:22.397Z</updated>
+    <updated>2023-08-12T12:23:29.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.ted.com/talks/george_zaidan_why_your_phone_battery_gets_worse_over_time?language=ko"/>
         <updated>2023-08-07T15:14:38.144Z</updated>
         <content type="html"><![CDATA[George Zaidan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[궁정 광대의 삶은 어땠을까요? - 베이트리체 케이. 오토(Beatrice K. Otto)]]></title>
+        <id>https://www.ted.com/talks/beatrice_k_otto_how_dangerous_was_it_to_be_a_jester?language=ko</id>
+        <link href="https://www.ted.com/talks/beatrice_k_otto_how_dangerous_was_it_to_be_a_jester?language=ko"/>
+        <updated>2023-08-12T12:23:27.028Z</updated>
+        <content type="html"><![CDATA[Beatrice K. Otto]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실명은 비극적인 양분법이 아닙니다 — 훨씬 범위가 넓습니다]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/azim_shariff_does_working_hard_really_make_you_a_good_person?language=ko"/>
         <updated>2023-07-06T07:16:40.614Z</updated>
         <content type="html"><![CDATA[Azim Shariff]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두 번째 기회' 법률이 미국의 사법 제도를 어떻게 바꿀 수 있을까요?]]></title>
-        <id>https://www.ted.com/talks/sheena_meade_how_second_chance_laws_could_transform_the_us_justice_system?language=ko</id>
-        <link href="https://www.ted.com/talks/sheena_meade_how_second_chance_laws_could_transform_the_us_justice_system?language=ko"/>
-        <updated>2023-06-25T13:22:04.054Z</updated>
-        <content type="html"><![CDATA[Sheena Meade]]></content>
     </entry>
 </feed>
