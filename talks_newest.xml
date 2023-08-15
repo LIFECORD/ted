@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-15T04:16:25.391Z</updated>
+    <updated>2023-08-15T05:14:37.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://www.ted.com/talks/susanne_buckley_zistel_what_caused_the_rwandan_genocide?language=ko"/>
         <updated>2023-07-24T12:29:23.582Z</updated>
         <content type="html"><![CDATA[Susanne Buckley-Zistel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양 전지판은 경제성이 있을까요? - 섀넌 오델(Shannon Odell)]]></title>
+        <id>https://www.ted.com/talks/shannon_odell_are_solar_panels_worth_it?language=ko</id>
+        <link href="https://www.ted.com/talks/shannon_odell_are_solar_panels_worth_it?language=ko"/>
+        <updated>2023-08-15T05:14:35.891Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 우리는 좋은 소식을 보도하는데 이토록 서툴까요?]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/joelle_rollo_koster_why_were_there_three_popes_at_the_same_time?language=ko"/>
         <updated>2023-07-17T05:15:57.432Z</updated>
         <content type="html"><![CDATA[Joëlle Rollo-Koster]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열심히 일하는 것이 당신을 좋은 사람으로 만드나요?]]></title>
-        <id>https://www.ted.com/talks/azim_shariff_does_working_hard_really_make_you_a_good_person?language=ko</id>
-        <link href="https://www.ted.com/talks/azim_shariff_does_working_hard_really_make_you_a_good_person?language=ko"/>
-        <updated>2023-07-06T07:16:40.614Z</updated>
-        <content type="html"><![CDATA[Azim Shariff]]></content>
     </entry>
 </feed>
