@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-15T19:11:09.319Z</updated>
+    <updated>2023-08-15T20:15:07.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이곳에 무언가 둘 수만 있다면 엄청난 부자가 될 수 있습니다! - 파비오 파쿠치(Fabio Pacucci) (TED Talks ─ Korean)]]></title>
@@ -101,6 +101,13 @@
         <link href="https://www.ted.com/talks/susanne_buckley_zistel_what_caused_the_rwandan_genocide?language=ko"/>
         <updated>2023-07-24T12:29:23.582Z</updated>
         <content type="html"><![CDATA[Susanne Buckley-Zistel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분의 정신을 증강하는 데 사용되는 강력하고 새로운 신경 기술 도구 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/conor_russomanno_a_powerful_new_neurotech_tool_for_augmenting_your_mind?language=ko</id>
+        <link href="https://www.ted.com/talks/conor_russomanno_a_powerful_new_neurotech_tool_for_augmenting_your_mind?language=ko"/>
+        <updated>2023-08-15T20:15:06.812Z</updated>
+        <content type="html"><![CDATA[Conor Russomanno]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양 전지판은 경제성이 있을까요? - 섀넌 오델(Shannon Odell) (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/david_biello_1816_the_year_with_no_summer?language=ko"/>
         <updated>2023-06-01T17:13:27.441Z</updated>
         <content type="html"><![CDATA[David Biello]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상이 중국의 혁신 전략에서 배울 수 있는 것 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?language=ko</id>
-        <link href="https://www.ted.com/talks/keyu_jin_what_the_world_can_learn_from_china_s_innovation_playbook?language=ko"/>
-        <updated>2023-07-11T11:13:16.156Z</updated>
-        <content type="html"><![CDATA[Keyu Jin]]></content>
     </entry>
 </feed>
