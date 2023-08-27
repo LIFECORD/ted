@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-08-27T11:10:39.654Z</updated>
+    <updated>2023-08-27T12:23:49.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -102,6 +102,13 @@
         <link href="https://www.ted.com/talks/daniel_finkel_can_you_solve_the_time_traveling_car_riddle?language=ko"/>
         <updated>2023-07-27T14:13:20.384Z</updated>
         <content type="html"><![CDATA[Daniel Finkel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구상의 생명이 당신과 나에게 적응하는 방법]]></title>
+        <id>https://www.ted.com/talks/shane_campbell_staton_how_life_on_earth_adapts_to_you_and_me?language=ko</id>
+        <link href="https://www.ted.com/talks/shane_campbell_staton_how_life_on_earth_adapts_to_you_and_me?language=ko"/>
+        <updated>2023-08-27T12:23:48.656Z</updated>
+        <content type="html"><![CDATA[Shane Campbell-Staton]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[르완다 종족 학살의 원인 - 수잔나 버클리-시스텔(Susanne Buckley-Zistel)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/cecilia_m_orphan_what_makes_a_good_college_and_why_it_matters?language=ko"/>
         <updated>2023-06-07T08:19:59.369Z</updated>
         <content type="html"><![CDATA[Cecilia M. Orphan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정신 분열로 얻은 교훈]]></title>
-        <id>https://www.ted.com/talks/andy_dunn_lessons_from_losing_my_mind?language=ko</id>
-        <link href="https://www.ted.com/talks/andy_dunn_lessons_from_losing_my_mind?language=ko"/>
-        <updated>2023-07-18T09:15:15.139Z</updated>
-        <content type="html"><![CDATA[Andy Dunn]]></content>
     </entry>
 </feed>
