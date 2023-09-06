@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-06T07:13:21.894Z</updated>
+    <updated>2023-09-06T08:18:12.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://www.ted.com/talks/andrew_leland_blindness_isn_t_a_tragic_binary_it_s_a_rich_spectrum?language=ko"/>
         <updated>2023-08-07T16:25:00.908Z</updated>
         <content type="html"><![CDATA[Andrew Leland]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[색맹 정책]]></title>
+        <id>https://www.ted.com/talks/coleman_hughes_a_case_for_color_blindness?language=ko</id>
+        <link href="https://www.ted.com/talks/coleman_hughes_a_case_for_color_blindness?language=ko"/>
+        <updated>2023-09-06T08:18:11.106Z</updated>
+        <content type="html"><![CDATA[Coleman Hughes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몰입의 상태에 도달하는 방법]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/george_zaidan_the_epidemics_that_almost_happened?language=ko"/>
         <updated>2023-06-21T03:15:28.080Z</updated>
         <content type="html"><![CDATA[George Zaidan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼잣말은 정상적인 행동일까요?]]></title>
-        <id>https://www.ted.com/talks/ted_ed_is_it_normal_to_talk_to_yourself?language=ko</id>
-        <link href="https://www.ted.com/talks/ted_ed_is_it_normal_to_talk_to_yourself?language=ko"/>
-        <updated>2023-06-01T13:18:16.061Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
 </feed>
