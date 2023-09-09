@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-09T10:13:08.478Z</updated>
+    <updated>2023-09-09T11:11:29.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -188,6 +188,13 @@
         <content type="html"><![CDATA[Carolyn Harris]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소년과 남성의 교육 위기를 해결하는 방법]]></title>
+        <id>https://www.ted.com/talks/richard_reeves_how_to_solve_the_education_crisis_for_boys_and_men?language=ko</id>
+        <link href="https://www.ted.com/talks/richard_reeves_how_to_solve_the_education_crisis_for_boys_and_men?language=ko"/>
+        <updated>2023-09-09T11:11:27.773Z</updated>
+        <content type="html"><![CDATA[Richard Reeves]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신화 속 상상의 동물 중에 누가 가장 빠를까요? - 이즐트 길레스피(Iseult Gillespie)]]></title>
         <id>https://www.ted.com/talks/iseult_gillespie_who_is_the_fastest_creature_in_mythology?language=ko</id>
         <link href="https://www.ted.com/talks/iseult_gillespie_who_is_the_fastest_creature_in_mythology?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/sascha_morrell_why_is_william_faulkner_so_difficult_to_read?language=ko"/>
         <updated>2023-06-14T06:18:14.764Z</updated>
         <content type="html"><![CDATA[Sascha Morrell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마녀를 이기고 오래된 저주를 끝낼 수 있을까요? - 단 핀켈(Dan Finkel)]]></title>
-        <id>https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko</id>
-        <link href="https://www.ted.com/talks/dan_finkel_can_you_outsmart_fate_and_break_her_ancient_curse?language=ko"/>
-        <updated>2023-06-06T11:12:22.729Z</updated>
-        <content type="html"><![CDATA[Dan Finkel]]></content>
     </entry>
 </feed>
