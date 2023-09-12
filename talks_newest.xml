@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-12T08:18:24.926Z</updated>
+    <updated>2023-09-12T09:13:59.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.ted.com/talks/carolyn_beans_which_is_better_for_you_real_meat_or_fake_meat?language=ko"/>
         <updated>2023-08-22T15:14:23.078Z</updated>
         <content type="html"><![CDATA[Carolyn Beans]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5,300년 전 의문에 쌓인 살인 - 알버트 징크(Albert Zink)]]></title>
+        <id>https://www.ted.com/talks/albert_zink_a_5_300_year_old_murder_mystery?language=ko</id>
+        <link href="https://www.ted.com/talks/albert_zink_a_5_300_year_old_murder_mystery?language=ko"/>
+        <updated>2023-09-12T09:13:58.362Z</updated>
+        <content type="html"><![CDATA[Albert Zink]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국은 제2의 내전을 향해 가고 있을까요?]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/hanako_sawada_test_yourself_can_you_tell_the_difference_between_music_and_noise?language=ko"/>
         <updated>2023-07-25T13:20:06.267Z</updated>
         <content type="html"><![CDATA[Hanako Sawada]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌리엄 포크너의 글이 읽기에 난해한 이유는 뭘까? - 사샤 모렐]]></title>
-        <id>https://www.ted.com/talks/sascha_morrell_why_is_william_faulkner_so_difficult_to_read?language=ko</id>
-        <link href="https://www.ted.com/talks/sascha_morrell_why_is_william_faulkner_so_difficult_to_read?language=ko"/>
-        <updated>2023-06-14T06:18:14.764Z</updated>
-        <content type="html"><![CDATA[Sascha Morrell]]></content>
     </entry>
 </feed>
