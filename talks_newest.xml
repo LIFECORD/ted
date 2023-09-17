@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-17T16:16:03.744Z</updated>
+    <updated>2023-09-17T17:11:24.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수면습관은 바꿀 수 있는 것인가?]]></title>
+        <id>https://www.ted.com/talks/ted_ed_can_you_change_your_sleep_schedule?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_can_you_change_your_sleep_schedule?language=ko"/>
+        <updated>2023-09-17T17:11:23.171Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해파리가 창궐하지 못하도록 막을  한 가지 방법- 마리엘라 파첼로 & 하비에르 안토니오 퀴노네스]]></title>
         <id>https://www.ted.com/talks/mariela_pajuelo_and_javier_antonio_quinones_the_one_thing_stopping_jellyfish_from_taking_over?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/carolyn_beans_food_expiration_dates_don_t_mean_what_you_think?language=ko"/>
         <updated>2023-06-20T05:14:59.881Z</updated>
         <content type="html"><![CDATA[Carolyn Beans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주로부터 온 무선 에너지로 모든 것에 전력을 공급하는 방법]]></title>
-        <id>https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?language=ko</id>
-        <link href="https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?language=ko"/>
-        <updated>2023-06-22T02:41:27.668Z</updated>
-        <content type="html"><![CDATA[Ali Hajimiri]]></content>
     </entry>
 </feed>
