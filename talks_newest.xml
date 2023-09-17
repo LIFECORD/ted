@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-17T03:14:00.324Z</updated>
+    <updated>2023-09-17T04:15:43.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -123,6 +123,13 @@
         <link href="https://www.ted.com/talks/shannon_odell_what_s_happening_to_earth_s_core?language=ko"/>
         <updated>2023-07-30T03:14:21.652Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디트로이트의 기후 위기: 어디서나 회복탄력성 있는 미래를 만드는 방법]]></title>
+        <id>https://www.ted.com/talks/anika_goss_detroit_s_climate_crisis_and_how_to_build_a_resilient_future_everywhere?language=ko</id>
+        <link href="https://www.ted.com/talks/anika_goss_detroit_s_climate_crisis_and_how_to_build_a_resilient_future_everywhere?language=ko"/>
+        <updated>2023-09-17T04:15:43.071Z</updated>
+        <content type="html"><![CDATA[Anika Goss]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동물들은 슬픔을 느낄 수 있을까요? - 바바라 제이. 킹]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/ali_hajimiri_how_wireless_energy_from_space_could_power_everything?language=ko"/>
         <updated>2023-06-22T02:41:27.668Z</updated>
         <content type="html"><![CDATA[Ali Hajimiri]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악과 소음을 구별할 수 있나요? - 하나코 사와다(Hanako Sawada)]]></title>
-        <id>https://www.ted.com/talks/hanako_sawada_test_yourself_can_you_tell_the_difference_between_music_and_noise?language=ko</id>
-        <link href="https://www.ted.com/talks/hanako_sawada_test_yourself_can_you_tell_the_difference_between_music_and_noise?language=ko"/>
-        <updated>2023-07-25T13:20:06.267Z</updated>
-        <content type="html"><![CDATA[Hanako Sawada]]></content>
     </entry>
 </feed>
