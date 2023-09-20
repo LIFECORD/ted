@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-20T12:27:48.113Z</updated>
+    <updated>2023-09-20T13:18:30.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/mariela_pajuelo_and_javier_antonio_quinones_the_one_thing_stopping_jellyfish_from_taking_over?language=ko"/>
         <updated>2023-08-30T10:14:24.207Z</updated>
         <content type="html"><![CDATA[Mariela Pajuelo and Javier Antonio Quinones]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인류의 혁신을 설명하는 '인접가능성' 이론]]></title>
+        <id>https://www.ted.com/talks/stuart_kauffman_the_adjacent_possible_and_how_it_explains_human_innovation?language=ko</id>
+        <link href="https://www.ted.com/talks/stuart_kauffman_the_adjacent_possible_and_how_it_explains_human_innovation?language=ko"/>
+        <updated>2023-09-20T13:18:29.440Z</updated>
+        <content type="html"><![CDATA[Stuart Kauffman]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악어들은 최상위 포식자로서 살아남을 수 있을까요? - 케니 쿠건]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/sally_frampton_what_did_people_do_before_anesthesia?language=ko"/>
         <updated>2023-07-20T10:16:11.298Z</updated>
         <content type="html"><![CDATA[Sally Frampton]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식품 유통기한은 여러분이 생각하는 것과 다릅니다 - 캐롤린 빈스(Carolyn Beaens)]]></title>
-        <id>https://www.ted.com/talks/carolyn_beans_food_expiration_dates_don_t_mean_what_you_think?language=ko</id>
-        <link href="https://www.ted.com/talks/carolyn_beans_food_expiration_dates_don_t_mean_what_you_think?language=ko"/>
-        <updated>2023-06-20T05:14:59.881Z</updated>
-        <content type="html"><![CDATA[Carolyn Beans]]></content>
     </entry>
 </feed>
