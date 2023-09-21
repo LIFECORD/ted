@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T14:13:32.948Z</updated>
+    <updated>2023-09-21T15:14:14.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[임신을 했는지 알고 싶다면 이 개구리를 써 보세요 - 칼리 앤 요크 (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/carly_anne_york_want_to_know_if_you_re_pregnant_use_this_frog?language=ko</id>
+        <link href="https://www.ted.com/talks/carly_anne_york_want_to_know_if_you_re_pregnant_use_this_frog?language=ko"/>
+        <updated>2023-09-21T15:14:13.060Z</updated>
+        <content type="html"><![CDATA[Carly Anne York]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수면습관은 바꿀 수 있는 것인가? (TED Talks ─ Korean)]]></title>
         <id>https://www.ted.com/talks/ted_ed_can_you_change_your_sleep_schedule?language=ko</id>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/mark_edwards_why_is_it_so_hard_to_get_effective_birth_control_in_the_us?language=ko"/>
         <updated>2023-07-21T13:17:58.602Z</updated>
         <content type="html"><![CDATA[Mark Edwards]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마취제가 발명되기 전에는 어떻게 수술을 했을까요? - 샐리 프램튼(Sally Frampton) (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/sally_frampton_what_did_people_do_before_anesthesia?language=ko</id>
-        <link href="https://www.ted.com/talks/sally_frampton_what_did_people_do_before_anesthesia?language=ko"/>
-        <updated>2023-07-20T10:16:11.298Z</updated>
-        <content type="html"><![CDATA[Sally Frampton]]></content>
     </entry>
 </feed>
