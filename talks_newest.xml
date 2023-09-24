@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks ─ Korean</title>
-    <updated>2023-09-24T04:16:09.080Z</updated>
+    <updated>2023-09-24T05:13:21.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -123,6 +123,13 @@
         <link href="https://www.ted.com/talks/garry_cooper_how_to_make_sure_materials_get_reused_again_and_again?language=ko"/>
         <updated>2023-08-07T17:12:27.934Z</updated>
         <content type="html"><![CDATA[Garry Cooper]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변화가 두려운 이유 — 그리고 변화의 잠재력을 여는 방법]]></title>
+        <id>https://www.ted.com/talks/maya_shankar_why_change_is_so_scary_and_how_to_unlock_its_potential?language=ko</id>
+        <link href="https://www.ted.com/talks/maya_shankar_why_change_is_so_scary_and_how_to_unlock_its_potential?language=ko"/>
+        <updated>2023-09-24T05:13:20.701Z</updated>
+        <content type="html"><![CDATA[Maya Shankar]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이탈리아 르네상스의 무자비한 용병들 - 스테파니 혼첼 스미스(Stephanie Honchell Smith)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko"/>
         <updated>2023-06-18T09:13:17.704Z</updated>
         <content type="html"><![CDATA[Susan G. Wardle]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국에서 효과적인 피임법을 손에 넣기가 어려운 이유]]></title>
-        <id>https://www.ted.com/talks/mark_edwards_why_is_it_so_hard_to_get_effective_birth_control_in_the_us?language=ko</id>
-        <link href="https://www.ted.com/talks/mark_edwards_why_is_it_so_hard_to_get_effective_birth_control_in_the_us?language=ko"/>
-        <updated>2023-07-21T13:17:58.602Z</updated>
-        <content type="html"><![CDATA[Mark Edwards]]></content>
     </entry>
 </feed>
