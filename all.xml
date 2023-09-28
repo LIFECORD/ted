@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-28T05:13:12.262Z</updated>
+    <updated>2023-09-28T06:19:05.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임신을 했는지 알고 싶다면 이 개구리를 써 보세요 - 칼리 앤 요크 (TED Talks ─ Korean)]]></title>
@@ -16,6 +16,13 @@
         <id>https://www.ted.com/talks/ted_ed_can_you_change_your_sleep_schedule?language=ko</id>
         <link href="https://www.ted.com/talks/ted_ed_can_you_change_your_sleep_schedule?language=ko"/>
         <updated>2023-09-17T17:11:23.171Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나쁜 습관을 고치는 것은 왜 그렇게 어려울까요? (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/ted_ed_why_is_it_so_hard_to_break_a_bad_habit?language=ko</id>
+        <link href="https://www.ted.com/talks/ted_ed_why_is_it_so_hard_to_break_a_bad_habit?language=ko"/>
+        <updated>2023-09-28T06:19:04.284Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/ian_bremmer_the_next_global_superpower_isn_t_who_you_think?language=ko"/>
         <updated>2023-07-25T13:20:06.250Z</updated>
         <content type="html"><![CDATA[Ian Bremmer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리의 뇌가 어디에서나 얼굴을 보는 이유 - 수잔 G. 워들 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko</id>
-        <link href="https://www.ted.com/talks/susan_g_wardle_seeing_things_that_aren_t_there_it_s_pareidolia?language=ko"/>
-        <updated>2023-06-18T09:13:17.704Z</updated>
-        <content type="html"><![CDATA[Susan G. Wardle]]></content>
     </entry>
 </feed>
