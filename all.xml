@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T11:12:28.591Z</updated>
+    <updated>2023-10-04T12:28:40.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임신을 했는지 알고 싶다면 이 개구리를 써 보세요 - 칼리 앤 요크 (TED Talks ─ Korean)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://www.ted.com/talks/carly_anne_york_want_to_know_if_you_re_pregnant_use_this_frog?language=ko"/>
         <updated>2023-09-21T15:14:13.060Z</updated>
         <content type="html"><![CDATA[Carly Anne York]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 검은 사각형은 왜 유명할까요? - 앨리슨 레이(Allison Leigh) (TED Talks ─ Korean)]]></title>
+        <id>https://www.ted.com/talks/allison_leigh_why_is_this_black_square_famous?language=ko</id>
+        <link href="https://www.ted.com/talks/allison_leigh_why_is_this_black_square_famous?language=ko"/>
+        <updated>2023-10-04T12:28:39.322Z</updated>
+        <content type="html"><![CDATA[Allison Leigh]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새들은 진짜가 아니다? 음모론은 어떻게 날개를 다는가 (TED Talks ─ Korean)]]></title>
@@ -248,12 +255,5 @@
         <link href="https://www.ted.com/talks/carolyn_harris_why_is_marie_antoinette_so_controversial?language=ko"/>
         <updated>2023-07-18T13:21:23.034Z</updated>
         <content type="html"><![CDATA[Carolyn Harris]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년과 남성의 교육 위기를 해결하는 방법 (TED Talks ─ Korean)]]></title>
-        <id>https://www.ted.com/talks/richard_reeves_how_to_solve_the_education_crisis_for_boys_and_men?language=ko</id>
-        <link href="https://www.ted.com/talks/richard_reeves_how_to_solve_the_education_crisis_for_boys_and_men?language=ko"/>
-        <updated>2023-09-09T11:11:27.773Z</updated>
-        <content type="html"><![CDATA[Richard Reeves]]></content>
     </entry>
 </feed>
